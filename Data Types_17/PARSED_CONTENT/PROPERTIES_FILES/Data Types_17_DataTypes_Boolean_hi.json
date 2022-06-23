@@ -1,0 +1,20 @@
+{
+	"DataTypes_Boolean_key2": "### बूलियन डेटा प्रकार\n\n\n",
+    "DataTypes_Boolean_key3": "बूलियन सभी प्रोग्रामिंग भाषाओं का एक सामान्य डेटा प्रकार है। बूलियन दो मान देता है।\n",
+    "DataTypes_Boolean_key1": "नाम: बूलियन डेटा प्रकार\nसबमिशन_टाइप: यूआरएल\n",
+    "DataTypes_Boolean_key4": "* `True` *\n",
+    "DataTypes_Boolean_key5": "* `False` *\n",
+    "DataTypes_Boolean_key6": "**उदाहरण :-**\n",
+    "DataTypes_Boolean_key7": "** `Output`: - **\n",
+    "DataTypes_Boolean_key8": "`false `\n",
+    "DataTypes_Boolean_key9": "`because empty `string` is `false``\n",
+    "DataTypes_Boolean_key10": "**उदाहरण :-**\n",
+    "DataTypes_Boolean_key11": "**`Output` :-**\n`True `\n",
+    "DataTypes_Boolean_key12": "`because any `string` is `true` except empty`\n",
+    "DataTypes_Boolean_key13": "**उदाहरण :-**\n",
+    "DataTypes_Boolean_key14": "** `Output`: - **\n",
+    "DataTypes_Boolean_key15": "`True`\n",
+    "DataTypes_Boolean_key16": "`<class bool>`\n",
+    "DataTypes_Boolean_key17": "`False`\n",
+    "DataTypes_Boolean_key18": "`<class bool>`\n"
+}
