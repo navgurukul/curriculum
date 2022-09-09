@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 2"
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -19,5 +19,14 @@
 	{
 		"component": "text",
 		"value": "Then print the sum."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "sum = 0 <br>for i in range(1,51):<br>&emsp;sum += i<br>print(sum)"
 	}
 ]

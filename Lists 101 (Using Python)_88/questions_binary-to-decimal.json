@@ -21,7 +21,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "binary_number = [1, 0, 0, 1, 1, 0, 1, 1]"
+		"value": "b_num = list(input(\"Input a binary number: \"))<br>value = 0<br>for i in range(len(b_num)):<br>&emsp;digit = b_num.pop()<br>&emsp;if digit == '1':<br>&emsp;&emsp;value = value + pow(2, i)<br>print(\"The decimal value of the number is\", value)"
 	},
 	{
 		"component": "text",
@@ -89,7 +89,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What will be the <span style=\"\">output</span> of this program? If your progrsm is <b>robust</b> then it will give invalid <span style=\"\">output</span>, otherwise it will throw an <span style=\"\">error</span>."
+		"value": "What will be the <span style=\"\">output</span> of this program? If your program is <b>robust</b> then it will give invalid <span style=\"\">output</span>, otherwise it will throw an <span style=\"\">error</span>."
 	},
 	{
 		"component": "code",
@@ -103,7 +103,7 @@
 	},
 	{
 		"component": "text",
-		"value": "- then it will give invalid output, or<br>- it will consider \"1\" as 1 ki and solve the question."
+		"value": "- then it will give invalid output, or<br>- it will consider \"1\" as 1 and solve the question."
 	},
 	{
 		"component": "text",

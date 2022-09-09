@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 2"
+		"value": "Example 2"
 	},
 	{
 		"component": "text",
@@ -12,5 +12,25 @@
 		"component": "image",
 		"value": "assets/question_images/question2-image1.png",
 		"alt": "flowchart image"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "if 1000 >= 4000:<br>&emsp;print(\"Bada ya barabar hai\")<br>else:<br>&emsp;print(\"Nahi hai\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Nahi hai"
 	}
 ]

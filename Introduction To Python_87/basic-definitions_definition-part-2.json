@@ -52,7 +52,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">file \"&lt;string&gt;\",line 1, in &lt;module&gt;</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">NameError: name 'megha' is not defined</span>"
 	},
 	{
 		"component": "text",
@@ -176,7 +176,8 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Debugs"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Debugs</span>"
+
 	},
 	{
 		"component": "text",
@@ -211,7 +212,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "num=2<br>Print (num)"
+		"value": "num=2<br>print(num)"
 	},
 	{
 		"component": "header",

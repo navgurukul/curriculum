@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "What are <span style=\"\">Variables</span> ?"
+		"value": "What are <span style=\"\">Variables</span>?"
 	},
 	{
 		"component": "text",
@@ -32,7 +32,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "variable_x=123<br>a=9999<br># Let's see what happens when we print variable_x and a.<br>print (variable_x, a)"
+		"value": "variable_x=123<br>a=9999<br># Let's see what happens when we print variable_x and a.<br>print(variable_x, a)"
 	},
 	{
 		"component": "text",
@@ -42,7 +42,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "variable_x=9.9<br># Now print variable_x to see its value.<br>print (variable_x)"
+		"value": "variable_x=9.9<br># Now print variable_x to see its value.<br>print(variable_x)"
 	},
 	{
 		"component": "text",
@@ -61,7 +61,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "a='hello world'<br>b='navgurukul'<br># Now print them to see the output.<br>print (variable_x, a, b)"
+		"value": "variable_x='hello'<br>a='world'<br>b='navgurukul'<br># Now print them to see the output.<br>print(variable_x, a, b)"
 	},
 	{
 		"component": "header",

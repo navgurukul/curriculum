@@ -1,5 +1,10 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "What is Programming?"
+	},
+	{
 		"component": "text",
 		"value": "By giving <b>instructions</b> to the computer,we can make the computers solve complex problems."
 	},

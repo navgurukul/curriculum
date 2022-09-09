@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 7"
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -68,5 +68,14 @@
 	{
 		"component": "text",
 		"value": "Study about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break statement</span> in <span style=\"\">python</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "import random<br>import math<br># Taking Inputs<br>lower = int(input(\"Enter Lower bound:- \"))<br>upper = int(input(\"Enter Upper bound:- \"))<br># generating random number between<br># the lower and upper<br>x = random.randint(lower, upper)<br>print(\"\n\tYou've only \",round(math.log(upper - lower + 1, 2)),\" chances to guess the integer!\n\")<br># Initializing the number of guesses.<br>count = 0<br># for calculation of minimum number of guesses depends upon range<br>while count < math.log(upper - lower + 1, 2):<br>&emsp;count += 1<br>&emsp;# taking guessing number as input<br>&emsp;guess = int(input(\"Guess a number:- \"))<br>&emsp;# Condition testing<br>&emsp;if x == guess:<br>&emsp;&emsp;print(\"Congratulations you did it in \",count, \" try\")<br>&emsp;&emsp;# Once guessed, loop will break<br>&emsp;&emsp;break<br>&emsp;elif x > guess:<br>&emsp;&emsp;print(\"You guessed too small!\")<br>&emsp;elif x < guess:<br>&emsp;&emsp;print(\"You Guessed too high!\")<br># If Guessing is more than required guesses,<br># shows this output.<br>if count >= math.log(upper - lower + 1, 2):<br>&emsp;print(\"\nThe number is %d\" % x)<br>print(\"\tBetter Luck Next time!\")"
 	}
 ]

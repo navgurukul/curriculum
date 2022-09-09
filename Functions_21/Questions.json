@@ -2,11 +2,11 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Pre-defined Functions Questions"
+		"value": "Pre-defined Functions Examples"
 	},
 	{
 		"component": "text",
-		"value": "Now you have to solve some questions by using the pre-define function."
+		"value": "Now you have to solve some Examples by using the pre-define function."
 	},
 	{
 		"component": "text",
@@ -20,7 +20,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "numbers = [3, 5, 7, 34, 2, 89, 2, 5]"
+		"value": "numbers = [3, 5, 7, 34, 2, 89, 2, 5]<br>#Using max inbuilt function to print max value among the list numbers<br>print(max(numbers))"
 	},
 	{
 		"component": "text",
@@ -38,7 +38,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "numbers = [1, 2, 3, 4, 5]"
+		"value": "numbers = [1, 2, 3, 4, 5]<br>#printing sum of all the numbers from list<br>print(sum(numbers))"
 	},
 	{
 		"component": "text",
@@ -56,7 +56,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]"
+		"value": "unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]<br>#Doing sorting of all the elements present in the list using sorted inbuilt function<br>print(sorted(unorder_list))"
 	},
 	{
 		"component": "text",
@@ -78,7 +78,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "reverse_list = [\"Z\", \"A\", \"A\", \"B\", \"E\", \"M\", \"A\", \"R\", \"D\"]"
+		"value": "reverse_list = [\"Z\", \"A\", \"A\", \"B\", \"E\", \"M\", \"A\", \"R\", \"D\"]<br>#Using reverse function we are doing reversing of our list<br>reverse_list.reverse()<br>print(reverse_list)"
 	},
 	{
 		"component": "text",
@@ -100,7 +100,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "list = [8, 6, 4, 8, 4, 50, 2, 7]"
+		"value": "list = [8, 6, 4, 8, 4, 50, 2, 7]<br>#Using min inbuilt function we are printing minimum value from list<br>print(min(list))"
 	},
 	{
 		"component": "text",

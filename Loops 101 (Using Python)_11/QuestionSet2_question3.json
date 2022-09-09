@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 3"
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -23,5 +23,14 @@
 	{
 		"component": "text",
 		"value": "In the final line, <b>Total Sum: 417</b> will be printed. This will be printed because <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum of **10+16+9+10+56+78+98+43+21+76**</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">417</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "i = 0 # to iterate the loop<br>s = 0 # initializing the value to 0 to calculate the sum<br>n=int(input(\"Enter any number:\"))# this is the value given by user<br>while i < n:<br>&emsp;a = int(input(\"Enter any number:\")) # taking input as integer<br>&emsp;s = s + a # modifying the variable to calculate the sum after every input<br>&emsp; i += 1 # incrementing the loop counter<br>print(\"The sum is = \",s)"
 	}
 ]
