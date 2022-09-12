@@ -1,4 +1,10 @@
-[
+[	
+	
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 2<br><br>on the top of the page"
+	},
 	{
 		"component": "text",
 		"value": "Write a <span style=\"\">code</span>, that counts the numbers between 20 and 40 and then print its count."

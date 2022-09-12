@@ -1,5 +1,10 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 3"
+	},
+	{
 		"component": "text",
 		"value": "Write a <span style=\"\">code</span> that prints the maximum in this list."
 	},
