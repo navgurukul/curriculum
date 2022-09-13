@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "[<br>&emsp; {\"first\":\"1\"}, <br>&emsp; {\"second\": \"2\"}, <br>&emsp; {\"third\": \"1\"}, <br>&emsp; {\"four\": \"5\"}, <br>&emsp; {\"five\":\"5\"}, <br>&emsp; {\"six\":\"9\"},<br>&emsp; {\"seven\":\"7\"}<br>]"
+		"value": "test_list = [<br>&emsp;{\"first\" : \"1\"},<br>&emsp;{\"second\" : \"2\"},<br>&emsp;{\"third\" : \"1\"},<br>&emsp;{ \"four\" : \"5\"},<br>&emsp;{\"five\" : \"5\"},<br>&emsp;{\"six\":\"9\"},<br>&emsp;{\"seven\":\"7\"}<br>]<br>res = list(set(val for dic in test_list for val in dic.values()))<br>print(\"The unique values in list are : \" + str(res))"
 	},
 	{
 		"component": "header",

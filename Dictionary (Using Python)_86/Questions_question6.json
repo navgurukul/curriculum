@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "dic={<br>&emsp;“ball”:”red”,<br>&emsp;”bat”:4,<br>&emsp;”wickets”:8,<br>&emsp;”ball”green,<br>&emsp;”bat”:3<br>&emsp;}"
+		"value":"dict1={<br>&emsp;\"ball\":\"red\",<br>&emsp;\"bat\":4,<br>&emsp;\"wickets\":8,<br>&emsp;\"ball\":\"green\",<br>&emsp;\"bat\":3<br>}<br>temp = [] <br>res = dict() <br>for key, val in dict1.items(): <br>&emsp;if val not in temp: <br>&emsp;&emsp;temp.append(val) <br>res[key] = val <br>print(res)"
 	},
 	{
 		"component": "header",

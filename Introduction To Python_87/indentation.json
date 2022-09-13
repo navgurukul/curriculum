@@ -50,7 +50,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "a = 10<br>if a * 2 == 20:<br>&emsp;print( )<br>else:<br>&emsp;print(\"Variable a when multiplied by 2 does not give 20.\")"
+		"value": "a = 10<br>if a * 2 == 20:<br>&emsp;print(\"Variable a when multiplied by 2 gives 20.\")<br>else:<br>&emsp;print(\"Variable a when multiplied by 2 does not give 20.\")"
 	},
 	{
 		"component": "text",
