@@ -15,7 +15,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "name=[ 'n', 'i', 't', 'i', 'n' ]"
+		"value": "# initializing list<br>test_list = ['n','i','t','i','n']<br># Reversing the list<br>reverse = test_list[::-1]<br># checking if palindrome<br>res = test_list == reverse<br># printing result<br>if(res):<br>&emsp;print(\"Haan! palindrome hai\")<br>else:<br>&emsp;print(\"Nahi! palindrome nahi h\")"
 	},
 	{
 		"component": "text",

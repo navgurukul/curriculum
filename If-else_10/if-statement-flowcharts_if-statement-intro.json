@@ -51,7 +51,7 @@
 	},
 	{
 		"component": "image",
-		"value": "assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg",
+		"value": "assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg ",
 		"alt": "whatsapp-ticks"
 	},
 	{
@@ -128,10 +128,10 @@
 			{
 				"header": "<b>Image</b>",
 				"items": [
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-process.png\" alt=\"Process Box\" />",
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-start.png\" alt=\"Flowchart Start Box\" />",
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-if-box.png\" alt=\"Condition Box\" />",
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-arrow.png\" alt=\"Condition Box\" />"
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-process.png\" alt=\"Process Box\" /> ",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-start.png\" alt=\"Flowchart Start Box\" /> ",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-if-box.png\" alt=\"Condition Box\" /> ",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-arrow.png\" alt=\"Condition Box\" /> "
 				]
 			},
 			{
@@ -156,7 +156,7 @@
 	},
 	{
 		"component": "image",
-		"value": "assets/theory_images/if-statement-intro_fb-login-flowchart.png",
+		"value": "assets/theory_images/if-statement-intro_fb-login-flowchart.png ",
 		"alt": "Facebook Login Flowchart"
 	}
 ]

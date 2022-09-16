@@ -7,7 +7,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]"
+		"value": "# List of numbers<br>list1 = [50, 40, 23, 70, 56, 12, 5, 10, 7]<br><br># Removing duplicates from the list<br>list2 = list(set(list1))<br><br># Sorting the  list<br>list2.sort()<br><br># Printing the second last element<br>print(\"Second largest element is:\", list2[-2])"
 	},
 	{
 		"component": "text",

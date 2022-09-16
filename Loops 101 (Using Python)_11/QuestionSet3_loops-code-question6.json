@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 6"
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -11,5 +11,14 @@
 	{
 		"component": "text",
 		"value": "<b>1, -2, 3, -4, 5, -6 ..99, -100</b>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "i=1<br>while(i<=100):   # i starts from 1 and ends on 100 <br>&emsp;if(i%2==0):  # checking for even numbers<br>&emsp;&emsp;print(i*-1)   <br>&emsp;else:  # else part is executed when if  condition is wrong<br>&emsp;&emsp;print(i)  <br>&emsp;i+=1       # incrementing i by 1"
 	}
 ]

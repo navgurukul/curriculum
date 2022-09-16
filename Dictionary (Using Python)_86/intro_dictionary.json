@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Dictionary"
+		"value": "Introduction to Dictionary : "
 	},
 	{
 		"component": "header",
@@ -11,7 +11,25 @@
 	},
 	{
 		"component": "text",
-		"value": "To create a dictionary we put in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">key value pairs</span> in a comma separated form inside <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">curly brackets { }</span> and use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">colon \":\"</span> to assign values to <span style=\"\">keys`</span>."
+		"value": "Dictionaries are used to store data values in key: value pairs.<br>A dictionary is a collection which is ordered, changeable and does not allow duplicates."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "thisdict={\"brand\" : \"Ford\" , \"model\": \"Mustang\" ,\"year\" : 1964}<br>print(thisdict)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "{'brand': 'Ford', 'model ': 'Mustang', 'year': 1964}"
 	},
 	{
 		"component": "header",
@@ -39,7 +57,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<type 'dict'>"
+		"value": "< type 'dict'> "
 	},
 	{
 		"component": "header",

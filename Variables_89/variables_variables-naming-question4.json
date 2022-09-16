@@ -2,7 +2,12 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question"
+		"value": "Variables naming Example-4"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -27,5 +32,32 @@
 			"type": "number",
 			"value": 3
 		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"Varx = \"hii\"<br>vaRx = 56.76<br>print(Varx)<br>print(vaRx)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"hi<br>56.76"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Explanation</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"Varx and vaRx are not same because the letters in them have different casses."
 	}
 ]

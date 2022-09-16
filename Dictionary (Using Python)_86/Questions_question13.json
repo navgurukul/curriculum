@@ -2,11 +2,11 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 13"
+		"value": "Example 13"
 	},
 	{
 		"component": "text",
-		"value": "Write a program to print the top 3 highest values of a given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span>."
+		"value": "Write a program to print the top 3 highest keys of a given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span>."
 	},
 	{
 		"component": "header",

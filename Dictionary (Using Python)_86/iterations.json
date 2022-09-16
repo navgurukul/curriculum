@@ -17,7 +17,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gujarat Maharashtra Rajasthan Bihar</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gujarat<br>Maharashtra<br>Rajasthan<br>Bihar</span>"
 	},
 	{
 		"component": "header",
@@ -42,7 +42,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gandhinagar&lt;br&gt;        Mumbai&lt;br&gt;        Jaipur&lt;br&gt;        Patna</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gandhinagar<br>Mumbai<br>Jaipur<br>Patna</span>"
 	},
 	{
 		"component": "header",
@@ -62,7 +62,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">17&lt;br&gt;Bijender&lt;br&gt;10th&lt;br&gt;</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">17<br>Bijender<br>10th</span>"
 	},
 	{
 		"component": "header",
@@ -86,7 +86,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">('rating', 7.5)&lt;br&gt;('hero', 'Vijay')&lt;br&gt;('name', 'Puli')&lt;br&gt;</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">('rating', 7.5)<br>('hero', 'Vijay')<br>('name', 'Puli')</span>"
 	},
 	{
 		"component": "header",

@@ -18,7 +18,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Please download the application and sign in. Spend some time and explore the <a href=\"https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US,\">application</a>."
+		"value": "Please download the application and sign in. Spend some time and explore the <a href=\"https://play.google.com/store/apps/details?id=org.merakilearn\">application</a>."
 	},
 	{
 		"component": "text",
@@ -47,21 +47,21 @@
 			{
 				"header": "Class Name",
 				"items": [
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3246\">Introduction</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3247\">Food</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3249\">Family</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3250\">Other Activities</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3248\">Area</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3268\">Travel/Transport</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3270\">Movies</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3269\">Other Parts of India</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3271\">Festivals you celebrate</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3272\">Seasons/Subject Predicates</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3273\">Tenses</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3274\">Hobbies/ Similies-Metaphors</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3275\">Concept of Giving</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3276\">Teachers/ Story Comprehension</a>",
-					"<a href=\"https://www.merakilearn.org/course/125/exercise/3277\">Goals/ Reflections</a>"
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/1\">Introduction</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/2\">Food</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/3\">Family</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/4\">Other Activities</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/5\">Area</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/6\">Travel/Transport</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/7\">Movies</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/8\">Other Parts of India</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/9\">Festivals you celebrate</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/10\">Seasons/Subject Predicates</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/11\">Tenses</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/12\">Hobbies/ Similies-Metaphors</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/13\">Concept of Giving</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/14\">Teachers/ Story Comprehension</a>",
+					"<a href=\"https://www.merakilearn.org/course-content/2/22/15\">Goals/ Reflections</a>"
 				]
 			},
 			{

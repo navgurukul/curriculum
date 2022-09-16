@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 1"
+		"value": "Example 1"
 	},
 	{
 		"component": "text",
@@ -16,6 +16,26 @@
 		"component": "image",
 		"value": "assets/question_images/question1-image1.png",
 		"alt": "flowchart image"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# checking condition<br>if 100 > 99:<br>&emsp;print(\"Bada hai\")<br>else:<br>&emsp;print(\"Chota hai\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Bada hai"
 	},
 	{
 		"component": "text",

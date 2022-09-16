@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 5"
+		"value": "Example 5"
 	},
 	{
 		"component": "text",
@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "list1=[“one”,”two”,”three”,”four”,”five”]<br><br>list2=[1,2,3,4,5,]"
+		"value": "list1=[“one”,”two”,”three”,”four”,”five”]<br>list2=[1,2,3,4,5,]<br>my_dict={}<br>for i in range(len(list2)):<br>&emsp;my_dict.update({list1[i]:list2[i]})<br>print(my_dict)"
 	},
 	{
 		"component": "header",

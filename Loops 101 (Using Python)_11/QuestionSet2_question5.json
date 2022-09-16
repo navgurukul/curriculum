@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 5"
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -18,7 +18,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Number of <span style=\"\">inputs</span> to be taken?  6<br>Enter a number &gt; 10<br>Enter a number &gt; 1<br>Enter a number &gt; 56<br>Enter a number &gt; 89<br>Enter a number &gt; 11<br>Enter a number &gt; 12<br>Sum: 179"
+		"value": "Number of <span style=\"\">inputs</span> to be taken :  6<br>Enter a number &gt; 10<br>Enter a number &gt; 1<br>Enter a number &gt; 56<br>Enter a number &gt; 89<br>Enter a number &gt; 11<br>Enter a number &gt; 12<br>Sum: 179"
 	},
 	{
 		"component": "text",
@@ -34,10 +34,19 @@
 	},
 	{
 		"component": "text",
-		"value": "Number of <span style=\"\">inputs</span> to be taken?' 10<br>Enter a number &gt; 11<br>Enter a number &gt; 7<br>Enter a number &gt; 14<br>Enter a number &gt; 76<br>Enter a number &gt; 21<br>Enter a number &gt; 34<br>Enter a number &gt; 86<br>Enter a number &gt; 5<br>Enter a number &gt; 78<br>Enter a number &gt; 64<br>Sum: 396"
+		"value": "Number of <span style=\"\">inputs</span> to be taken : 10<br>Enter a number &gt; 11<br>Enter a number &gt; 7<br>Enter a number &gt; 14<br>Enter a number &gt; 76<br>Enter a number &gt; 21<br>Enter a number &gt; 34<br>Enter a number &gt; 86<br>Enter a number &gt; 5<br>Enter a number &gt; 78<br>Enter a number &gt; 64<br>Sum: 396"
 	},
 	{
 		"component": "text",
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Sum 396</span> is because the sum of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">11+7+14+76+21+34+86+5+78+64</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">396</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "i = 0 # to iterate the loop<br>s = 0 # initializing the value to 0 to calculate the sum<br>n=int(input(\"Enter any number:\"))# this is the value given by user<br>while i < n:<br>&emsp;a = int(input(\"Enter any number:\")) # taking input as integer<br>&emsp;s = s + a # modifying the variable to calculate the sum after every input             <br>&emsp;i += 1 # incrementing the loop counter<br>print(\"The sum is = \",s)"
 	}
 ]

@@ -10,7 +10,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Question 1</b>"
+		"value": "<b>Example 1</b>"
 	},
 	{
 		"component": "code",
@@ -20,22 +20,46 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Question 2</b>"
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "25"
+	},
+	{
+		"component": "text",
+		"value": "<b>Example 2</b>"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "daf welcome():<br>&emsp;print(\"Welcome to function\")<br>welcome()"
+		"value": "def welcome():<br>&emsp;print(\"Welcome to function\")<br>welcome()"
 	},
 	{
 		"component": "text",
-		"value": "<b>Question 3</b>"
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "Welcome to function"
+	},
+	{
+		"component": "text",
+		"value": "<b>Example 3</b>"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "<br>isEven()<br><br>def isEven():<br>&emsp;if(12%2==0):<br>&emsp;&emsp;print(\"Even Number\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Old Number\")"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "Will give us an error as here we are calling function before defining it"
 	}
 ]

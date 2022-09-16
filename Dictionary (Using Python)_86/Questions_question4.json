@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 4"
+		"value": "Example 4"
 	},
 	{
 		"component": "text",
@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "other",
 		"title": "",
-		"value": "&emsp;   Dic= {<br>&emsp;&emsp;1: 'NAVGURUKUL',<br>&emsp;&emsp;2: 'IN',  <br>&emsp;&emsp;  3:{&emsp;<br>&emsp;&emsp;&emsp; 'A' : 'WELCOME',<br>&emsp;&emsp;&emsp; 'B' : 'To',<br>&emsp;&emsp;&emsp; 'C' : 'DHARAMSALA'<br>&emsp;&emsp;&emsp;}<br>&emsp;&emsp;}"
+		"value":"dic={<br>&emsp;1:'Navgurukul',<br>&emsp;2:'IN',<br>&emsp;3:{<br>&emsp;&emsp;'A':'Welcome',<br>&emsp;&emsp;'B':'TO',<br>&emsp;&emsp;'C':'Dharamshala'<br>&emsp;}<br>}<br>del dic[3]['A']<br>print(dic)"
 	},
 	{
 		"component": "header",

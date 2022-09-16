@@ -1,12 +1,17 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 3"
+	},
+	{
 		"component": "text",
 		"value": "Ek program likhiye jo ki dictionaries ki values ka sum print kare."
 	},
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "header",
@@ -17,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "my_dict = {<br>&emsp;  'data1':100,<br>&emsp;  'data2': -54,<br>&emsp;  'data3': 247<br>&emsp;  }"
+		"value": "dict1={<br>&emsp;'data1':100,<br>&emsp;'data2':54,<br>&emsp;'data3':248}<br>sum=0<br>for i in dict1.values():<br>&emsp;sum=sum+i<br>print(sum)"
 	},
 	{
 		"component": "header",

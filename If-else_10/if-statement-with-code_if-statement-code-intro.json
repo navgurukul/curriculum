@@ -140,7 +140,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "day = input(\"Din enter karo> \")<br>meal = input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\"<br>&emsp;# code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>&emsp;if meal == \"breafast\":<br>&emsp;&emsp;print(\"Poha\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Rajma Chawal\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Roti Sabzi\")<br>elif day == \"tuesday\":<br>&emsp;if meal == \"breakfast\":<br>&emsp;&emsp;print(\"Poori Sabzi\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Thukpa\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Chicken Chawal\")<br>else:<br>&emsp;print(\"Aur kisi bhi din hum daal roti sabzi khaynege.\")"
+		"value": "day = input(\"Din enter karo> \")<br>meal = input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\":<br>&emsp;# code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>&emsp;if meal == \"breafast\":<br>&emsp;&emsp;print(\"Poha\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Rajma Chawal\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Roti Sabzi\")<br>elif day == \"tuesday\":<br>&emsp;if meal == \"breakfast\":<br>&emsp;&emsp;print(\"Poori Sabzi\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Thukpa\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Chicken Chawal\")<br>else:<br>&emsp;print(\"Aur kisi bhi din hum daal roti sabzi khaynege.\")"
 	},
 	{
 		"component": "text",

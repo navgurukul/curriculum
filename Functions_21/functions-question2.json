@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 2"
+		"value": "Function Example 2"
 	},
 	{
 		"component": "text",
@@ -17,5 +17,15 @@
 		"type": "python",
 		"title": "",
 		"value": "# write your function here<br><br>#  -output <br># My name is Rishabh..<br># I am the co-founder of NavGurukul."
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def print_lines(name,founder):<br>&emsp;#printing values that we got from function calling<br>&emsp;print(\"My name is\",name)<br>&emsp;print(\"I am the co-founder of\",founder)<br>#calling function by passing arguments into it<br>print_lines(\"Rishabh\",\"NavGurukul\")"
 	}
 ]

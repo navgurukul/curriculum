@@ -7,7 +7,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "places=[\"delhi\", \"gujrat\", \"rajasthan\", \"punjab\", \"kerala\"]"
+		"value": "places=[\"delhi\", \"gujrat\", \"rajasthan\", \"punjab\", \"kerala\"]<br>print(places.reverse())"
 	},
 	{
 		"component": "text",

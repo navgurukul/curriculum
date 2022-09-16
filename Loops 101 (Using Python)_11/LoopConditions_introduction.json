@@ -16,7 +16,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 1<br>while i < 100:<br>  print(i)<br>  i = i + 1"
+		"value": "i = 1<br>while i < 100:<br>&emsp;print(i)<br>&emsp;i = i + 1"
 	},
 	{
 		"component": "text",
@@ -72,7 +72,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 1<br>while i <= 10:<br>print(i)<br>i = i + 1"
+		"value": "i = 1<br>while i <= 10:<br>&emsp;print(i)<br>&emsp;i = i + 1"
 	},
 	{
 		"component": "text",
@@ -91,7 +91,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 1<br>while i != 10:<br>print(i)<br>i = i + 1"
+		"value": "i = 1<br>while i != 10:<br>&emsp;print(i)<br>&emsp;i = i + 1"
 	},
 	{
 		"component": "text",
@@ -110,7 +110,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 1<br>while i < 100:<br>  print(i)<br>  i = i + 1"
+		"value": "i = 1<br>while i < 100:<br>&emsp;print(i)<br>&emsp;i = i + 1"
 	},
 	{
 		"component": "text",
@@ -166,7 +166,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 1<br>while i <= 10:<br>print(i)<br>i = i + 1"
+		"value": "i = 1<br>while i <= 10:<br>&emsp;print(i)<br>&emsp;i = i + 1"
 	},
 	{
 		"component": "text",
@@ -185,6 +185,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 1<br>while i != 10:<br>print(i)<br>i = i + 1"
+		"value": "i = 1<br>while i != 10:<br>&emsp;print(i)<br>&emsp;i = i + 1"
 	}
 ]

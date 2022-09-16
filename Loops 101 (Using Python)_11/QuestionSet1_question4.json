@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 4"
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -37,5 +37,14 @@
 	{
 		"component": "text",
 		"value": "You can use the above <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hint</span> to write the program."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value":"i=1<br>while(i<=100):<br>&emsp;if(i%2==0):<br>&emsp;&emsp;print(i*-1)<br>&emsp;else:<br>&emsp;&emsp;print(i)<br>&emsp;i+=1"
 	}
 ]

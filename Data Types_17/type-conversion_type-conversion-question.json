@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Exercise."
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -64,5 +64,14 @@
 	{
 		"component": "text",
 		"value": "<span style=\"\">Upload</span> the <span style=\"\">code</span> of all the parts of this question by writing it in a single <span style=\"\">python</span> <span style=\"\">file</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"var12 = \"my name\"<br>var13 = float(var12)<br>var23 = 234.82<br>var24 = int(var23)<br>var34 = 234<br>var35 = str(var34)<br>var45 = 234.45<br>var46 = str(var45)<br>var56 = \"school\"<br>var57 = int(var56)"
 	}
 ]
