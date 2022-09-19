@@ -6,6 +6,11 @@
 		"value": "Example 2"
 	},
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example Set 1"
+	},
+	{
 		"component": "text",
 		"value": "Write a <span style=\"\">code</span>, that counts the numbers between 20 and 40 and then print its count."
 	},

@@ -7,7 +7,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Program"
+		"value": "<span style=\"\">Program</span> :-"
 	},
 	{
 		"component": "text",
@@ -16,7 +16,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -62,7 +62,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Programming"
+		"value": "<span style=\"\">Programming</span> :-"
 	},
 	{
 		"component": "text",
@@ -71,7 +71,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "text",
@@ -84,7 +84,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :"
 	},
 	{
 		"component": "code",
@@ -156,7 +156,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "text",
@@ -165,7 +165,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -213,7 +213,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "text",
