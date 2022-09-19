@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Examplle 5"
+		"value": "Example 5"
 	},
 	{
 		"component": "text",
@@ -12,6 +12,26 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def distance(kms):<br>&emsp;&emsp;if kms < 20:<br>&emsp;&emsp;&emsp;print(\"close\")<br>&emsp;&emsp;elif kms < 50:<br>&emsp;&emsp;&emsp;print(median)<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print(far)<br>&emsp;distance(20,30)"
+		"value": "def distance(kms):<br>&emsp;&emsp;if kms < 20:<br>&emsp;&emsp;&emsp;print(\"close\")<br>&emsp;&emsp;elif kms < 50:<br>&emsp;&emsp;&emsp;print(\"median\")<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print(far)<br>&emsp;distance(20,30)"
+	},
+	{
+		"component":"header",
+		"variant":3,
+		"value":"Output :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def distance(kms):<br>&emsp;&emsp;if kms < 20:<br>&emsp;&emsp;&emsp;print(\"close\")<br>&emsp;&emsp;elif kms < 50:<br>&emsp;&emsp;&emsp;print(\"median\")<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print(\"far\")<br>&emsp;distance(20)"
+	},
+	{
+		"component":"header",
+		"variant":3,
+		"value":"Solution-"
+	},
+	{
+		"component":"text",
+		"value":"median"
 	}
 ]

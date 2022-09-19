@@ -27,5 +27,14 @@
 		"type": "python",
 		"title": "",
 		"value": "def print_lines(name,founder):<br>&emsp;#printing values that we got from function calling<br>&emsp;print(\"My name is\",name)<br>&emsp;print(\"I am the co-founder of\",founder)<br>#calling function by passing arguments into it<br>print_lines(\"Rishabh\",\"NavGurukul\")"
+	},
+	{
+		"component":"header",
+		"variant":3,
+		"value":"Solution :-"
+	},
+	{
+		"component":"text",
+		"value":"My name is Rishabh<br> I am the co-founder of Nav Gurukul"
 	}
 ]

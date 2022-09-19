@@ -128,6 +128,15 @@
 		"value": "def calculator(number_x,number_y,operation):<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;print(number_x*number_y)<br>&emsp;else:<br>&emsp;&emsp;print(\"invalid request\")<br>calculator(14,2,\"add\")"
 	},
 	{
+		"component":"header",
+		"variant":3,
+		"value":"Output :-"
+	},
+	{
+		"component":"text",
+		"value":"16"
+	},
+	{
 		"component": "header",
 		"variant": 3,
 		"value": "Example (Part 2)"
@@ -208,13 +217,12 @@
 		"value": "def calculator(number_x,number_y,operation):<br>&emsp;l=[]<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;for i in range(len(number_x)):<br>&emsp;&emsp;&emsp;mul=number_x[i]*number_y[i]<br>&emsp;&emsp;&emsp;l.append(mul)<br>&emsp;&emsp;print(l)<br>&emsp;else:print(\"invalid request\")<br>l1=[10,20,30,40]<br>l2=[50,60,70,80]<br>calculator(l1,l2,\"multiply\")"
 	},
 	{
-		"component": "text",
-		"value": "Here the value should be <i>multiple_list</i> :"
+		"component":"header",
+		"variant":3,
+		"value":"Output :-"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "[10, 200, 150, 100]"
 	},
 	{

@@ -68,5 +68,14 @@
 		"type": "python",
 		"title": "",
 		"value": "def fun(l1,l2):<br>#setting range till the length of l1<br>for i in range(len(l1)):<br>&emsp;sum=l1[i]+l2[i]<br>&emsp;print(sum)<br>#passing two list as an arguments to our function<br>list1=[10,20,30]<br>list2=[40,50,60]<br>fun(list1,list2)"
+	},
+	{
+		"component":"header",
+		"variant":3,
+		"value":"Output :-"
+	},
+	{
+		"component":"text",
+		"value":"50<br>70<br>90"
 	}
 ]
