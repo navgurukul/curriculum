@@ -35,7 +35,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Sample <span style=\"\">Input</span>"
 	},
 	{
@@ -46,7 +46,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Sample <span style=\"\">Output</span>"
 	},
 	{

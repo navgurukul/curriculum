@@ -40,11 +40,20 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "<span style=\"\">Solution</span> :-"
+		"value": "<span style=\"\">Program</span> :-"
 	},
 	{
 		"component":"text",
-		"value":"<br>a=input(\"enter the  first name=\")<br>b=input(\"enter the last name=\")<br>add=a+b<br>print(add)"
+		"value":"a=input(\"enter first value=\")<br>b=input(\"enter second value=\")<br>add=a+b<br>print(add)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "If user enter a = hii and b = sam ,  then output should be hiisam."
 	},
 	{
 		"component": "header",
@@ -78,11 +87,11 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "<span style=\"\">Solution</span> :-"
+		"value": "<span style=\"\">Program -</span> :-"
 	},
 	{
 		"component":"text",
-		"value":"a=int(input(\"enter the first name=\"))<br>b=input(\"enter the last name=\")<br>add=a+b<br>print(add)"
+		"value":"a=int(input(\"enter first value=\"))<br>b=input(\"enter second value=\")<br>add=a+b<br>print(astr"
 	},
 	{
 		"component": "header",
@@ -91,6 +100,6 @@
 	},
 	{
 		"component":"text",
-		"value":"TypeError: unsupported operand type(s) for +: 'int' and 'str'"
+		"value":"TypeError: can only concatenate str (not 'int') to str"
 	}
 ]

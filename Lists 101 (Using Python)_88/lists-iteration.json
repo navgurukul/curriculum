@@ -1,7 +1,7 @@
 [
 	{
 		"component": "header",
-		"variant": 2,
+		"variant": 1,
 		"value": "To iterate over the list"
 	},
 	{
@@ -18,7 +18,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Iterate on your own contact list"
 	},
 	{
@@ -37,7 +37,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "To iterate over the names of students list"
 	},
 	{
@@ -63,7 +63,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Now iterate over the names of your friends list"
 	},
 	{
@@ -75,7 +75,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Out of them, the friend sitting nearest to you"
 	},
 	{
@@ -157,7 +157,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example :-"
 	},
 	{
@@ -206,7 +206,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Question"
 	},
 	{

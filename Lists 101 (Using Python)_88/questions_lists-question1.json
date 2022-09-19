@@ -3,7 +3,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example 2<br><br>on the top of the page"
+		"value": "Example 2"
 	},
 	{
 		"component": "text",

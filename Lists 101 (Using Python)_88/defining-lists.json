@@ -10,7 +10,7 @@
 		},
 		{
 			"component": "header",
-			"variant": 3,
+			"variant": 2,
 			"value": "Some Examples"
 		},
 		{
@@ -90,7 +90,7 @@
 		},
 		{
 			"component": "header",
-			"variant": 3,
+			"variant": 1,
 			"value": "Exercises"
 		},
 		{

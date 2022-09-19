@@ -12,21 +12,12 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65, 76],<br>&emsp;[95, 45, 78, 52, 49]<br>]"
+		"value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65, 76],<br>&emsp;[95, 45, 78, 52, 49]<br>]<br>for i in range (3):<br>&emsp;totalMarks=0<br>&emsp;for j in range (5):<br>&emsp;&emsp;totalMarks=  totalMarks+marks[i][j]<br>avgMarks=totalMarks/5<br>print('Average of',str(i+1),'year -',int(avgMarks))"
 	},
 	{
 		"component": "text",
 		"value": "This is the list of marks of a student for the last three years. You have to calculate the average marks for each year.<br>Like, for the above list, the <span style=\"\">output</span> should be as follows:- <br>   Average of 1 year  - 84<br>   Average of 2 year  - 80<br>   Average of 3 year  - 63"
 	},
-	{
-		"component": "header",
-		"variant": 4,
-		"value": "<span style=\"\">Solution</span> :-"
-	},
-	{
-        "component": "text",
-        "value": "for i in range (3):<br>&emsp;totalMarks=0<br>for j in range (5):<br>&emsp;totalMarks=  totalMarks+marks[i][j]<br>avgMarks=totalMarks/5<br> print('Average of',str(i+1),'year -',int(avgMarks))"
-    },
 	{
 		"component": "header",
 		"variant": 3,
