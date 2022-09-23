@@ -61,7 +61,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 1 :-"
 	},
 	{
 		"component": "code",
@@ -90,7 +90,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 2 :-"
 	},
 	{
 		"component": "code",
@@ -119,7 +119,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 3 :-"
 	},
 	{
 		"component": "code",
@@ -137,8 +137,7 @@
 		"value": "6"
 	},
 	{
-		"component": "header",
-		"variant": 4,
+		"component": "text",
 		"value": "Now you know how ARITHMATIC <span style=\"\">OPERATORS</span> work and how do we get <span style=\"\">output</span> in <span style=\"\">python</span>. Do you know how the computer gives us the <span style=\"\">output</span>?"
 	},
 	{
@@ -157,7 +156,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 4 :-"
 	},
 	{
 		"component": "code",
@@ -186,7 +185,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 5 :-"
 	},
 	{
 		"component": "code",
@@ -215,7 +214,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 6 :-"
 	},
 	{
 		"component": "code",
@@ -244,7 +243,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 7 :-"
 	},
 	{
 		"component": "code",

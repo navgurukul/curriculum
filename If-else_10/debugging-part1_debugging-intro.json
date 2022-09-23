@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "What is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debugging</span> ?"
+		"value": "WHAT IS DEBUGGING?"
 	},
 	{
 		"component": "image",
@@ -12,6 +12,11 @@
 	{
 		"component": "text",
 		"value": "We have learned how to write a <span style=\"\">code</span>. When we write a <span style=\"\">code</span>, many times the <span style=\"\">code</span> does not run because of our mistakes. Sometimes we need to work with <span style=\"\">code</span> written by someone else. In such cases, we might need to correct the mistakes within the <span style=\"\">code</span>. This process is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debugging</span>. Try to run the <span style=\"\">code</span> given below:"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 1</span> :-"
 	},
 	{
 		"component": "code",
@@ -24,10 +29,13 @@
 		"value": "When we try to run the <span style=\"\">code</span>, we see some <span style=\"\">error</span> message as below:"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "<ipython-input-1-2a33fa4e8a92> in <module>()<br>&emsp;  1 number1 = 234<br>----> 2 print(numer1)<br><br>NameError: name 'numer1' is not defined"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "in ()<br>&emsp;  1 number1 = 234<br>----> 2 print(numer1)<br><br>NameError: name 'numer1' is not defined"
 	},
 	{
 		"component": "text",
@@ -42,13 +50,13 @@
 		"value": "Once this is corrected, the program will run."
 	},
 	{
-		"component": "header",
-		"variant": 3,
-		"value": "More problems"
-	},
-	{
 		"component": "text",
 		"value": "Try to find out the <span style=\"\">error</span> from the below program."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 2</span> :-"
 	},
 	{
 		"component": "code",
@@ -61,10 +69,13 @@
 		"value": "<span style=\"\">Python</span> will show the following <span style=\"\">error</span>:"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "<ipython-input-2-56b79ffda8bc> in <module>()<br>&emsp;  1 cnumber1 = 234<br>&emsp;  2 number2 = \"1\"<br>----> 3 print(number1 + number2)<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "in ()<br>&emsp;  1 cnumber1 = 234<br>&emsp;  2 number2 = \"1\"<br>----> 3 print(number1 + number2)<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
 	},
 	{
 		"component": "text",
