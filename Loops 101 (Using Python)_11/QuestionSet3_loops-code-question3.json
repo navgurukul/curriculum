@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example"
+		"value": "Example 3"
 	},
 	{
 		"component": "text",
@@ -16,5 +16,14 @@
 	{
 		"component": "text",
 		"value": "s=0<br>for i in range(12,421):<br>&emsp;s+=i<br>print(s)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "88344"
 	}
 ]

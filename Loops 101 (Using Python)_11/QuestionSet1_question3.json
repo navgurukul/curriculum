@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example"
+		"value": "Example 4"
 	},
 	{
 		"component": "text",
@@ -32,5 +32,14 @@
 	{
 		"component": "text",
 		"value": "i = 0 # to iterate the loop<br>s = 0 # initializing the value to 0 to calculate the sum<br>while i < 10:<br>&emsp;n = int(input(\"Enter any number:\")) # taking input as integer<br>&emsp;s = s + n # modifying the variable to calculate the sum after every input             <br>&emsp;i += 1 # incrementing the loop counter<br>print(\"The sum is = \",s)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Enter any number:1<br>Enter any number:2<br>Enter any number:3<br>Enter any number:4<br>Enter any number:5<br>Enter any number:6<br>Enter any number:7<br>Enter any number:8<br>Enter any number:9<br>Enter any number:10<br>The sum is =  55"
 	}
 ]

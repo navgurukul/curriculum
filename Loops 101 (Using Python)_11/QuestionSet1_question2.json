@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example"
+		"value": "Example 3"
 	},
 	{
 		"component": "text",
@@ -28,5 +28,14 @@
 	{
 		"component": "text",
 		"value": "sum = 0 <br>for i in range(1,51):<br>&emsp;sum += i<br>print(sum)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Output: 1275"
 	}
 ]

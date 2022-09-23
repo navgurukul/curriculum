@@ -6,17 +6,21 @@
 	},
 	{
 		"component": "text",
-		"value": "is a  <b>keyword</b> in python. That helps us in coming out of the and goes to new line which is out of the ."
-	},
-	{
-		"component": "image",
-		"value": "assets/how-break-statement-works.jpg",
-		"alt": "Mobile Video Recorder"
+		"value": "break is a  <b>keyword</b> in python. That helps us in coming out of the and goes to new line which is out of the ."
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "index = 0;  <br>while 1:  <br>&emsp;print(index,\" \",end = \"\"),  <br>&emsp;index=index+1;  <br>&emsp;if index == 10:  <br>&emsp;&emsp;break;  <br>print(\"Found at\",index,\"location\")"
+		"value": "index = 0;  <br>while 1:  <br>&emsp;print(index,\" \",end = \"\")  <br>&emsp;index=index+1;  <br>&emsp;if index == 10:  <br>&emsp;&emsp;break;  <br>print(\"Found at\",index,\"location\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "0  1  2  3  4  5  6  7  8  9  Found at 10 location"
 	}
 ]

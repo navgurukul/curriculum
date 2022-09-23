@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example"
+		"value": "Example 9"
 	},
 	{
 		"component": "text",
@@ -61,5 +61,14 @@
 	{
 		"component": "text",
 		"value": "nterms =100<br># first two terms<br>n1, n2 = 0, 1<br>count = 0<br>print(\"Fibonacci sequence:\")<br>while count < nterms:<br>&emsp;print(n1)<br>&emsp;nth = n1 + n2<br>&emsp;# update values<br>&emsp;n1 = n2<br>&emsp;n2 = nth<br>&emsp;count += 1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Fibonacci sequence:<br>0<br>1<br>1<br>2<br>3<br>5<br>...<br>...<br>...<br>218922995834555169026"
 	}
 ]

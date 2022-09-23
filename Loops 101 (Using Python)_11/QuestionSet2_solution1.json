@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example"
+		"value": "Example 2"
 	},
 	{
 		"component": "text",
@@ -17,7 +17,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Solution"
+		"value": "Hint:"
 	},
 	{
 		"component": "text",
@@ -84,5 +84,14 @@
 		"type": "other",
 		"title": "",
 		"value": "i = 1 # start the counter by 1<br>while i <= 7: #Because our program has 7 lines so the program will run for 7 times.<br>  print('#'*i)<br>  i = i + 1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "#<br>##<br>###<br>####<br>#####<br>######<br>#######"
 	}
 ]
