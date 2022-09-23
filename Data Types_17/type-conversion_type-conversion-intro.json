@@ -85,6 +85,10 @@
 		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
+		"component":"text",
+		"value":"Error"
+	},
+	{
 		"component": "text",
 		"value": "<span style=\"\">Python</span> tries to convert <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING to INTEGER</span>but throws an <span style=\"\">error</span> if it is even a bit confusing. Ex :- <span style=\"\">Python</span> cannot convert <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">12.2</span>, and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">12houses</span> to <span style=\"\">integer</span> but can do the same for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">12</span>."
 	},

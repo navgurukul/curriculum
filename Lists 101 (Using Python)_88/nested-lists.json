@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "lists within list"
+		"value": "LISTS within List"
 	},
 	{
 		"component": "text",
@@ -29,7 +29,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Bonus Content"
 	},
 	{

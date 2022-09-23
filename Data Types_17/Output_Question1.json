@@ -17,7 +17,7 @@
 	{
 		"component":"header",
 		"variant":4,
-		"value":"<span style=\"\">Solution</span>:- string"
+		"value":"<span style=\"\">Output</span>:- string"
 	},
 	{
 		"component": "text",
@@ -32,7 +32,7 @@
 	{
 		"component":"header",
 		"variant":4,
-		"value":"<span style=\"\">Solution</span>:- string"
+		"value":"<span style=\"\">Output</span>:- string"
 	},
 	{
 		"component": "text",
@@ -47,7 +47,7 @@
 	{
 		"component":"header",
 		"variant":4,
-		"value":"<span style=\"\">Solution</span>:- string"
+		"value":"<span style=\"\">Output</span>:- string"
 	},
 	{
 		"component": "text",
@@ -62,6 +62,6 @@
 	{
 		"component":"header",
 		"variant":4,
-		"value":"<span style=\"\">Solution</span>:- float"
+		"value":"<span style=\"\">Output</span>:- float"
 	}
 ]

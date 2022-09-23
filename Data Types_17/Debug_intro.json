@@ -21,10 +21,10 @@
 		{
 			"component": "header",
 			"variant": 4,
-			"value": "<span style=\"\">Solution </span> :- megha"
-		},
+			"value": "<span style=\"\">Correct code</span> :-<br>a = 'Megha'<br>print(a)"
+		}, 
 		{
-			"component": "text",
+			"component":"text",
 			"value": "B. "
 		},
 		{
@@ -36,7 +36,7 @@
 		{
 			"component": "header",
 			"variant": 4,
-			"value": "<span style=\"\">Solution </span> :- change the type of variable b to string using b = str(2016)"
+			"value": "<span style=\"\">Correct code</span> :-<br>a='navgurukul'<br>b = 201<br>b = str(b)<br>print(a+','+ b + 'me shuru hua tha')"
 		},
 		{
 			"component": "text",
@@ -51,7 +51,7 @@
 		{
 			"component":"header",
 			"variant":4,
-			"value":"<span style=\"\">Solution </span> :- change the type of variable b to string using b = str(13)"
+			"value":"<span style=\"\">Correct code</span> :-<br>a='navgurukul'<br>b = 13<br>b = str(b)<br>print(a+b)"
 		},
 		{
 			"component": "text",
@@ -66,7 +66,7 @@
 		{
 			"component":"header",
 			"variant":4,
-			"value":"<span style=\"\">Solution </span> :- change the type of variable a to float using a = float(a)"
+			"value":"<span style=\"\">Correct code</span> :-<br>a = '12'<br>b = 13.1<br>a = float(a)<br>print(a+b)"
 		},
 		{
 			"component": "text",
@@ -81,6 +81,6 @@
 		{
 			"component":"header",
 			"variant":4,
-			"value":"<span style=\"\">Solution </span> :- change the type of variable a and b to bool"
+			"value":"<span style=\"\">Correct code</span> :-<br>a = bool('')b = bool(' ')<br>print(a+b)"
 		}
 	]

@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Total Sum"
+		"value": "Example 4"
 	},
 	{
 		"component": "text",
@@ -16,7 +16,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "<span style=\"\">Output</span>:-"
 	},
 	{

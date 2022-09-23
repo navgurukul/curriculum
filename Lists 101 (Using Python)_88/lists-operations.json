@@ -125,7 +125,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Question"
 	},
 	{
@@ -134,7 +134,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Answer"
 	},
 	{
@@ -147,7 +147,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Changing List Items"
 	},
 	{
@@ -186,7 +186,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Length of List and Adding values of the List"
 	},
 	{
@@ -229,7 +229,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Removing Elements from a List"
 	},
 	{
@@ -258,7 +258,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example :-"
 	},
 	{
@@ -269,7 +269,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Check if Element exists in List"
 	},
 	{
@@ -278,7 +278,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example:-"
 	},
 	{
@@ -307,7 +307,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example :-"
 	},
 	{

@@ -5,28 +5,6 @@
 		"value": "Example 3"
 	},
 	{
-		"component": "header",
-		"variant": 3,
-		"value": "Example 3 (Part 1)"
-	},
-	{
-		"component": "text",
-		"value": "You have to define a function named students and pass a parameter to that function which takes a list of students name(don't use the List)"
-	},
-	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
-	},
-	{
-		"component": "text",
-		"value": "Whatever names you will enter as input , you will get that names as output seperated by commas."
-	},
-	{
-		"component": "header",
-		"variant": 3,
-		"value": "Example 3 (Part 2)"
-	},
-	{
 		"component": "text",
 		"value": "You have to define a function named isGreaterThan20  in which you have to pass two parameters to the function and the first parameter by default should be 20.And then output should be True if both values are greater than 20 and  False if any one is equal to 20 or less than 20."
 	},
@@ -39,6 +17,10 @@
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component":"text",
+		"value":"60"
 	},
 	{
 		"component": "text",

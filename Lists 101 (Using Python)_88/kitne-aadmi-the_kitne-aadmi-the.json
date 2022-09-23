@@ -2,7 +2,7 @@
 		{
 			"component": "header",
 			"variant": 2,
-			"value": "How many people were there?"
+			"value": "Example 6<br><br>How many people were there?"
 		},
 		{
 			"component": "text",

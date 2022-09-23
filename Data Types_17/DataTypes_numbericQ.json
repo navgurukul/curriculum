@@ -55,11 +55,11 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "<span style=\"\">Solution</span> :-"
+		"value": "<span style=\"\">Program - </span> :-"
 	},
 	{
 		"component":"text",
-		"value":"number=10<br>print(number)<br>number=10.4<br>print(number)<br>number=4+16j<br>print(number)"
+		"value":"number=6<br>print(number)<br>number=56.67<br>print(number)<br>number=5+7j<br>print(number)"
 	},
 	{
 		"component": "header",
@@ -68,7 +68,7 @@
 	},
 	{
 		"component":"text",
-		"value":"10<br>10.4<br>4+16j"
+		"value":"6<br>56.67<br>(5+7j)"
 	},
 	{
 		"component": "header",
@@ -102,10 +102,19 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "<span style=\"\">Solution</span> :-"
+		"value": "<span style=\"\">Program -</span> :-"
 	},
 	{
 		"component":"text",
 		"value":"a=int(input(\"enter the first number=\"))<br>b=int(input(\"Enter the second number=\"))<br>SUM=a+b<br>print(SUM)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "If user enter a = 5 , b = 5 then output will be 10."
 	}
 ]

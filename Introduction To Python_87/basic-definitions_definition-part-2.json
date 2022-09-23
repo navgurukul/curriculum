@@ -37,7 +37,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -95,7 +95,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -132,7 +132,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -152,7 +152,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -186,7 +186,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -206,7 +206,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -239,7 +239,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",

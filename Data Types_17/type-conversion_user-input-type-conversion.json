@@ -104,6 +104,15 @@
 		"value": "number_x = input(\"Pehla number daaliye \")<br>number_y = input(\"Dusra number daaliye\")<br>number_x = int(number_x) # user_input se hume number_x string type mein mila<br>number_y = int(number_y) # user_input se hume number_y string type mein mila<br>print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga"
 	},
 	{
+		"component":"header",
+		"variant":4,
+		"value":"<span style=\"\">Output</span>:-"
+	},
+	{
+		"component":"text",
+		"value":"If number_x = 5 and number_y = 7, then output will be 12."
+	},
+	{
 		"component": "text",
 		"value": "Here it is important to understand that we convert <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_x</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_y</span> to <span style=\"\">integer</span> before multiplying because with <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> we get <span style=\"\">input</span> always in the form of a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>."
 	},
