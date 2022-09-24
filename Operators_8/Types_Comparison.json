@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "COMPARISON <span style=\"\">OPERATORS</span>"
+		"value": "Comparison Operators"
 	},
 	{
 		"component": "text",
