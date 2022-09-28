@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "LOGICAL <span style=\"\">OPERATOR</span> (and, or, not) :-"
+		"value": "Logical Operators (and, or, not) :-"
 	},
 	{
 		"component": "text",
@@ -28,7 +28,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 1 :-"
 	},
 	{
 		"component": "code",
@@ -48,7 +48,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 2 :-"
 	},
 	{
 		"component": "code",
@@ -57,12 +57,13 @@
 		"value": "number = int(input(\"enter the number\"))<br>print(number and 1)"
 	},
 	{
-		"component": "text",
-		"value": "Here, the number and 1 are both <span style=\"\">true</span> so the answer is 1."
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Hint</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "If the <span style=\"\">input</span> is 0 then the <span style=\"\">output</span> will be 0 because one condition is <span style=\"\">false</span>."
+		"value": "&emsp; Here, the number and 1 are both <span style=\"\">true</span> so the answer is 1. <br>&emsp; If the <span style=\"\">input</span> is 0 then the <span style=\"\">output</span> will be 0 because one <br>&emsp; condition is <span style=\"\">false</span>."
 	},
 	{
 		"component": "header",
@@ -80,7 +81,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 3 :-"
 	},
 	{
 		"component": "code",
@@ -100,7 +101,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 4 :-"
 	},
 	{
 		"component": "code",
@@ -164,7 +165,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 5 :-"
 	},
 	{
 		"component": "code",
@@ -183,10 +184,15 @@
 	},
 	{
 		"component": "text",
-		"value": "c is actually greater than b so the condition c &gt; b is true but adding <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">not</span> in front of it gives the opposite output, that is, false.#### Example :-",
+		"value": "c is actually greater than b so the condition c &gt; b is true but adding <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">not</span> in front of it gives the opposite output, that is, false.",
 		"decoration": {
 			"type": "bullet"
 		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 6 :-"
 	},
 	{
 		"component": "code",
@@ -204,8 +210,7 @@
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>"
 	},
 	{
-		"component": "header",
-		"variant": 4,
+		"component": "text",
 		"value": "To understand logical <span style=\"\">operator</span> and circuits watch this video."
 	},
 	{

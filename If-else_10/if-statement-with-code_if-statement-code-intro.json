@@ -9,10 +9,24 @@
 		"value": "We have learned how to create <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowcharts</span> for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if conditions</span>. But we cannot use these <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowcharts</span> unless we learn how to write a <span style=\"\">code</span> by looking at a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowchart</span>."
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 1 :-"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "day = input(\"Din enter karo\\n\")<br>if day == \"monday\": # Agar din Monday hai toh<br>&emsp;print(\"Rajma Chawal\")<br>elif day == \"tuesday\": # Agar uppar wali conditions galat hai (Yaani day Monday nahi hai) aur day Tuesday hai toh<br>&emsp;print(\"Pao Bhaji\")<br>elif day == \"wednesday\": # Agar uppar wali conditions galat hai (Yaani day Monday aur Tuesday nahi hai) aur day Wednesday hai toh<br>&emsp;print(\"Chole Bhature\")<br>elif day == \"thursday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday aur Wednesday nahi hai) aur day Thursday hai toh<br>&emsp;print(\"Dosa\")<br>elif day == \"friday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday aur Thursday nahi hai) aur day Friday hai toh<br>&emsp;print(\"Litti Chokha\")<br>elif day == \"saturday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday aur Friday nahi hai) aur day Saturday hai toh<br>&emsp;print(\"Thukpa\")<br>else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday, Friday aur Saturday nahi hai)<br>&emsp;print(\"Poha\")"
+		"value": "day = input(\"Aaj ka din kya hai? (monday/tuesday) > \\n\") <br>time = input(\"Kaunse samay ka khana banana hai? (lunch/dinner) > \\n\") <br>if day == \"monday\" or day == \"tuesday\": <br>print(\"Daal-Roti banegi aaj\") <br>elif day == \"tuesday\" and time == \"dinner\": <br>print(\"Pav-Bhaji banegi aaj toh :)\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Aaj ka din kya hai? (monday/tuesday) > <br>monday <br>Kaunse samay ka khana banana hai? (lunch/dinner) > <br>lunch <br>Daal-Roti banegi aaj"
 	},
 	{
 		"component": "text",
@@ -21,16 +35,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Note:"
+		"value": "Note :-"
 	},
 	{
 		"component": "text",
 		"value": "While entering the <span style=\"\">input</span> for the day, you'll have to enter it exactly as it is used in the if conditions. Since <span style=\"\">Python</span> is case-sensitive, it will treat <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Monday</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">monday</span> differently."
-	},
-	{
-		"component": "header",
-		"variant": 3,
-		"value": "More examples"
 	},
 	{
 		"component": "text",
@@ -83,7 +92,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example 1 :-"
+		"value": "Example 2 :-"
 	},
 	{
 		"component": "text",
@@ -98,7 +107,16 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example 2 :-"
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Sheher ka naam guess karo> <br>mumbai <br>Aapka guess galat hai <br><br> If the name of city/sheher enter by user  is “delhi”  then the output will be  “Aapka guess sahi hai” else it will print “Aapka guess galat hai”"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 3 :-"
 	},
 	{
 		"component": "text",
@@ -112,8 +130,17 @@
 	},
 	{
 		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Gaadi ki kya speed thi? <br>80 <br>Gaadi speed limit ke bahar thi. <br><br>If the number entered by the user is smaller than 60 then the code will print the output as “Gaddi speed limit k   andar thi” else it will print “Gaddi speed limit k bhar thi”"
+	},
+	{
+		"component": "header",
 		"variant": 3,
-		"value": "Note:"
+		"value": "Note :-"
 	},
 	{
 		"component": "text",
@@ -133,14 +160,24 @@
 		"value": "Consider the example where we want to display the food menu based on the day and time. For example on monday, \"Poha\" in breakfast, \"Rajma Chawal\" for lunch and \"Roti Sabzi\" for dinner. Similary on tuesday, \"Poori Sabzi\" for breakfast, \"Thukpa\" for lunch and \"Chicken Chawal\" for dinner. We can write a program for this question as shown below:-"
 	},
 	{
-		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">TODO: We need to add a flowchart here somehow. #studentsShouldIgnore</span>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 4</span> :-"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "day = input(\"Din enter karo> \")<br>meal = input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\":<br>&emsp;# code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>&emsp;if meal == \"breafast\":<br>&emsp;&emsp;print(\"Poha\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Rajma Chawal\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Roti Sabzi\")<br>elif day == \"tuesday\":<br>&emsp;if meal == \"breakfast\":<br>&emsp;&emsp;print(\"Poori Sabzi\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Thukpa\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Chicken Chawal\")<br>else:<br>&emsp;print(\"Aur kisi bhi din hum daal roti sabzi khaynege.\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Din enter karo> <br>monday <br>Meal enter karo, jaise breakfast lunch aur dinner mein se ek> <br>lunch <br>Rajma Chawal <br><br>The output of the above program will change according to the day and time entered by the user"
 	},
 	{
 		"component": "text",

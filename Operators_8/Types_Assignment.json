@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ASSIGNMENT OPERATORS</span>"
+		"value": "Assignment Operators"
 	},
 	{
 		"component": "text",
@@ -64,7 +64,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 1 :-"
 	},
 	{
 		"component": "code",
@@ -93,7 +93,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 2 :-"
 	},
 	{
 		"component": "code",
@@ -122,7 +122,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 3 :-"
 	},
 	{
 		"component": "code",
@@ -151,7 +151,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 4 :-"
 	},
 	{
 		"component": "code",
@@ -180,7 +180,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 5 :-"
 	},
 	{
 		"component": "code",
@@ -209,7 +209,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 6 :-"
 	},
 	{
 		"component": "code",
@@ -238,7 +238,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 7 :-"
 	},
 	{
 		"component": "code",
@@ -267,7 +267,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 8 :-"
 	},
 	{
 		"component": "code",
