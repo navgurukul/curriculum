@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "COMPARISON <span style=\"\">OPERATORS</span>"
+		"value": "Comparison Operators"
 	},
 	{
 		"component": "text",
@@ -58,7 +58,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 1 :-"
 	},
 	{
 		"component": "code",
@@ -78,7 +78,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 2 :-"
 	},
 	{
 		"component": "code",
@@ -107,7 +107,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 3 :-"
 	},
 	{
 		"component": "code",
@@ -131,7 +131,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 4 :-"
 	},
 	{
 		"component": "code",
@@ -164,7 +164,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 5 :-"
 	},
 	{
 		"component": "code",
@@ -188,7 +188,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 6 :-"
 	},
 	{
 		"component": "code",
@@ -221,7 +221,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 7 :-"
 	},
 	{
 		"component": "code",
@@ -245,7 +245,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 8 :-"
 	},
 	{
 		"component": "code",
@@ -278,7 +278,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 9 :-"
 	},
 	{
 		"component": "code",
@@ -302,7 +302,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 10 :-"
 	},
 	{
 		"component": "code",
@@ -335,7 +335,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 11 :-"
 	},
 	{
 		"component": "code",
@@ -359,7 +359,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 12 :-"
 	},
 	{
 		"component": "code",

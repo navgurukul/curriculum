@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example 1"
+		"value": "Example 1 :-"
 	},
 	{
 		"component": "text",
@@ -22,9 +22,5 @@
 	{
 		"component": "text",
 		"value": "We will learn debugging by removing all the errors from this python file."
-	},
-	{
-		"component": "text",
-		"value": "<span style=\"\">Save</span> the correct <span style=\"\">code</span> in a new <span style=\"\">file</span> and submit it."
 	}
 ]
