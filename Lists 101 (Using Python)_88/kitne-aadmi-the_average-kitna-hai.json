@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "How much is the Average?"
+		"value": "Example 8<br><br>How much is the Average?"
 	},
 	{
 		"component": "text",
@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]"
+		"value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]<br>sumeven=0<br>sumodd=0<br>for i in elements:<br>&emsp;if(i%2==0):<br>&emsp;&emsp;sumeven+=i<br>&emsp;else:<br>&emsp;&emsp;sumodd+=i<br>print(\"Sum of even numbers is=\",sumeven)<br>print(\"Sum of odd numbers is=\",sumodd)"
 	}
 ]

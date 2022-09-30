@@ -2,22 +2,28 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 6"
+		"value": "Example 7"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Prime numbers</span> are those numbers that are divisible by 1 or by themselves. Example:-"
+		"value": "Given a positive integer N, The task is to write a Python program to check if the number is prime or not in python."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "1.<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">13</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">prime</span> because <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">13</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">perfectly divisible</span> by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">13</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1</span>. It is not <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">perfectly divisible</span> by any other number."
+		"value": "num = 11<br># If given number is greater than 1<br>if num > 1:<br>&emsp;# Iterate from 2 to n / 2<br>&emsp;for i in range(2, int(num/2)+1):<br>&emsp;# If num is divisible by any number between<br>&emsp;# 2 and n / 2, it is not prime<br>&emsp;if (num % i) == 0:<br>&emsp;&emsp;&emsp;print(num, \"is not a prime number\")<br>&emsp;&emsp;&emsp;break<br>&emsp;else:<br>&emsp;&emsp;print(num, \"is a prime number\")<br>else:<br>&emsp;print(num, \"is not a prime number\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "2.<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">4</span> is not prime number because <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">4</span> is perfectly divisible by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">4</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1</span>."
-	},
-	{
-		"component": "text",
-		"value": "For <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">prime numbers</span> you have to check that the number is divisible by how many numbers and you have to use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">loops</span> also."
+		"value":"11 is a prime number"
 	}
 ]

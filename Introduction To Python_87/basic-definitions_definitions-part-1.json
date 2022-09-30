@@ -7,7 +7,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Program"
+		"value": "<span style=\"\">Program</span> :-"
 	},
 	{
 		"component": "text",
@@ -16,7 +16,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -31,12 +31,12 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">14</span> "
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">14</span> "
 	},
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Real Life Example :-</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Real Life Example :-</span>"
 	},
 	{
 		"component": "text",
@@ -62,16 +62,16 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Programming"
+		"value": "<span style=\"\">Programming</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "The process of doing any work is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">programming</span>."
+		"value": "The process of doing any work is called <span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">programming</span>."
 	},
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "text",
@@ -84,7 +84,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :"
 	},
 	{
 		"component": "code",
@@ -99,7 +99,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">12</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">12</span>"
 	},
 	{
 		"component": "text",
@@ -117,7 +117,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">High Level Language</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">High Level Language</span>"
 	},
 	{
 		"component": "text",
@@ -125,7 +125,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Example</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Example</span>"
 	},
 	{
 		"component": "text",
@@ -134,7 +134,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Low Level Language</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Low Level Language</span>"
 	},
 	{
 		"component": "text",
@@ -147,16 +147,16 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Syntax</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax</span> is just like <span style=\"\">python</span> grammar. It is a set of rules that tells how to write and run a <span style=\"\">python</span> <span style=\"\">code</span>."
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Syntax</span> is just like <span style=\"\">python</span> grammar. It is a set of rules that tells how to write and run a <span style=\"\">python</span> <span style=\"\">code</span>."
 	},
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "text",
@@ -165,7 +165,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -180,7 +180,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax Error: unexpected EOF while parsing</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Syntax Error: unexpected EOF while parsing</span>"
 	},
 	{
 		"component": "code",
@@ -195,7 +195,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax Error: invalid syntax</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Syntax Error: invalid syntax</span>"
 	},
 	{
 		"component": "text",
@@ -204,7 +204,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Algorithm</span>"
+		"value": "<span style=\"  background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Algorithm</span>"
 	},
 	{
 		"component": "text",
@@ -213,7 +213,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "text",

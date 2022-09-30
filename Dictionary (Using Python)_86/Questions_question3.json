@@ -1,5 +1,10 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 3"
+	},
+	{
 		"component": "text",
 		"value": "Ek program likhiye jo ki dictionaries ki values ka sum print kare."
 	},

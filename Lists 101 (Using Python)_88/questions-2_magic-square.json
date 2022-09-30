@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Is Magic Square?"
+		"value": "Example 5"
 	},
 	{
 		"component": "text",
@@ -20,7 +20,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "magic_square = [<br>&emsp;[8, 3, 4],<br>&emsp;[1, 5, 9],<br>&emsp;[6, 7, 2]<br>]"
+		"value": "N = 3<br># Returns true if mat[][] is magic<br># square, else returns false.<br>def isMagicSquare(mat) :<br># calculate the sum of the prime diagonal<br>&emsp;s = 0<br>&emsp;for i in range(0, N) :<br>&emsp;&emsp;s = s + mat[i][i]<br>&emsp;# For sums of Rows<br>&emsp;for i in range(0, N) :<br>&emsp;&emsp;rowSum = 0;<br>&emsp;&emsp;for j in range(0, N) :<br>&emsp;&emsp;&emsp;rowSum += mat[i][j]<br>&emsp;&emsp;# check if every row sum is<br>&emsp;&emsp;# equal to prime diagonal sum<br>&emsp;&emsp;if (rowSum != s) :<br>&emsp;&emsp;&emsp;return False<br>&emsp;# For sums of Columns<br>&emsp;for i in range(0, N):<br>&emsp;&emsp;colSum = 0<br>&emsp;&emsp;for j in range(0, N) :<br>&emsp;&emsp;&emsp;colSum += mat[j][i]<br>&emsp;&emsp;# check if every column sum is<br>&emsp;&emsp;# equal to prime diagonal sum<br>&emsp;&emsp;if (s != colSum) :<br>&emsp;&emsp;&emsp;return False<br>&emsp;return True<br># Driver Code<br>mat =[<br>&emsp;[5, 3, 7],<br>&emsp;[1, 8, 9],<br>&emsp;[6, 4, 2]<br>]<br>if (isMagicSquare(mat)) :<br>&emsp;print(\"Magic Square\")<br>else :<br>&emsp;print(\"Not a magic Square\")"
 	},
 	{
 		"component": "header",
@@ -69,7 +69,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Because the sum of elements of the second row is not 15 nahi hai, therefore this is not a magic square."
+		"value": "Because the sum of elements of the second row is not 15, therefore this is not a magic square."
 	},
 	{
 		"component": "header",
@@ -78,7 +78,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Pls see that the program that you wrote works for only 3x3 square or it works for any size of square."
+		"value": "Please see that the program that you wrote works for only 3x3 square or it works for any size of square."
 	},
 	{
 		"component": "text",
@@ -109,3 +109,16 @@
 		"value": "If the given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> is not a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">square</span>, then return <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>, on the first go."
 	}
 ]
+
+
+			 
+            
+  
+			
+  
+
+
+      
+
+		 
+    

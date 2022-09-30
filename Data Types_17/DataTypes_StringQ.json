@@ -11,7 +11,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 1"
+		"value": "Example-1"
 	},
 	{
 		"component": "text",
@@ -31,11 +31,34 @@
 	},
 	{
 		"component": "text",
-		"value": "Print the variable <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>.## Question 2",
+		"value": "Print the variable <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>.",
 		"decoration": {
 			"type": "number",
 			"value": 3
 		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"a=input(\"enter first value=\")<br>b=input(\"enter second value=\")<br>add=a+b<br>print(add)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "If user enter a = hii and b = sam ,  then output should be hiisam."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example-2"
 	},
 	{
 		"component": "text",
@@ -60,5 +83,23 @@
 			"type": "number",
 			"value": 3
 		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program -</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"a=int(input(\"enter first value=\"))<br>b=input(\"enter second value=\")<br>add=a+b<br>print(astr"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"TypeError: can only concatenate str (not 'int') to str"
 	}
 ]

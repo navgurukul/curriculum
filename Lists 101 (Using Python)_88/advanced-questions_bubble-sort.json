@@ -96,7 +96,7 @@
 	},
 	{
 		"component": "text",
-		"value": "These iterations will run as many times as there are number of elements present - by this, the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">array</span> will be sorted.",
+		"value": "These iterations will run as many times as there are number of elements present - by this, the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> will be sorted.",
 		"decoration": {
 			"type": "number",
 			"value": 4

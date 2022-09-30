@@ -11,7 +11,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Binary numbers</span> are known as machine language or low level language, binary numbers are made of 0 and 1 which humans cannot understand but computers can."
+		"value": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">Binary numbers</span> are known as machine language or low level language, binary numbers are made of 0 and 1 which humans cannot understand but computers can."
 	},
 	{
 		"component": "text",
@@ -24,11 +24,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Interpreter</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Interpreter</span>"
 	},
 	{
 		"component": "text",
-		"value": "It checks the <span style=\"\">code</span> line by line and the line at which <span style=\"\">error</span> is present, <span style=\"\">interpreter</span>  stops the <span style=\"\">code</span> at that line and shows the name of <span style=\"\">error</span>.<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Interpreter</span>  converts high level language to low level language with the help of which the computer is able to run the <span style=\"\">code</span>."
+		"value": "It checks the <span style=\"\">code</span> line by line and the line at which <span style=\"\">error</span> is present, <span style=\"\">interpreter</span>  stops the <span style=\"\">code</span> at that line and shows the name of <span style=\"\">error</span>.<br><span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Interpreter</span>  converts high level language to low level language with the help of which the computer is able to run the <span style=\"\">code</span>."
 	},
 	{
 		"component": "text",
@@ -37,7 +37,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -52,7 +52,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">file \"&lt;string&gt;\",line 1, in &lt;module&gt;</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">NameError: name 'megha' is not defined</span>"
 	},
 	{
 		"component": "text",
@@ -61,11 +61,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Compiler</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Compiler</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Compiler</span> is a software that scans the complete <span style=\"\">code</span> in one go and if the <span style=\"\">code</span> contains any <span style=\"\">error</span>, then it shows the <span style=\"\">error</span> at the end of the <span style=\"\">code</span>.<br>Whereas the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">interpreter</span>, stops the <span style=\"\">code</span> at the line that contains <span style=\"\">error</span>."
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Compiler</span> is a software that scans the complete <span style=\"\">code</span> in one go and if the <span style=\"\">code</span> contains any <span style=\"\">error</span>, then it shows the <span style=\"\">error</span> at the end of the <span style=\"\">code</span>.<br>Whereas the <span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">interpreter</span>, stops the <span style=\"\">code</span> at the line that contains <span style=\"\">error</span>."
 	},
 	{
 		"component": "text",
@@ -86,7 +86,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Case Sensitive</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Case Sensitive</span>"
 	},
 	{
 		"component": "text",
@@ -95,7 +95,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -110,7 +110,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Var is not defined</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Var is not defined</span>"
 	},
 	{
 		"component": "text",
@@ -123,7 +123,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Error/ Bugs</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Error/ Bugs</span>"
 	},
 	{
 		"component": "text",
@@ -132,7 +132,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -147,12 +147,12 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SyntaxError: unexpected EOF while parsing</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">SyntaxError: unexpected EOF while parsing</span>"
 	},
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -167,7 +167,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SyntaxError: invalid syntax</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">SyntaxError: invalid syntax</span>"
 	},
 	{
 		"component": "text",
@@ -176,7 +176,8 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Debugs"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Debugs</span>"
+
 	},
 	{
 		"component": "text",
@@ -185,7 +186,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -200,18 +201,18 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">5</span>"
 	},
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "num=2<br>Print (num)"
+		"value": "num=2<br>print(num)"
 	},
 	{
 		"component": "header",
@@ -220,7 +221,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">2</span>"
 	},
 	{
 		"component": "text",
@@ -229,7 +230,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Source code</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">Source code</span>"
 	},
 	{
 		"component": "text",
@@ -238,7 +239,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Example :-"
+		"value": "<span style=\"\">Example</span> :-"
 	},
 	{
 		"component": "code",
@@ -253,11 +254,11 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python</span>"
+		"value": "<span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">python</span>"
 	},
 	{
 		"component": "text",
-		"value": "In this example you saw that we have taken a <span style=\"\">variable</span> named as <b>name</b> and we have stored <span style=\"\">python</span> in it.Ypu can easily read and understand this <span style=\"\">code</span> .This <span style=\"\">code</span> is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">source code/ main code</span>."
+		"value": "In this example you saw that we have taken a <span style=\"\">variable</span> named as <b>name</b> and we have stored <span style=\"\">python</span> in it.Ypu can easily read and understand this <span style=\"\">code</span> .This <span style=\"\">code</span> is called <span style=\"  background-color: rgba(233, 245, 233, 0.83);  border-radius: 2px; padding: 2px\">source code/ main code</span>."
 	},
 	{
 		"component": "image",

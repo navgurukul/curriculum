@@ -6,11 +6,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Its not like that lists should have same type of data. Data inside list can be of any type."
+		"value": "Its not like that lists should have same type of data. But the data inside the list can be of any type."
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 1,
 		"value": "Example:-"
 	},
 	{

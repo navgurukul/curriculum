@@ -13,14 +13,20 @@
 		"value": "Write a simple addition function that returns the data."
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 1</span> :-"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "def add_numbers(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;return number_sum<br><br>sum1 = add_numbers(20, 40)<br>print(sum1)<br>sum2 = add_numbers(560, 23)<br>a = 1234<br>b = 12<br>sum3 = add_numbers(a, b)<br>print(sum2)<br>print(sum3)<br>number_a = add_numbers(20, 40) / add_numbers(5, 1)<br>print(number_a)"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span></b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
@@ -79,18 +85,24 @@
 		"value": "We write the same function without the return value."
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 2</span> :-"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "def add_numbers_print(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print (number_sum)<br>sum4 = add_numbers_print(4, 5)<br>print(sum4)<br>print(type(sum4))"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "9<br>None<br><class 'NoneType'>"
+		"value": "9<br>None<br>&lt;type 'NoneType'&gt;"
 	},
 	{
 		"component": "text",
@@ -105,14 +117,20 @@
 		"value": "Read the <span style=\"\">code</span> below and think what will happen.Now run the <span style=\"\">code</span> and see if you thought right"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 3</span> :-"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "number_b = add_numbers_print(5, 4) / add_numbers_print(2, 1)"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b> "
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
@@ -140,14 +158,20 @@
 		"value": "Before running this example, read its <span style=\"\">code</span> and think about what this function will return and what it will print when we give 2 <span style=\"\">integer</span> arguments to it."
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 4</span> :-"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "def add_numbers_more(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print(\"Hello from NavGurukul ;)\")<br>&emsp;return number_sum<br>&emsp;number_sum = number_x + number_x<br>&emsp;print(\"Will i reach here?\")<br>&emsp;return number_sum<br><br>sum6 = add_numbers_more(100, 20)"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
@@ -182,14 +206,20 @@
 		"value": "In a little more depth, Understand execution of function in <span style=\"\">Python</span>. Try to understand without running this <span style=\"\">code</span> first. Then run it once and see."
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 5</span> :-"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;return \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;return \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;return \"Chole Bhature\"<br><br>&emsp;print(\"Will I be able to print? :-(\")<br><br>mon_menu = menu(\"monday\")<br>print(mon_menu)<br>tues_menu = menu(\"tuesday\")<br>print(tues_menu)<br>fri_menu = menu(\"friday\")<br>print(fri_menu)"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
@@ -240,14 +270,20 @@
 		"value": "Now we will write the same function in such a way that the last print command is also run. and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Will I be able to print? :-(\"</span> print the line :"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 6</span> :-"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;food = \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;food = \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;food = \"Chole Bhature\"<br>&emsp;print(\"Will I be able to print? :-(\")<br>&emsp;return food<br>&emsp;print(\"But I'm not sure will print? :'(\")<br>print(menu(\"monday\"))"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",

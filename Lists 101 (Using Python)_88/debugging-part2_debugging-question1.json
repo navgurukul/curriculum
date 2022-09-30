@@ -2,11 +2,11 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 1"
+		"value": "Example 1"
 	},
 	{
 		"component": "text",
-		"value": "Suppose, you have <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> in a given list. We have written a <span style=\"\">code</span> below in which we have calculated total marks as the sum of markst this. But this <span style=\"\">code</span> doesn't runs. Debug this <span style=\"\">code</span> and then submit it."
+		"value": "Suppose, you have <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> in a given list. We have written a <span style=\"\">code</span> below in which we have calculated total marks as the sum of marks list. But this <span style=\"\">code</span> doesn't runs. Debug this <span style=\"\">code</span> and then submit it."
 	},
 	{
 		"component": "code",

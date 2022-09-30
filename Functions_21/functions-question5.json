@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 6"
+		"value": "Example 6 :-"
 	},
 	{
 		"component": "text",
@@ -10,8 +10,8 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
-		"value": "Question (Part 1)"
+		"variant": 4,
+		"value": "<span style=\"\">Example 6 (part 1)</span> :-"
 	},
 	{
 		"component": "text",
@@ -19,7 +19,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"add\" is given in the operation, it will return number<i>x and number</i>y by adding it.",
+		"value": "If \"add\" is given in the operation, it will return number<i>_x and number</i>_y by adding it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -27,7 +27,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"subtract\" is given in the operation, it will subtract number<i>x and number</i>y and return it.",
+		"value": "If \"subtract\" is given in the operation, it will subtract number<i>_x and number</i>_y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -35,7 +35,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"multifly\" is given in the operation, it will multifly number<i>x and number</i>y and return it.",
+		"value": "If \"multiply\" is given in the operation, it will multifly number<i>_x and number</i>_y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"divide\" is given in the operation, it will divide number<i>x and number</i>y and return it.",
+		"value": "If \"divide\" is given in the operation, it will divide number<i>_x and number</i>_y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -122,66 +122,24 @@
 		}
 	},
 	{
-		"component": "header",
-		"variant": 3,
-		"value": "Question (Part 2)"
-	},
-	{
-		"component": "text",
-		"value": "Now using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> take 2 numbers <span style=\"\">input</span> from the user."
-	},
-	{
-		"component": "text",
-		"value": "<b>Note: Not neccesary to create any fuction.</b>"
-	},
-	{
-		"component": "text",
-		"value": "Call the calculator function 4 times again and again to add, substract, multifly, divide the two numbers and show the result in 4 different <span style=\"\">variables</span>. <br>Those <span style=\"\">variables</span> would be named as:"
-	},
-	{
-		"component": "text",
-		"value": "<i>add_result</i>  (store the add operation result) ",
-		"decoration": {
-			"type": "number",
-			"value": null
-		}
-	},
-	{
-		"component": "text",
-		"value": "<i>subtract_result</i> (store the subtract operation result) ",
-		"decoration": {
-			"type": "number",
-			"value": null
-		}
-	},
-	{
-		"component": "text",
-		"value": "<i>multiply_result</i> (store the multiple operation result)",
-		"decoration": {
-			"type": "number",
-			"value": null
-		}
-	},
-	{
-		"component": "text",
-		"value": "<i>divide_result</i> (store the divide operation result)",
-		"decoration": {
-			"type": "number",
-			"value": null
-		}
-	},
-	{
-		"component": "text",
-		"value": "Then print the above four <span style=\"\">variables</span>."
-	},
-	{
-		"component": "text",
-		"value": "submit your final <span style=\"\">code</span> :)"
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def calculator(number_x,number_y,operation):<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;print(number_x*number_y)<br>&emsp;else:<br>&emsp;&emsp;print(\"invalid request\")<br>calculator(14,2,\"add\")"
 	},
 	{
 		"component": "header",
-		"variant": 3,
-		"value": "Question (Part 2)"
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component":"text",
+		"value":"16"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 6 (part 2)</span> :-"
 	},
 	{
 		"component": "text",
@@ -199,17 +157,16 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "multiple_list = list_change([5, 10, 50, 20], [2, 20, 3, 5])"
+		"value": "def calculator(number_x,number_y,operation):<br>&emsp;l=[]<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;for i in range(len(number_x)):<br>&emsp;&emsp;&emsp;mul=number_x[i]*number_y[i]<br>&emsp;&emsp;&emsp;l.append(mul)<br>&emsp;&emsp;print(l)<br>&emsp;else:print(\"invalid request\")<br>l1=[10,20,30,40]<br>l2=[50,60,70,80]<br>calculator(l1,l2,\"multiply\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "Here the value should be <i>multiple_list</i> :"
-	},
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "[10, 200, 150, 100]"
+		"value": "[500, 1200, 2100, 3200]"
 	},
 	{
 		"component": "text",
