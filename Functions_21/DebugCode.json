@@ -2,15 +2,12 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Debug <span style=\"\">Code</span>"
+		"value": "<span style=\"\">Find the output of following code.</span>"
 	},
 	{
-		"component": "text",
-		"value": "Now we debug the <span style=\"\">code</span> related to function."
-	},
-	{
-		"component": "text",
-		"value": "<b>Example 1</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 1</span> :-"
 	},
 	{
 		"component": "code",
@@ -19,16 +16,18 @@
 		"value": "def sum()<br>&emsp;print(12+13)<br>sum()"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
 		"value": "25"
 	},
 	{
-		"component": "text",
-		"value": "<b>Example 2</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 2</span> :-"
 	},
 	{
 		"component": "code",
@@ -37,16 +36,18 @@
 		"value": "def welcome():<br>&emsp;print(\"Welcome to function\")<br>welcome()"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
 		"value": "Welcome to function"
 	},
 	{
-		"component": "text",
-		"value": "<b>Example 3</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 3</span> :-"
 	},
 	{
 		"component": "code",
@@ -55,8 +56,9 @@
 		"value": "<br>isEven()<br><br>def isEven():<br>&emsp;if(12%2==0):<br>&emsp;&emsp;print(\"Even Number\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Old Number\")"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",

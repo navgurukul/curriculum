@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example 4"
+		"value": "Example 4 :-"
 	},
 	{
 		"component": "text",
@@ -10,16 +10,12 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
-		"value": "Example (Part 1)"
+		"variant": 4,
+		"value": "<span style=\"\">Example 4 (part 1)</span> :-"
 	},
 	{
 		"component": "text",
 		"value": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> which takes two numbers as arguments and then prints their sum. The name of the arguments should be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span>."
-	},
-	{
-		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input :-</span>"
 	},
 	{
 		"component": "code",
@@ -28,13 +24,18 @@
 		"value": "def add(number1,number2):<br>&emsp;print(number1+number2)<br>#calling function with two arguments as function is defined with two parameters<br>add(12,56)"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
 		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b><br>68"
+		"value": "68"
 	},
 	{
 		"component": "header",
-		"variant": 2,
-		"value": "Example (Part 2)"
+		"variant": 4,
+		"value": "<span style=\"\">Example 4 (part 2)</span> :-"
 	},
 	{
 		"component": "text",
@@ -70,9 +71,9 @@
 		"value": "def fun(l1,l2):<br>#setting range till the length of l1<br>for i in range(len(l1)):<br>&emsp;sum=l1[i]+l2[i]<br>&emsp;print(sum)<br>#passing two list as an arguments to our function<br>list1=[10,20,30]<br>list2=[40,50,60]<br>fun(list1,list2)"
 	},
 	{
-		"component":"header",
-		"variant":3,
-		"value":"Output :-"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component":"text",

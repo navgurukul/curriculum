@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Example 3"
+		"value": "Example 3 :-"
 	},
 	{
 		"component": "text",
@@ -12,15 +12,16 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def name(a,b=20):<br>&emsp;#adding value of a and b parameters<br>&emsp;print(a+b)<br>#just passing one argument as value of b is already present as an positional<br>name(40)"
+		"value": "def isGreaterThan20(a, b = 20):<br>&emsp;if a > 20 and b > 20:<br>&emsp;&emsp;print('True')<br>&emsp;elif a <= 20 or b <= 20:<br>&emsp;&emsp;print('False')<br>isGreaterThan20(20)"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component":"text",
-		"value":"60"
+		"value":"False"
 	},
 	{
 		"component": "text",

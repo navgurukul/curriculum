@@ -9,12 +9,13 @@
 		"value": "Now you have to solve some Examples by using the pre-define function."
 	},
 	{
-		"component": "text",
-		"value": "<b>Example1 .</b> You have to print the largest value out of the given list using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function."
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 1</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>"
+		"value": "You have to print the largest value out of the given list using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function.</br>"
 	},
 	{
 		"component": "code",
@@ -23,16 +24,22 @@
 		"value": "numbers = [3, 5, 7, 34, 2, 89, 2, 5]<br>#Using max inbuilt function to print max value among the list numbers<br>print(max(numbers))"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b><br>89"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<b>Example2.</b> You have to print the sum of the elements of the given list by using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> function."
+		"value": "89"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 2</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>"
+		"value": "You have to print the sum of the elements of the given list by using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> function."
 	},
 	{
 		"component": "code",
@@ -41,16 +48,22 @@
 		"value": "numbers = [1, 2, 3, 4, 5]<br>#printing sum of all the numbers from list<br>print(sum(numbers))"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b><br>15"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<b>Example3.</b> Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sort</span> function sort the given list."
+		"value": "15"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 3 </span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>"
+		"value": "Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sort</span> function sort the given list."
 	},
 	{
 		"component": "code",
@@ -59,20 +72,22 @@
 		"value": "unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]<br>#Doing sorting of all the elements present in the list using sorted inbuilt function<br>print(sorted(unorder_list))"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]</span>"
+		"value": "unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 4</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<b>Example4.</b> By using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse</span> function print the reverse order of the list."
-	},
-	{
-		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>"
+		"value": "By using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse</span> function print the reverse order of the list."
 	},
 	{
 		"component": "code",
@@ -81,20 +96,22 @@
 		"value": "reverse_list = [\"Z\", \"A\", \"A\", \"B\", \"E\", \"M\", \"A\", \"R\", \"D\"]<br>#Using reverse function we are doing reversing of our list<br>reverse_list.reverse()<br>print(reverse_list)"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse_list = [\"D\", \"R\", \"A\", \"M\", \"E\", \"B\", \"A\", \"A\", \"Z\"]</span>"
+		"value": "reverse_list = [\"D\", \"R\", \"A\", \"M\", \"E\", \"B\", \"A\", \"A\", \"Z\"]"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example 5</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<b>Example5.</b> Use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">min</span> function and find the minimun value of the list."
-	},
-	{
-		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>"
+		"value": "Use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">min</span> function and find the minimun value of the list."
 	},
 	{
 		"component": "code",
@@ -103,8 +120,9 @@
 		"value": "list = [8, 6, 4, 8, 4, 50, 2, 7]<br>#Using min inbuilt function we are printing minimum value from list<br>print(min(list))"
 	},
 	{
-		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
