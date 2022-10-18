@@ -10,7 +10,7 @@
   },
   {
     "component": "header",
-    "variant": 4,
+    "variant": 1,
     "value": "defining-lists-2_key3"
   },
   {
@@ -20,7 +20,16 @@
     "value": "mixed_list = [\"rahul\", 12, 9.0, \"kaavay\", \"shivam\", 1]<br>print(type(mixed_list))"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "defining-lists-2_key4"
+  },
+  {
+    "component": "text",
+    "value": "defining-lists-2_key5"
+  },
+  {
+    "component": "text",
+    "value": "defining-lists-2_key6"
   }
 ]

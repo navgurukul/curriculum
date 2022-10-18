@@ -1,0 +1,7 @@
+{
+	"while-loops_key1": "Introduce the concept of loops.",
+	"while-loops_key2": "A while loop to take in user input 10 times before it stops.",
+	"while-loops_key3": "// while <span style=\"\">loop</span><br>while(<span style=\"\">true</span>) {<br>        var operation = prompt('Kaunse operation karna chahenge', 'a:addition/s:subtraction/d:division/m:multiplication')<br>        var a = Number(prompt('Pehle number likho', '12'))<br>        var b = Number(prompt('Dusra number likho', '34'))",
+	"while-loops_key4": "&emsp;if (operation == 'a') {<br>&emsp;&emsp;&emsp;console.log(a+b)<br>&emsp;} else if (operation == 's') {<br>&emsp;&emsp;&emsp;console.log(a-b)<br>&emsp;} else if (operation == 'd') {<br>&emsp;&emsp;&emsp;console.log(a/b)<br>&emsp;} else if (operation == 'm') {<br>&emsp;&emsp;&emsp;console.log(a*b)<br>&emsp;} else {<br>&emsp;&emsp;&emsp;break; // introduce concepts of break and continue<br>&emsp;}",
+	"while-loops_key5": "}"
+}

@@ -15,7 +15,16 @@
     "value": "print(\"We will learn debugging by removing all the errors from this python file.\")"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "debugging-part1_debugging-question1_key3"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question1_key4"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question1_key5"
   }
 ]

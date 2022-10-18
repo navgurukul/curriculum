@@ -12,7 +12,7 @@
 		"component": "table",
 		"value": [
 			{
-				"header": "`OPERATOR",
+				"header": "OPERATORS",
 				"items": [
 					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">=</span>",
 					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">+=</span>",
@@ -28,13 +28,13 @@
 				"header": "NAME",
 				"items": [
 					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Assignment</span>",
-					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add And</span>",
-					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract And</span>",
-					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply And</span>",
-					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division And</span>",
-					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division And</span>",
-					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus And</span>",
-					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponent And</span>"
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add And Assign</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract And Assign</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply And Assign</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division And Assign</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division And Assign</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus And Assign</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponent And Assign</span>"
 				]
 			},
 			{
@@ -84,11 +84,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add AND Operator(+=) :-</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add AND Assign Operator(+=) :-</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add AND Operator (+=)</span> adds the value of right operand to the value of left hand operand and then gives the sum (result of addition) to the left operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a+=b is the same as a=a+b</span>."
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add AND Assign Operator (+=)</span> adds the value of right operand to the value of left hand operand and then gives the sum (result of addition) to the left operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a+=b is the same as a=a+b</span>."
 	},
 	{
 		"component": "header",
@@ -113,11 +113,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract AND Operator(-=) :-</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract AND Assign Operator(-=) :-</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract AND Operator (-=)</span> subtracts the value of the right operand from the left side operand and gives the result to the left operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a-=b is the same as a=a-b</span>."
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract AND Assign Operator (-=)</span> subtracts the value of the right operand from the left side operand and gives the result to the left operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a-=b is the same as a=a-b</span>."
 	},
 	{
 		"component": "header",
@@ -142,11 +142,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply AND Operator(*=) :-</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply AND Assign Operator(*=) :-</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply AND Operator (*=)</span> multiplies the left hand operand with the right hand operand and returns the value as <span style=\"\">output</span>, that is gives the result to the left hand operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a*=b is the same as a=a*b</span>."
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply AND Assign Operator (*=)</span> multiplies the left hand operand with the right hand operand and returns the value as <span style=\"\">output</span>, that is gives the result to the left hand operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a*=b is the same as a=a*b</span>."
 	},
 	{
 		"component": "header",
@@ -171,11 +171,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division AND Operator(/=) :-</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division AND Assign Operator(/=) :-</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Divide AND Operator (/=)</span> divides the left hand operand with the right hand operand value and gives the result, that is gives the value to the left hand side operand.Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a/=b is the same as a=a/b</span>."
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Divide AND Assign Operator (/=)</span> divides the left hand operand with the right hand operand value and gives the result, that is gives the value to the left hand side operand.Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a/=b is the same as a=a/b</span>."
 	},
 	{
 		"component": "header",
@@ -200,11 +200,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus AND Operator(%=) :-</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus AND Assign Operator(%=) :-</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus AND Operator (%=)</span> divides the value of left hand operand with the right hand one and the reminder of this division becomes the new value of the left hand side operand, that is it is given to the left hand side <span style=\"\">operator</span>. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a%=b is the same as a=a%b</span>."
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus AND Assign Operator (%=)</span> divides the value of left hand operand with the right hand one and the reminder of this division becomes the new value of the left hand side operand, that is it is given to the left hand side <span style=\"\">operator</span>. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a%=b is the same as a=a%b</span>."
 	},
 	{
 		"component": "header",
@@ -229,7 +229,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponent AND Operator(**=) :-</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponent AND Assign Operator(**=) :-</span>"
 	},
 	{
 		"component": "text",
@@ -258,11 +258,11 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division AND(//=) :-</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division AND Assign(//=) :-</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor division AND(//=)</span> divides the value found in the left hand side with the value of the right hand side operand. The <span style=\"\">integer</span> value becomes the left hand operand value. This means that the <span style=\"\">integer</span> part of the quotient of division is given to the left hand side operand and it it contains the decimal part, it is ignored. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a//=b is the same as a=a//b</span>."
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor division AND Assign(//=)</span> divides the value found in the left hand side with the value of the right hand side operand. The <span style=\"\">integer</span> value becomes the left hand operand value. This means that the <span style=\"\">integer</span> part of the quotient of division is given to the left hand side operand and it it contains the decimal part, it is ignored. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a//=b is the same as a=a//b</span>."
 	},
 	{
 		"component": "header",

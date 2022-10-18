@@ -2,13 +2,23 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 2"
+		"value": "Example 2"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
 		"value": "year = 2016<br>name = \"NavGurukul\"<br>print(name + ', ' +   + \"mein start hua tha!\")"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> the correct <span style=\"\">code</span> in a new <span style=\"\">file</span> and submit it."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#convert the year to string <br>year = str(2016)<br>name = \"NavGurukul\"# add variable name year after comma<br>print(name + ','+ year + \" mein start hua tha!\")"
 	},
 	{
 		"component": "text",

@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "What can we do with Lists?"
+		"value": "What can we do with Lists"
 	},
 	{
 		"component": "text",
@@ -13,6 +13,10 @@
 		"type": "python",
 		"title": "",
 		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print(names_list[1])"
+	},
+	{
+		"component": "text",
+		"value": "Output:-<br>shivam"
 	},
 	{
 		"component": "text",
@@ -125,7 +129,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Question"
 	},
 	{
@@ -134,7 +138,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Answer"
 	},
 	{
@@ -147,7 +151,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Changing List Items"
 	},
 	{
@@ -162,6 +166,10 @@
 	},
 	{
 		"component": "text",
+		"value": "Output:-<br>['abhishek', 'shivam', 'deepa', 'pooja', 'rupa']"
+	},
+	{
+		"component": "text",
 		"value": "Did you notice anything? The ITEM present at 0 INDEX has now been changed to \"abhishek\". Similarly, run this <span style=\"\">code</span> now."
 	},
 	{
@@ -169,6 +177,10 @@
 		"type": "python",
 		"title": "",
 		"value": "names_list = [\"abhishek\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>names_list[3]=\"rishabh\"<br>print(names_list)"
+	},
+	{
+		"component": "text",
+		"value": "Output:-<br>['abhishek', 'shivam', 'deepa', 'rishabh', 'rupa'"
 	},
 	{
 		"component": "text",
@@ -186,7 +198,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Length of List and Adding values of the List"
 	},
 	{
@@ -201,6 +213,10 @@
 	},
 	{
 		"component": "text",
+		"value": "Output:-<br>5"
+	},
+	{
+		"component": "text",
 		"value": "If we want to add one new value to a list then we will use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append</span> function. By using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append()</span>, we can add an element at the end of the list."
 	},
 	{
@@ -208,6 +224,10 @@
 		"type": "python",
 		"title": "",
 		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print(names_list)<br>names_list.append(\"dhruv\")<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
+	},
+	{
+		"component": "text",
+		"value": "Output:-<br>['annu', 'shivam', 'deepa', 'pooja', 'rupa']<br>length of the list is  6<br>['annu', 'shivam', 'deepa', 'pooja', 'rupa', 'dhruv']"
 	},
 	{
 		"component": "text",
@@ -225,11 +245,15 @@
 	},
 	{
 		"component": "text",
+		"value": "Output:-<br>length of the list is  6<br>['annu', 'shivam', 'deepa', 'pooja', 'rupa', 'alok']"
+	},
+	{
+		"component": "text",
 		"value": "In this way, you can add as many elements as you want."
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Removing Elements from a List"
 	},
 	{
@@ -244,6 +268,10 @@
 	},
 	{
 		"component": "text",
+		"value": "Output:-<br>length of the list is  6<br>['annu', 'shivam', 'deepa', 'pooja', 'rupa', 'dhruv']"
+	},
+	{
+		"component": "text",
 		"value": "Try to print it and see if the last element is removed or not. Let's try to one more element from the list."
 	},
 	{
@@ -254,11 +282,15 @@
 	},
 	{
 		"component": "text",
+		"value": "Output:-<br>length of the list is  6<br>['annu', 'shivam', 'deepa', 'pooja', 'rupa', 'dhruv']"
+	},
+	{
+		"component": "text",
 		"value": "You can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop</span> function with an argument also on a given list. That means you can also add <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop function</span>, which will remove the desired element of the given index from the list. "
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example :-"
 	},
 	{
@@ -268,8 +300,12 @@
 		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>print(\"length of the list is \", len(names_list), names_list)<br>names_list.pop(2)<br>print(\"length of the list is \", len(names_list), names_list)<br>names_list.pop(2)<br>print(\"length of the list is \", len(names_list), names_list)"
 	},
 	{
+		"component": "text",
+		"value": "Output:-<br>length of the list is  7 ['annu', 'shivam', 'deepa', 'pooja', 'rupa', 'dhruv', 'alok']<br>length of the list is  6 ['annu', 'shivam', 'pooja', 'rupa', 'dhruv', 'alok']<br>length of the list is  5 ['annu', 'shivam', 'rupa', 'dhruv', 'alok']"
+	},
+	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Check if Element exists in List"
 	},
 	{
@@ -278,7 +314,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example:-"
 	},
 	{
@@ -286,6 +322,10 @@
 		"type": "python",
 		"title": "",
 		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>print(\"shivam\" in names_list)"
+	},
+	{
+		"component": "text",
+		"value": "Output:-<br>True"
 	},
 	{
 		"component": "text",
@@ -299,6 +339,10 @@
 	},
 	{
 		"component": "text",
+		"value": "Output:-<br>False"
+	},
+	{
+		"component": "text",
 		"value": "Its result will come as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> because \"imtiyaz\" element does not exist in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">names_list</span>."
 	},
 	{
@@ -307,7 +351,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example :-"
 	},
 	{
@@ -315,6 +359,10 @@
 		"type": "python",
 		"title": "",
 		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>if \"shivam\" in names_list:<br>&emsp;print(\"Shivam ka naam names_list mei hai\")<br>else:<br>&emsp;print(\"Shivam ka naam names_list mei nahi hai.\")"
+	},
+	{
+		"component": "text",
+		"value": "Output:-<br>Shivam ka naam names_list mei hai "
 	},
 	{
 		"component": "text",

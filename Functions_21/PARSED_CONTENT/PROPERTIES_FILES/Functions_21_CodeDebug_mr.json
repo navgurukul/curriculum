@@ -1,0 +1,13 @@
+{
+	"CodeDebug_key1": "डीबग <span style=\"\">Code</span>",
+	"CodeDebug_key2": "आता आम्ही फंक्शनशी संबंधित <span style=\"\">code</span> डीबग करतो.",
+	"CodeDebug_key3": "<b>उदाहरण १</b>",
+	"CodeDebug_key4": "<b><span style=\"\">Output</span> : -</b>",
+	"CodeDebug_key5": "TypeError: greet() 1 पोझिशनल आर्ग्युमेंट घेते पण 4 दिले होते",
+	"CodeDebug_key6": "<b>उदाहरण २</b>",
+	"CodeDebug_key7": "<b><span style=\"\">Output</span> : -</b>",
+	"CodeDebug_key8": "TypeError: info() गहाळ 1 आवश्यक स्थितीत्मक युक्तिवाद: 'वय'",
+	"CodeDebug_key9": "<b>उदाहरण ३</b>",
+	"CodeDebug_key10": "<b><span style=\"\">Output</span> : -</b>",
+	"CodeDebug_key11": "TypeError: studentDetails() 1 आवश्यक पोझिशनल आर्ग्युमेंट गहाळ आहे: 'mentorName'"
+}

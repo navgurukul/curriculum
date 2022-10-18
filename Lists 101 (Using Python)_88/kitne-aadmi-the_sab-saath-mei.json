@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "All together"
+		"value": "Example 9"
 	},
 	{
 		"component": "text",
@@ -35,22 +35,22 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Sample <span style=\"\">Input</span>"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]"
+		"value": "l=[23,14,56,12,19,9,15,25,31,42,43]<br>sumodd=0<br>sumeven=0<br>odd=[]<br>even=[]<br>allnumbersum=0<br>l2=len(l)<br>for i in l:<br>&emsp;allnumbersum+=i<br>&emsp;if(i%2==0):<br>&emsp;&emsp;sumeven+=i<br>&emsp;&emsp;even.append(i)<br>&emsp;&emsp;length=len(even)<br>&emsp;else:<br>&emsp;&emsp;sumodd+=i<br>&emsp;&emsp;odd.append(i)<br>&emsp;&emsp;l1=len(odd)<br>print(\"Count of odd numbers=\",l1)<br>print(\"Count of even numbers=\",length)<br>print(\"Count of all the numbers=\",len(l))<br>print(\"Sum of odd numbers=\",sumodd)<br>print(\"Sum of even numbers=\",sumeven)<br>print(\"Sum of all the numbers=\",allnumbersum)<br>print(\"Average of odd numbers=\",sumodd/l1)<br>print(\"Average of even numbers=\",sumeven/length)<br>print(\"Average of all numbers=\",allnumbersum/l2)"
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Sample <span style=\"\">Output</span>"
 	},
 	{
 		"component": "text",
-		"value": "count of odd numbers  …. <br>count of even numbers ….<br>count of all the numbers …. <br>sum of odd numbers ….<br>sum of even numbers ….<br>sum of all the numbers …. <br>average of odd numbers ….<br>average of even numbers …. <br>average of all the numbers ka …."
+		"value": " Output:<br>Count of odd numbers= 7<br>Count of even numbers= 4<br>Count of all the numbers= 11<br>Sum of odd numbers= 165<br>Sum of even numbers= 124<br>Sum of all the numbers= 289<br>Average of odd numbers= 23.571428571428573<br>Average of even numbers= 31.0<br>Average of all numbers= 26.272727272727273"
 	}
 ]

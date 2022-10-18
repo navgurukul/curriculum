@@ -13,5 +13,15 @@
   {
     "component": "text",
     "value": "debugging-part1_debugging-question7_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "day = input(\"Aaj ka din kya hai? (monday/tuesday) > \")<br>time = input(\"Kaunse samay ka khana banana hai? (lunch/dinner) > \")<br>if day == \"monday\" or day == \"tuesday\":<br>&emsp;print(\"Daal-Roti banegi aaj\")<br>elif day == \"tuesday\" and time == \"dinner\":<br>&emsp;print(\"Pav-Bhaji banegi aaj toh :)\")"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question7_key3"
   }
 ]

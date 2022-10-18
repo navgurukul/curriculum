@@ -1,0 +1,20 @@
+{
+	"variables_variables-intro_key1": "నిర్వచించబడలేదు",
+	"variables_variables-intro_key2": "నిర్వచించబడలేదు",
+	"variables_variables-intro_key3": "<span style=\"\">వేరియబుల్స్</span> అంటే ఏమిటి ??",
+	"variables_variables-intro_key4": "అదేవిధంగా మనం <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">9999</span> ని <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">ఒక</span> VARIABLEలో పెట్టవచ్చు.",
+	"variables_variables-intro_key5": "123 మరియు 9999 <span style=\"\">INTEGERS</span> అని మీకు గుర్తుంది.",
+	"variables_variables-intro_key6": "<span style=\"\">అవుట్‌పుట్:-</span>",
+	"variables_variables-intro_key7": "123,9999",
+	"variables_variables-intro_key8": "మేము <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">variable_x</span> కి మరొక విలువను ఇవ్వగలము, ఈ <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">variable_x</span> ద్వారా నవీకరించబడుతుంది. మీరు క్రింద చూడగలిగినట్లుగా, మేము ఇప్పుడు <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">వేరియబుల్_</span> xకి 9.9 విలువను ఇచ్చాము.",
+	"variables_variables-intro_key9": "<span style=\"\">అవుట్‌పుట్:-</span>",
+	"variables_variables-intro_key10": "9.9",
+	"variables_variables-intro_key11": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">9.9</span> <span style=\"\">ఫ్లోట్</span> అని మీకు గుర్తుంది. అంటే మనం <span style=\"\">వేరియబుల్‌కు</span> వేర్వేరు విలువలను ఇవ్వగలము. మేము దానిని అప్‌డేట్ చేయనందున <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">దాని</span> విలువ మారలేదు. ఇప్పుడు మనం <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">a</span> ని అప్‌డేట్ చేయవచ్చు మరియు కొత్త <span style=\"\">వేరియబుల్</span> <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">బిని</span> తయారు చేయవచ్చు.",
+	"variables_variables-intro_key12": "<span style=\"\">వేరియబుల్‌లో</span> మేము కొంత డేటాను నిల్వ చేయగలమని ఇప్పుడు మీకు తెలుసు, అయితే కంప్యూటర్ డేటాను ఎలా నిల్వ చేస్తుందో మీకు తెలుసు",
+	"variables_variables-intro_key13": "<span style=\"\">అవుట్‌పుట్:-</span>",
+	"variables_variables-intro_key14": "హలో, ప్రపంచం, నవగురుకులం",
+	"variables_variables-intro_key15": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">డ్రై రన్</span>",
+	"variables_variables-intro_key16": "మీరందరూ ఈ ప్రశ్నలను పెన్ను మరియు కాగితాన్ని ఉపయోగించి చేయాలి. మీ నోట్‌బుక్‌లలోని అన్ని వ్యాయామాలను పరిష్కరించండి మరియు పరిష్కారాన్ని తనిఖీ చేయమని మీ చుట్టూ ఉన్న ఇతర వ్యక్తులను అడగండి.",
+	"variables_variables-intro_key17": "ఉదాహరణలు :-",
+	"variables_variables-intro_key18": "ఈ పరిష్కారాన్ని అర్థం చేసుకోవడానికి మరియు ధృవీకరించడానికి మీరు ఈ వీడియోలను చూడవచ్చు."
+}

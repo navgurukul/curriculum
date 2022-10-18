@@ -1,24 +1,22 @@
 [
 	{
+		"component": "image",
+		"value": "https://merakidebug.s3.ap-south-1.amazonaws.com/course_images/undefined",
+		"alt": "undefined"
+	},
+	{
+		"component": "image",
+		"value": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+		"alt": "undefined"
+	},
+	{
 		"component": "header",
 		"variant": 2,
-		"value": "What are <span style=\"\">Variables</span> ?"
+		"value": "What are <span style=\"\">Variables</span> ??"
 	},
 	{
 		"component": "text",
-		"value": "<b><span style=\"\">VARIABLE</span></b> is a memory/location in which the data is stored. Whose value we can change that is called a <span style=\"\">VARIABLE</span>. You can give any name to the <b><span style=\"\">VARIABLE</span></b> and you can store anything in the <span style=\"\">variable</span>."
-	},
-	{
-		"component": "text",
-		"value": "Just as we can store <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">123</span> in a VARIABLE named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_x</span>.",
-		"decoration": {
-			"type": "number",
-			"value": 1
-		}
-	},
-	{
-		"component": "text",
-		"value": "Similarly we can put <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">9999</span> in a VARIABLE named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>.",
+		"value": "Similarly we can put <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">9999</span> in a VARIABLE named as <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">a</span>.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -35,8 +33,17 @@
 		"value": "variable_x=123<br>a=9999<br># Let's see what happens when we print variable_x and a.<br>print (variable_x, a)"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output :-</span>"
+	},
+	{
 		"component": "text",
-		"value": "We can give another value to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_x</span>, by this <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_x</span> will be updated. As you can see below that we have given a value 9.9 to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_x</span> now."
+		"value": "123,9999"
+	},
+	{
+		"component": "text",
+		"value": "We can give another value to <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">variable_x</span>, by this <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">variable_x</span> will be updated. As you can see below that we have given a value 9.9 to the <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">variable_x</span> now."
 	},
 	{
 		"component": "code",
@@ -45,8 +52,17 @@
 		"value": "variable_x=9.9<br># Now print variable_x to see its value.<br>print (variable_x)"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output :-</span>"
+	},
+	{
 		"component": "text",
-		"value": "As you remember that <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">9.9</span> is <span style=\"\">float</span>. That means we can give different values to a <span style=\"\">variable</span>. Value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> is not changed because we have not updated it. Now we can update <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> and make a new <span style=\"\">variable</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span>."
+		"value": "9.9"
+	},
+	{
+		"component": "text",
+		"value": "As you remember that <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">9.9</span> is <span style=\"\">float</span>. That means we can give different values to a <span style=\"\">variable</span>. Value of <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">a</span> is not changed because we have not updated it. Now we can update <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">a</span> and make a new <span style=\"\">variable</span> <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">b</span>."
 	},
 	{
 		"component": "header",
@@ -65,8 +81,17 @@
 	},
 	{
 		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "hello,world,navgurukul"
+	},
+	{
+		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Dry Run</span>"
+		"value": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">Dry Run</span>"
 	},
 	{
 		"component": "text",

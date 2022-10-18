@@ -2,7 +2,12 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question"
+		"value": "Variables naming Example-2"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -19,5 +24,23 @@
 			"type": "number",
 			"value": 2
 		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "123var = 100<br>print(123var)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "SyntaxError: invalid syntax"
 	}
 ]

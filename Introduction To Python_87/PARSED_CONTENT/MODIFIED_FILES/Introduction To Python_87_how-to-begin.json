@@ -168,8 +168,29 @@
     }
   },
   {
+    "component": "code",
+    "value": ""
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "how-to-begin_key23"
+  },
+  {
+    "component": "code",
+    "value": ""
+  },
+  {
+    "component": "code",
+    "value": ""
+  },
+  {
+    "component": "youtube",
+    "value": ""
+  },
+  {
     "component": "text",
-    "value": "how-to-begin_key23",
+    "value": "how-to-begin_key24",
     "decoration": {
       "type": "bullet"
     }

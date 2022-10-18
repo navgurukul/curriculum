@@ -1,4 +1,5 @@
 {
-	"questions-n_duplicates_key1": "Duplicates",
-	"questions-n_duplicates_key2": "Take out the duplicates from this list and put it in different list and print it."
+	"questions-n_duplicates_key1": "Example 3",
+	"questions-n_duplicates_key2": " Output:<br>[19, 17, 12]",
+	"questions-n_duplicates_key3": "Take out the duplicates from this list and put it in different list and print it."
 }

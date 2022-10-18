@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Programming &amp; If Statements</span>"
+		"value": "<h3 style=\"text-transform: uppercase;\">PROGRAMMING & IF STATEMENTS</h3>"
 	},
 	{
 		"component": "text",
@@ -51,7 +51,7 @@
 	},
 	{
 		"component": "image",
-		"value": "assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg",
+		"value": "https://merakidebug.s3.ap-south-1.amazonaws.com/course_images/undefined",
 		"alt": "whatsapp-ticks"
 	},
 	{
@@ -72,8 +72,12 @@
 		"value": "Let's take an example that we want to check whether 4 is greater than 5. If yes, then we print <b>\"bada hai\"</b>. Else, we print <b>\"chota hai\"</b>. For this example, we can create the flowchart shown below:"
 	},
 	{
+		"component": "text",
+		"value": "Flowchart:-"
+	},
+	{
 		"component": "image",
-		"value": "assets/theory_images/if-statement-intro_flowchart1.png",
+		"value": "https://merakidebug.s3.ap-south-1.amazonaws.com/course_images/undefined",
 		"alt": "intro-png"
 	},
 	{
@@ -128,10 +132,10 @@
 			{
 				"header": "<b>Image</b>",
 				"items": [
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-process.png\" alt=\"Process Box\" />",
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-start.png\" alt=\"Flowchart Start Box\" />",
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-if-box.png\" alt=\"Condition Box\" />",
-					"<img src=\"assets/theory_images/if-statement-intro_flowchart-arrow.png\" alt=\"Condition Box\" />"
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-process.png\" alt=\"Process Box\" /> ",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-start.png\" alt=\"Flowchart Start Box\" /> ",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-if-box.png\" alt=\"Condition Box\" /> ",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-arrow.png\" alt=\"Condition Box\" /> "
 				]
 			},
 			{
@@ -155,8 +159,12 @@
 		"value": "The flowchart below shows the process of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Facebook login</span>. Follow the flowchart carefully, this example will clarify how flowchart works. "
 	},
 	{
+		"component": "text",
+		"value": "Flowchart -"
+	},
+	{
 		"component": "image",
-		"value": "assets/theory_images/if-statement-intro_fb-login-flowchart.png",
+		"value": "https://merakidebug.s3.ap-south-1.amazonaws.com/course_images/assets/theory_images/if-statement-intro_fb-login-flowchart.png",
 		"alt": "Facebook Login Flowchart"
 	}
 ]

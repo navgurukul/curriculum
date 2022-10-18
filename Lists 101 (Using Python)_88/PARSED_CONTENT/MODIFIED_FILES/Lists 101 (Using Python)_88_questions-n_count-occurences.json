@@ -13,14 +13,14 @@
     "value": "questions-n_count-occurences_key3"
   },
   {
+    "component": "text",
+    "value": "questions-n_count-occurences_key4"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
     "value": "char_list = [\"a\", \"n\", \"t\", \"a\", \"a\", \"t\", \"n\", \"n\", \"a\", \"x\", \"u\", \"g\", \"a\", \"x\", \"a\"]"
-  },
-  {
-    "component": "text",
-    "value": "questions-n_count-occurences_key4"
   },
   {
     "component": "text",
@@ -35,23 +35,25 @@
     "value": "questions-n_count-occurences_key7"
   },
   {
-    "component": "header",
-    "variant": 3,
+    "component": "text",
     "value": "questions-n_count-occurences_key8"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_count-occurences_key9"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "char_list = []"
-  },
-  {
-    "component": "header",
-    "variant": 4,
-    "value": "questions-n_count-occurences_key9"
+    "value": "char_list=[\"a\", \"n\", \"t\", \"a\", \"a\", \"t\", \"n\", \"n\", \"a\", \"x\", \"u\", \"g\", \"a\", \"x\", \"a\"]<br>i=0<br>list=[]<br>while i<len(char_list):<br>&emsp;j=0<br>&emsp;count=0<br>&emsp;list_2=[]<br>&emsp;while j<len(char_list):<br>&emsp;&emsp;if char_list[i]==char_list[j]:<br>&emsp;&emsp;&emsp;count+=1<br>&emsp;&emsp;j+=1<br>&emsp;list_2.append(char_list[i])<br>&emsp;list_2.append(count)<br>&emsp;if list_2 not in list:<br>&emsp;&emsp;list.append(list_2)<br>&emsp;i=i+1<br>print(list)"
   },
   {
     "component": "text",
     "value": "questions-n_count-occurences_key10"
+  },
+  {
+    "component": "text",
+    "value": "questions-n_count-occurences_key11"
   }
 ]

@@ -1,0 +1,20 @@
+{
+	"variables_variables-intro_key1": "अपरिभाषित",
+	"variables_variables-intro_key2": "अपरिभाषित",
+	"variables_variables-intro_key3": "<span style=\"\">व्हेरिएबल्स</span> म्हणजे काय??",
+	"variables_variables-intro_key4": "त्याचप्रमाणे आपण <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">9999</span> ला <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">नावाच्या</span> व्हेरिएबलमध्ये ठेवू शकतो.",
+	"variables_variables-intro_key5": "तुम्हाला आठवत असेल की 123 आणि 9999 <span style=\"\">INTEGERS</span> आहेत.",
+	"variables_variables-intro_key6": "<span style=\"\">आउटपुट :-</span>",
+	"variables_variables-intro_key7": "१२३,९९९९",
+	"variables_variables-intro_key8": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">व्हेरिएबल_एक्स</span> ला आपण दुसरी व्हॅल्यू देऊ शकतो, याद्वारे <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">व्हेरिएबल_एक्स</span> अपडेट केले जाईल. तुम्ही खाली बघू शकता की आम्ही आता <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">व्हेरिएबल_</span> x ला व्हॅल्यू 9.9 दिली आहे.",
+	"variables_variables-intro_key9": "<span style=\"\">आउटपुट :-</span>",
+	"variables_variables-intro_key10": "९.९",
+	"variables_variables-intro_key11": "तुम्हाला आठवत असेल की <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">9.9</span> <span style=\"\">फ्लोट</span> आहे. याचा अर्थ आपण <span style=\"\">व्हेरिएबलला</span> वेगवेगळी मूल्ये देऊ शकतो. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">a</span> चे मूल्य बदललेले नाही कारण आम्ही ते अपडेट केलेले नाही. आता आपण <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">a</span> अपडेट करू शकतो आणि <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">b</span> नवीन <span style=\"\">व्हेरिएबल</span> बनवू शकतो.",
+	"variables_variables-intro_key12": "आता तुम्हाला माहिती आहे <span style=\"\">variable</span> आम्ही काही डेटा संग्रहित करू शकतो परंतु संगणक डेटा कसा संग्रहित करतो हे तुम्हाला माहिती आहे",
+	"variables_variables-intro_key13": "<span style=\"\">आउटपुट :-</span>",
+	"variables_variables-intro_key14": "नमस्कार, जग, नवगुरुकुल",
+	"variables_variables-intro_key15": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">ड्राय रन</span>",
+	"variables_variables-intro_key16": "तुम्हा सर्वांना हे प्रश्न पेन आणि कागद वापरून करायचे आहेत. तुमच्या नोटबुकमधील सर्व व्यायाम सोडवा आणि तुमच्या सभोवतालच्या इतर लोकांना उपाय तपासण्यास सांगा.",
+	"variables_variables-intro_key17": "उदाहरणे :-",
+	"variables_variables-intro_key18": "हे उपाय समजून घेण्यासाठी आणि सत्यापित करण्यासाठी तुम्ही हे व्हिडिओ पाहू शकता."
+}

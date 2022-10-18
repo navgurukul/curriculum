@@ -116,7 +116,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 1<br>while counter < 10:<br>&emsp;print(\"The counter is\" + str(counter))<br>&emsp;counter = counter + 1<br>&emsp;print('--------')"
+    "value": "counter = 1<br>while counter < 10:<br>&emsp;print(\"The counter is \" + str(counter))<br>&emsp;counter = counter + 1<br>&emsp;print('--------')"
   },
   {
     "component": "text",

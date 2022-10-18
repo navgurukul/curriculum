@@ -17,7 +17,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "person={<br>&emsp;'name':'jack',<br>&emsp;'age':20,<br>&emsp;'gender':'male',<br>&emsp;4:'organisation'}<br><br>result = person['age'] <br>x = person.get(\"gender\")<br>print(person[4])<br>print(x)<br>print(result)"
+    "value": "person={<br>&emsp;'name':'jack',<br>&emsp;'age':20,<br>&emsp;'gender':'male',<br>&emsp;4:'organization'<br>}<br><br>result = person['age'] <br>x = person.get('gender')<br>print(person[4])<br>print(x)<br>print(result)"
   },
   {
     "component": "header",

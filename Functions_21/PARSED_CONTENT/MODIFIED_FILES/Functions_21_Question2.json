@@ -14,12 +14,34 @@
     "value": "Question2_key3"
   },
   {
-    "component": "header",
-    "variant": 3,
+    "component": "text",
     "value": "Question2_key4"
   },
   {
     "component": "text",
     "value": "Question2_key5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Question2_key6"
+  },
+  {
+    "component": "text",
+    "value": "Question2_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def name(a,b=20):<br>&emsp;#adding value of a and b parameters<br>&emsp;print(a+b)<br>#just passing one argument as value of b is already present as an positional<br>name(40)"
+  },
+  {
+    "component": "text",
+    "value": "Question2_key8"
+  },
+  {
+    "component": "text",
+    "value": "Question2_key9"
   }
 ]

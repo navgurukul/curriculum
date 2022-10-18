@@ -23,6 +23,14 @@
     "value": "CodeDebug_key4"
   },
   {
+    "component": "text",
+    "value": "CodeDebug_key5"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key6"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
@@ -30,12 +38,28 @@
   },
   {
     "component": "text",
-    "value": "CodeDebug_key5"
+    "value": "CodeDebug_key7"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key8"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key9"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
     "value": "<br>def studentDetails(name,currentMilestone,mentorName):<br>&emsp;print(\"Hello \" , name, \"your\" , currentMilestone, \"concept \" , \"is clear with the help of \", mentorName)<br><br><br>studentDetails(\"Nilam\",\"loop\")"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key10"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key11"
   }
 ]

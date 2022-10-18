@@ -13,5 +13,15 @@
   {
     "component": "text",
     "value": "debugging-part1_debugging-question4_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = float(input(\"please enter a decimal number\"))<br>answer = str(number/2)<br>print(\"your number divided by 2 is equal to = \" + answer)"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question4_key3"
   }
 ]

@@ -12,7 +12,7 @@
 		"component": "table",
 		"value": [
 			{
-				"header": "`OPERATORS",
+				"header": "OPERATORS",
 				"items": [
 					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">==</span>",
 					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!=</span>",
@@ -227,7 +227,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "x=6<br>y=9<br>print(x<y)"
+		"value": "x=6<br>y=9<br>print(x < y)"
 	},
 	{
 		"component": "header",
@@ -251,7 +251,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "a=13<br>b=10<br>print(a<b)"
+		"value": "a=13<br>b=10<br>print(a < b)"
 	},
 	{
 		"component": "header",

@@ -2,11 +2,34 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "What are function arguments?"
+		"value": "Function Arguments"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Definition</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "Some of the functions we've <span style=\"\">code</span>d so far using by simple print <span style=\"\">statements</span>. We can also write functions that take some data and do something with that data. Run this <span style=\"\">code</span>."
+		"value": "Information can be passed into functions as arguments. Arguments are specified after the function name inside the parentheses. You can add as many arguments as you want and separate them with a comma.<br>The following example has a function with one argument (fname). When the function is called, we pass along a first name, which is used inside the function to print the full name:"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Example</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "def my_function(fname):<br>&emsp;print(fname +\"Refsnes\")<br>my_function(\"Emil\")<br>my_function(\"Tobias\")<br>my_function(\"Linus\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Emil Refsnes<br>Tobias Refsnes<br>Linus Refsnes"
 	},
 	{
 		"component": "code",
@@ -60,7 +83,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b><span style=\"\">Output</span> :-</b>"
+		"value": "<b><span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
@@ -68,7 +91,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Here we have defined the function in the same way as in the previous example. Notice that the after <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def say_hello</span> in the function brackets we write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and the bellow of that we write the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> <span style=\"\">variable</span> with the  print command. Here the name is called * parameter * whose value we can give at the time of calling the function.While calling the function in the last line, we have written <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Atif\"</span> inside the brackets. The parameters we assign values ​​while calling a function are called arguments."
+		"value": "Here we have defined the function in the same way as in the previous example. Notice that the after <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def say_hello</span> in the function brackets we write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and the below of that we write the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> <span style=\"\">variable</span> with the  print command. Here the name is called * parameter * whose value we can give at the time of calling the function.While calling the function in the last line, we have written <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Atif\"</span> inside the brackets. The parameters we assign values ​​while calling a function are called arguments."
 	},
 	{
 		"component": "text",
@@ -159,7 +182,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Later we have defined two variables, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> and then called add<i>numbers by giving num</i>x and num_y arguments.",
+		"value": "Later we have defined two variables, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and then called add<i>numbers by giving num</i>x and name arguments.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -167,7 +190,7 @@
 	},
 	{
 		"component": "text",
-		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> is  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">134</span> goes to the first parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> and the value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rinki</span> goes to the second parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> .",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> is  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">134</span> goes to the first parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> and the value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rinki</span> goes to the second parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> .",
 		"decoration": {
 			"type": "number",
 			"value": null

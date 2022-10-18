@@ -1,7 +1,7 @@
 [
 	{
 		"component": "header",
-		"variant": 2,
+		"variant": 1,
 		"value": "To iterate over the list"
 	},
 	{
@@ -18,7 +18,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Iterate on your own contact list"
 	},
 	{
@@ -37,7 +37,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "To iterate over the names of students list"
 	},
 	{
@@ -63,7 +63,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Now iterate over the names of your friends list"
 	},
 	{
@@ -75,7 +75,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Out of them, the friend sitting nearest to you"
 	},
 	{
@@ -157,7 +157,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 2,
 		"value": "Example :-"
 	},
 	{
@@ -165,6 +165,10 @@
 		"type": "python",
 		"title": "",
 		"value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]<br>list_length = len(students_list)<br>index = 0<br>while index < list_length:<br>&emsp;print(students_list[index])<br>&emsp;index = index + 1"
+	},
+	{
+		"component": "text",
+		"value": "Output:-<br>robin<br>anamika<br>faisal<br>valmiki<br>waseem<br>amara"
 	},
 	{
 		"component": "text",
@@ -187,6 +191,10 @@
 	},
 	{
 		"component": "text",
+		"value": "Output:-<br>Total Marks: 383"
+	},
+	{
+		"component": "text",
 		"value": "Think about what will happen and try to <span style=\"\">execute</span> to see what will happen. Did you understand something?"
 	},
 	{
@@ -205,8 +213,12 @@
 		"value": "student_marks = [23, 45, 67, 89, 90, 54, 34, 21, 34, 23, 19, 28, 10, 45, 86, 87, 9]<br>list_length = len(student_marks)<br>index = 0<br>less_than50 = 0<br>more_than50 = 0<br>while index < list_length:<br>&emsp;marks = student_marks[index]<br>&emsp;if marks < 50:<br>&emsp;&emsp;less_than50 = less_than50 + 1<br>&emsp;else:<br>&emsp;&emsp;more_than50 = more_than50 + 1<br>&emsp;index = index + 1<br>print(\"Marks more than 50: \" + str(more_than50))<br>print(\"Marks less than 50: \" + str(less_than50))"
 	},
 	{
+		"component": "text",
+		"value": "Output:-<br>Marks more than 50: 6<br>Marks less than 50: 11"
+	},
+	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Question"
 	},
 	{

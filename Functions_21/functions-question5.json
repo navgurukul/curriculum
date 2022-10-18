@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 6"
+		"value": "Example 6"
 	},
 	{
 		"component": "text",
@@ -11,7 +11,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Question (Part 1)"
+		"value": "Example (Part 1)"
 	},
 	{
 		"component": "text",
@@ -19,7 +19,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"add\" is given in the operation, it will return number<i>x and number</i>y by adding it.",
+		"value": "If \"add\" is given in the operation, it will return number<i>_x and number</i>_y by adding it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -27,7 +27,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"subtract\" is given in the operation, it will subtract number<i>x and number</i>y and return it.",
+		"value": "If \"subtract\" is given in the operation, it will subtract number<i>_x and number</i>_y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -35,7 +35,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"multifly\" is given in the operation, it will multifly number<i>x and number</i>y and return it.",
+		"value": "If \"multiply\" is given in the operation, it will multifly number<i>_x and number</i>_y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If \"divide\" is given in the operation, it will divide number<i>x and number</i>y and return it.",
+		"value": "If \"divide\" is given in the operation, it will divide number<i>_x and number</i>_y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -122,9 +122,15 @@
 		}
 	},
 	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def calculator(number_x,number_y,operation):<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;print(number_x*number_y)<br>&emsp;else:<br>&emsp;&emsp;print(\"invalid request\")<br>calculator(14,2,\"add\")"
+	},
+	{
 		"component": "header",
 		"variant": 3,
-		"value": "Question (Part 2)"
+		"value": "Example (Part 2)"
 	},
 	{
 		"component": "text",
@@ -181,7 +187,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Question (Part 2)"
+		"value": "Example (Part 2)"
 	},
 	{
 		"component": "text",
@@ -199,7 +205,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "multiple_list = list_change([5, 10, 50, 20], [2, 20, 3, 5])"
+		"value": "def calculator(number_x,number_y,operation):<br>&emsp;l=[]<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;for i in range(len(number_x)):<br>&emsp;&emsp;&emsp;mul=number_x[i]*number_y[i]<br>&emsp;&emsp;&emsp;l.append(mul)<br>&emsp;&emsp;print(l)<br>&emsp;else:print(\"invalid request\")<br>l1=[10,20,30,40]<br>l2=[50,60,70,80]<br>calculator(l1,l2,\"multiply\")"
 	},
 	{
 		"component": "text",

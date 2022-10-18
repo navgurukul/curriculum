@@ -28,7 +28,11 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key6",
+    "value": "lists-operations_key6"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key7",
     "decoration": {
       "type": "number",
       "value": 1
@@ -36,7 +40,7 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key7",
+    "value": "lists-operations_key8",
     "decoration": {
       "type": "number",
       "value": 2
@@ -44,7 +48,7 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key8",
+    "value": "lists-operations_key9",
     "decoration": {
       "type": "number",
       "value": 3
@@ -52,7 +56,7 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key9",
+    "value": "lists-operations_key10",
     "decoration": {
       "type": "number",
       "value": 4
@@ -60,7 +64,7 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key10",
+    "value": "lists-operations_key11",
     "decoration": {
       "type": "number",
       "value": 5
@@ -68,39 +72,39 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key11"
+    "value": "lists-operations_key12"
   },
   {
     "component": "table",
     "value": [
       {
-        "header": "lists-operations_key12",
+        "header": "lists-operations_key13",
         "items": [
-          "lists-operations_key13"
+          "lists-operations_key14"
         ]
       },
       {
-        "header": "lists-operations_key14",
+        "header": "lists-operations_key15",
         "items": [
-          "lists-operations_key15"
+          "lists-operations_key16"
         ]
       },
       {
-        "header": "lists-operations_key16",
+        "header": "lists-operations_key17",
         "items": [
-          "lists-operations_key17"
+          "lists-operations_key18"
         ]
       },
       {
-        "header": "lists-operations_key18",
+        "header": "lists-operations_key19",
         "items": [
-          "lists-operations_key19"
+          "lists-operations_key20"
         ]
       },
       {
-        "header": "lists-operations_key20",
+        "header": "lists-operations_key21",
         "items": [
-          "lists-operations_key21"
+          "lists-operations_key22"
         ]
       }
     ]
@@ -113,32 +117,28 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key22"
-  },
-  {
-    "component": "blockquote",
     "value": "lists-operations_key23"
   },
   {
-    "component": "text",
+    "component": "blockquote",
     "value": "lists-operations_key24"
   },
   {
-    "component": "header",
-    "variant": 4,
+    "component": "text",
     "value": "lists-operations_key25"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 2,
     "value": "lists-operations_key26"
   },
   {
-    "component": "header",
-    "variant": 4,
+    "component": "text",
     "value": "lists-operations_key27"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 2,
     "value": "lists-operations_key28"
   },
   {
@@ -146,19 +146,13 @@
     "value": "lists-operations_key29"
   },
   {
-    "component": "header",
-    "variant": 3,
+    "component": "text",
     "value": "lists-operations_key30"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 2,
     "value": "lists-operations_key31"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>names_list[0] = \"abhishek\"<br>print(names_list)"
   },
   {
     "component": "text",
@@ -168,25 +162,24 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "names_list = [\"abhishek\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>names_list[3]=\"rishabh\"<br>print(names_list)"
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>names_list[0] = \"abhishek\"<br>print(names_list)"
   },
   {
     "component": "text",
     "value": "lists-operations_key33"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "names_list = [\"abhishek\", \"shivam\", \"deepa\", \"rishabh\", \"rupa\"]<br>names_list[5]=\"dhruv\"<br>print(names_list)"
-  },
-  {
     "component": "text",
     "value": "lists-operations_key34"
   },
   {
-    "component": "header",
-    "variant": 3,
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"abhishek\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>names_list[3]=\"rishabh\"<br>print(names_list)"
+  },
+  {
+    "component": "text",
     "value": "lists-operations_key35"
   },
   {
@@ -197,20 +190,15 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print(len(names_list))"
+    "value": "names_list = [\"abhishek\", \"shivam\", \"deepa\", \"rishabh\", \"rupa\"]<br>names_list[5]=\"dhruv\"<br>print(names_list)"
   },
   {
     "component": "text",
     "value": "lists-operations_key37"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print(names_list)<br>names_list.append(\"dhruv\")<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
-  },
-  {
-    "component": "text",
+    "component": "header",
+    "variant": 2,
     "value": "lists-operations_key38"
   },
   {
@@ -221,45 +209,89 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>names_list.append(\"alok\")<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print(len(names_list))"
   },
   {
     "component": "text",
     "value": "lists-operations_key40"
   },
   {
-    "component": "header",
-    "variant": 3,
+    "component": "text",
     "value": "lists-operations_key41"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print(names_list)<br>names_list.append(\"dhruv\")<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
   },
   {
     "component": "text",
     "value": "lists-operations_key42"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>names_list.pop()<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
-  },
-  {
     "component": "text",
     "value": "lists-operations_key43"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>names_list.pop()<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
   },
   {
     "component": "text",
     "value": "lists-operations_key44"
   },
   {
-    "component": "header",
-    "variant": 4,
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>names_list.append(\"alok\")<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
+  },
+  {
+    "component": "text",
     "value": "lists-operations_key45"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key46"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-operations_key47"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key48"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>names_list.pop()<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key49"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key50"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>names_list.pop()<br>print(\"length of the list is \", len(names_list))<br>print(names_list)"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key51"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key52"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-operations_key53"
   },
   {
     "component": "code",
@@ -268,18 +300,22 @@
     "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>print(\"length of the list is \", len(names_list), names_list)<br>names_list.pop(2)<br>print(\"length of the list is \", len(names_list), names_list)<br>names_list.pop(2)<br>print(\"length of the list is \", len(names_list), names_list)"
   },
   {
+    "component": "text",
+    "value": "lists-operations_key54"
+  },
+  {
     "component": "header",
-    "variant": 3,
-    "value": "lists-operations_key46"
+    "variant": 2,
+    "value": "lists-operations_key55"
   },
   {
     "component": "text",
-    "value": "lists-operations_key47"
+    "value": "lists-operations_key56"
   },
   {
     "component": "header",
-    "variant": 4,
-    "value": "lists-operations_key48"
+    "variant": 2,
+    "value": "lists-operations_key57"
   },
   {
     "component": "code",
@@ -289,7 +325,11 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key49"
+    "value": "lists-operations_key58"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key59"
   },
   {
     "component": "code",
@@ -299,16 +339,20 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key50"
+    "value": "lists-operations_key60"
   },
   {
     "component": "text",
-    "value": "lists-operations_key51"
+    "value": "lists-operations_key61"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key62"
   },
   {
     "component": "header",
-    "variant": 4,
-    "value": "lists-operations_key52"
+    "variant": 2,
+    "value": "lists-operations_key63"
   },
   {
     "component": "code",
@@ -318,6 +362,10 @@
   },
   {
     "component": "text",
-    "value": "lists-operations_key53"
+    "value": "lists-operations_key64"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key65"
   }
 ]

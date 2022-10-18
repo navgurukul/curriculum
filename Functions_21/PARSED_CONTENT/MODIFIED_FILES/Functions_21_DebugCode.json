@@ -16,7 +16,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def sum()<br>&emsp;print(12+13)<br>sum()"
+    "value": "def greet(names):<br>&emsp;for name in names:<br>&emsp;&emsp;print(\"Welcome\", name)<br><br><br>greet(\"Rinki\", \"Vishal\", \"Kartik\", \"Bijender\")"
   },
   {
     "component": "text",
@@ -26,7 +26,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "daf welcome():<br>&emsp;print(\"Welcome to function\")<br>welcome()"
+    "value": "def info(name, age = ):<br>   print(name + \" is \" + age + \" years old\")<br><br>info(\"Sonu\")<br>info(\"Sana\", \"17\")<br>info(\"Umesh\", \"18\")"
   },
   {
     "component": "text",
@@ -36,6 +36,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "<br>isEven()<br><br>def isEven():<br>&emsp;if(12%2==0):<br>&emsp;&emsp;print(\"Even Number\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Old Number\")"
+    "value": "<br>def studentDetails(name,currentMilestone,mentorName):<br>&emsp;print(\"Hello \" , name, \"your\" , currentMilestone, \"concept \" , \"is clear with the help of \", mentorName)<br><br><br>studentDetails(\"Nilam\",\"loop\")"
   }
 ]

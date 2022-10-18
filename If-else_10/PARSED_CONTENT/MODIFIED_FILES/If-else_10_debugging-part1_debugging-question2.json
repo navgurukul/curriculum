@@ -13,5 +13,15 @@
   {
     "component": "text",
     "value": "debugging-part1_debugging-question2_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "#convert the year to string <br>year = str(2016)<br>name = \"NavGurukul\"# add variable name year after comma<br>print(name + ','+ year + \" mein start hua tha!\")"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question2_key3"
   }
 ]

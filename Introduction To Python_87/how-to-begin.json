@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 1,
-		"value": "Anyone can do anything"
+		"value": "Anyone can do anything!"
 	},
 	{
 		"component": "text",
@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Select the <span style=\"\">code</span> given above, press <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Ctrl + C</span> together so that the <span style=\"\">code</span> will be copied and then you can go to the <span style=\"\">terminal</span> and paste this <span style=\"\">code</span> by pressing <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Ctrl + Shift + V</span> on the <span style=\"\">terminal</span>."
+		"value": "Select the <span style=\"\">code</span> given above, press <span style=\" background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Ctrl + C</span> together so that the <span style=\"\">code</span> will be copied and then you can go to the <span style=\"\">terminal</span> and paste this <span style=\"\">code</span> by pressing <span style=\" background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Ctrl + Shift + V</span> on the <span style=\"\">terminal</span>."
 	},
 	{
 		"component": "text",
@@ -55,7 +55,7 @@
 	},
 	{
 		"component": "text",
-		"value": "This is the first line, run this line on the <span style=\"\">terminal</span>, you will be able to see something on the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">terminal</span>."
+		"value": "This is the first line, run this line on the <span style=\"\">terminal</span>, you will be able to see something on the <span style=\" background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">terminal</span>."
 	},
 	{
 		"component": "code",
@@ -105,7 +105,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Copy-paste this on <span style=\"\">Terminal</span> and to stop this press  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Ctrl + C</span>  together on the <span style=\"\">Terminal</span>."
+		"value": "Copy-paste this on <span style=\"\">Terminal</span> and to stop this press  <span style=\" background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Ctrl + C</span>  together on the <span style=\"\">Terminal</span>."
 	},
 	{
 		"component": "code",
@@ -139,7 +139,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Similarly, in this way, only <span style=\"\">codes</span> will be written in the whole course. You will be required to run the <span style=\"\">code</span> this way only. To run this <span style=\"\">code</span> you need to open an <span style=\"\">application</span> named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Terminal</span> on your laptop. After opening it, you need to type the <span style=\"\">python</span> <span style=\"\">code</span> and then run it."
+		"value": "Similarly, in this way, only <span style=\"\">codes</span> will be written in the whole course. You will be required to run the <span style=\"\">code</span> this way only. To run this <span style=\"\">code</span> you need to open an <span style=\"\">application</span> named <span style=\" background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">Terminal</span> on your laptop. After opening it, you need to type the <span style=\"\">python</span> <span style=\"\">code</span> and then run it."
 	},
 	{
 		"component": "header",
@@ -162,10 +162,31 @@
 	},
 	{
 		"component": "text",
-		"value": "Words written in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">UPPER CASE</span> or <b>bold letters</b> are very important. Learn them, you will come across them many times.",
+		"value": "Words written in <span style=\" background-color: rgba( 233, 245, 233, 0.83);   border-radius: 2px; padding: 2px\">UPPER CASE</span> or <b>bold letters</b> are very important. Learn them, you will come across them many times.",
 		"decoration": {
 			"type": "bullet"
 		}
+	},
+	{
+		"component": "code",
+		"value": ""
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": ""
+	},
+	{
+		"component": "code",
+		"value": ""
+	},
+	{
+		"component": "code",
+		"value": ""
+	},
+	{
+		"component": "youtube",
+		"value": ""
 	},
 	{
 		"component": "text",

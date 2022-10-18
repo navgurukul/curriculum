@@ -39,5 +39,23 @@
   {
     "component": "text",
     "value": "QuestionSet2_question5_key10"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet2_question5_key11"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet2_question5_key12"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet2_question5_key13"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet2_question5_key14"
   }
 ]

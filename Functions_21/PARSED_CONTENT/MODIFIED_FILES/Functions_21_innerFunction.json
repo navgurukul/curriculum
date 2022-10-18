@@ -61,7 +61,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;s = \"MY NAME IS JACK\"<br>&emsp;&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>&emsp;print(s)&emsp;<br> <br>first_function()"
+    "value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;s = \"MY NAME IS JACK\"<br>&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>&emsp;print(s)&emsp;<br> <br>first_function()"
   },
   {
     "component": "text",

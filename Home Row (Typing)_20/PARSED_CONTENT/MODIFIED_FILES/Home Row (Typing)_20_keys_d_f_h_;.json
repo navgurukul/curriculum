@@ -16,7 +16,8 @@
       {
         "url": "https://merakilearn.org/typing",
         "label": "Go to typing app",
-        "data": "{\"content\":[\"d\",\"f\",\"h\",\";\"],\"code\":\"trytyping\"}"
+        "data": "{\"content\":[\"d\",\"f\",\"h\",\";\"],\"code\":\"trytyping\"}",
+        "variant": "primary"
       }
     ]
   }

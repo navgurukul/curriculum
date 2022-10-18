@@ -1,7 +1,7 @@
 {
 	"Types_Comparison_key1": "COMPARISON <span style=\"\">OPERATORS</span>",
 	"Types_Comparison_key2": "We use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">comparison operators</span> to compare two values. Their answer or result is always of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean Data Type</span>.",
-	"Types_Comparison_key3": "`OPERATORS",
+	"Types_Comparison_key3": "OPERATORS",
 	"Types_Comparison_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">==</span>",
 	"Types_Comparison_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!=</span>",
 	"Types_Comparison_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&gt;</span>",

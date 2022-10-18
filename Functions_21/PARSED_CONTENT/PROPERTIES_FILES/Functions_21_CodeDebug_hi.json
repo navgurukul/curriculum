@@ -1,7 +1,13 @@
 {
-    "CodeDebug_key1": "डीबग <span style=\"\">Code</span>",
-    "CodeDebug_key2": "अब हम फ़ंक्शन से संबंधित <span style=\"\">code</span> डीबग करते हैं।",
-    "CodeDebug_key3": "<b>प्रश्न 1</b>",
-    "CodeDebug_key4": "<b>प्रश्न 2</b>",
-    "CodeDebug_key5": "<b>प्रश्न 3</b>"
+	"CodeDebug_key1": "डीबग <span style=\"\">Code</span>",
+	"CodeDebug_key2": "अब हम फ़ंक्शन से संबंधित <span style=\"\">code</span> डीबग करते हैं।",
+	"CodeDebug_key3": "<b>उदाहरण 1</b>",
+	"CodeDebug_key4": "<b><span style=\"\">Output</span> :-</b>",
+	"CodeDebug_key5": "लेखन त्रुटि: अभिवादन () 1 स्थितीय तर्क लेता है लेकिन 4 दिए गए थे",
+	"CodeDebug_key6": "<b>उदाहरण 2</b>",
+	"CodeDebug_key7": "<b><span style=\"\">Output</span> :-</b>",
+	"CodeDebug_key8": "लेखन त्रुटि: जानकारी () लापता 1 आवश्यक स्थितीय तर्क: 'उम्र'",
+	"CodeDebug_key9": "<b>उदाहरण 3</b>",
+	"CodeDebug_key10": "<b><span style=\"\">Output</span> :-</b>",
+	"CodeDebug_key11": "लेखन त्रुटि: छात्र विवरण () लापता 1 आवश्यक स्थितिगत तर्क: 'सलाहकारनाम'"
 }

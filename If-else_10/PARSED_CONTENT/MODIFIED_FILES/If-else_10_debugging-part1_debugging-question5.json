@@ -13,5 +13,15 @@
   {
     "component": "text",
     "value": "debugging-part1_debugging-question5_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "mangoes = 5<br>mangoes = mangoes + 5<br># please take care of case sensitivity in variable name<br>print(mangoes / 5)"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question5_key3"
   }
 ]

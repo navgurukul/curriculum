@@ -69,7 +69,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "person={<br>&emsp;'name':'jack',<br>&emsp;'id':22,<br>&emsp;'place':'dharamsala'<br>}<br><br>del person('place')<br>print(person)"
+    "value": "person={<br>&emsp;'name':'jack',<br>&emsp;'id':22,<br>&emsp;'place':'dharamsala'<br>}<br><br>del person(['place'])<br>print(person)"
   },
   {
     "component": "header",

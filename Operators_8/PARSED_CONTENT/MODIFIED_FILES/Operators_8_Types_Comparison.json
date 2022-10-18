@@ -227,7 +227,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "x=6<br>y=9<br>print(x<y)"
+    "value": "x=6<br>y=9<br>print(x < y)"
   },
   {
     "component": "header",
@@ -251,7 +251,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "a=13<br>b=10<br>print(a<b)"
+    "value": "a=13<br>b=10<br>print(a < b)"
   },
   {
     "component": "header",

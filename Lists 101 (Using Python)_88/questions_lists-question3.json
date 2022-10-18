@@ -1,5 +1,10 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 3"
+	},
+	{
 		"component": "text",
 		"value": "Write a <span style=\"\">code</span> that prints the maximum in this list."
 	},
@@ -7,7 +12,11 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]"
+		"value": "numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]<br>print(max(numbers))"
+	},
+	{
+		"component": "text",
+		"value": "Output:-<br>70"
 	},
 	{
 		"component": "text",

@@ -2,11 +2,15 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Count Occurences"
+		"value": "Example 2"
 	},
 	{
 		"component": "text",
 		"value": "<b>Occurences</b> - is made from the word <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occur</span> which means that how many times a certain character or word appears."
+	},
+	{
+		"component": "text",
+		"value": "We have to count the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occurences</span> of characters present in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">char_list</span> and we have to <span style=\"\">save</span> in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span>, then we have to use that nested list to print the <span style=\"\">output</span>."
 	},
 	{
 		"component": "text",
@@ -17,6 +21,14 @@
 		"type": "python",
 		"title": "",
 		"value": "char_list = [\"a\", \"n\", \"t\", \"a\", \"a\", \"t\", \"n\", \"n\", \"a\", \"x\", \"u\", \"g\", \"a\", \"x\", \"a\"]"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output:-</span></b>"
+	},
+	{
+		"component": "text",
+		"value": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]"
 	},
 	{
 		"component": "text",
@@ -31,27 +43,17 @@
 		"value": "a - 6 times<br>n - 3 times<br>t - 2 times<br>x - 2 times<br>u - 1 times<br>g - 1 times"
 	},
 	{
-		"component": "text",
-		"value": "We have to count the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occurences</span> of characters present in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">char_list</span> and we have to <span style=\"\">save</span> in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span>, then we have to use that nested list to print the <span style=\"\">output</span>."
-	},
-	{
-		"component": "header",
-		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>"
-	},
-	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "char_list = []"
-	},
-	{
-		"component": "header",
-		"variant": 4,
-		"value": "Solution"
+		"value": "char_list=[\"a\", \"n\", \"t\", \"a\", \"a\", \"t\", \"n\", \"n\", \"a\", \"x\", \"u\", \"g\", \"a\", \"x\", \"a\"]<br>i=0<br>list=[]<br>while i<len(char_list):<br>&emsp;j=0<br>&emsp;count=0<br>&emsp;list_2=[]<br>&emsp;while j<len(char_list):<br>&emsp;&emsp;if char_list[i]==char_list[j]:<br>&emsp;&emsp;&emsp;count+=1<br>&emsp;&emsp;j+=1<br>&emsp;list_2.append(char_list[i])<br>&emsp;list_2.append(count)<br>&emsp;if list_2 not in list:<br>&emsp;&emsp;list.append(list_2)<br>&emsp;i=i+1<br>print(list)"
 	},
 	{
 		"component": "text",
-		"value": "[]"
+		"value": "<b><span style=\"\">Output:-</span></b>"
+	},
+	{
+		"component": "text",
+		"value": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]"
 	}
 ]

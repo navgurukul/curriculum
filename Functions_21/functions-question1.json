@@ -2,12 +2,12 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 1"
+		"value": "FUNCTIONS EXAMPLE 1"
 	},
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Question 1 (Part 1)"
+		"value": "Example 1 (Part 1) :-"
 	},
 	{
 		"component": "text",
@@ -20,13 +20,25 @@
 		"value": "#write function here<br><br># Who is the founder of Facebook?<br><br># - Mark Zuckerberg<br># - Bill Gates<br># - Steve Jobs<br># - Larry Page"
 	},
 	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def ask_question():<br>&emsp;print(\"once\")<br>#calling function 5 times to print once<br>ask_question()<br>ask_question()<br>ask_question()<br>ask_question()<br>ask_question()"
+	},
+	{
 		"component": "text",
 		"value": "Then call this function 5 times and get this text printed 5 times."
 	},
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "Question 1 (Part 2)"
+		"value": "Example 1 (Part 2) :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#defining function with name ask_question<br>def ask_question():<br>&emsp;print(\"once\")<br>#calling function 100 times to print once<br>i=1<br>#Using while loop we are calling function 100 times<br>while(i<=100):<br>&emsp;ask_question()<br>&emsp;i+=1"
 	},
 	{
 		"component": "text",

@@ -1,0 +1,97 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Why Navgurukul and life at campuses"
+	},
+	{
+		"component": "text",
+		"value": "Life at our different campuses is vibrant and community based. We live, study and carry out the daily chores together. There are currently six campuses as mentioned below:"
+	},
+	{
+		"component": "text",
+		"value": "Pune",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Bangalore",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sarjapur",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Dharamshala",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Delhi",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Tripura",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Please watch these videos for an overview of life at campuses. Then, we will go into details of the residential programmes at each of the campuses. (Pune/Bangalore/Sarjapur have simialr programmes hence, their information will be at one place together)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Who can join NavGurukul</b> "
+	},
+	{
+		"component": "youtube",
+		"value": "ztpsLr9icCA"
+	},
+	{
+		"component": "text",
+		"value": "<b>Safety & Security of Campus</b>"
+	},
+	{
+		"component": "youtube",
+		"value": "7awZ1KCqvIw"
+	},
+	{
+		"component": "text",
+		"value": "<b>Campus Stay & Community Living</b>"
+	},
+	{
+		"component": "youtube",
+		"value": "eaXvYAqVu6M"
+	},
+	{
+		"component": "text",
+		"value": "<b>Life at NavGurukul</b>"
+	},
+	{
+		"component": "youtube",
+		"value": "IqMUClmN7"
+	},
+	{
+		"component": "text",
+		"value": "<b>Program introduction in 2 minutes</b>"
+	},
+	{
+		"component": "youtube",
+		"value": "dLVT1fJeWHI"
+	}
+]

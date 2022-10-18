@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "person={<br>&emsp;'name':'jack',<br>&emsp;'age':20,<br>&emsp;'gender':'male',<br>&emsp;4:'organisation'}<br><br>result = person['age'] <br>x = person.get(\"gender\")<br>print(person[4])<br>print(x)<br>print(result)"
+		"value": "person={<br>&emsp;'name':'jack',<br>&emsp;'age':20,<br>&emsp;'gender':'male',<br>&emsp;4:'organization'<br>}<br><br>result = person['age'] <br>x = person.get('gender')<br>print(person[4])<br>print(x)<br>print(result)"
 	},
 	{
 		"component": "header",
@@ -26,7 +26,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">organisation male 20</span> "
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">organisation<br>male<br>20</span> "
 	},
 	{
 		"component": "header",

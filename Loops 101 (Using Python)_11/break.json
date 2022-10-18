@@ -6,12 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "is a  <b>keyword</b> in python. That helps us in coming out of the and goes to new line which is out of the ."
-	},
-	{
-		"component": "image",
-		"value": "assets/how-break-statement-works.jpg",
-		"alt": "Mobile Video Recorder"
+		"value": "break is a  <b>keyword</b> in python. That helps us in coming out of the and goes to new line which is out of the ."
 	},
 	{
 		"component": "code",

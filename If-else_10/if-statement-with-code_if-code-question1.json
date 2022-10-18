@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 1"
+		"value": "Example 1"
 	},
 	{
 		"component": "text",
@@ -11,6 +11,17 @@
 	{
 		"component": "text",
 		"value": "If this number is less than 10 then print  <b>\"10 se chota hai\"</b>. If it is greater than 10 and lesser than 20 then print <b>\"20 se chota hai\"</b>. Else if it is greater than 20 then print <b>\"20 se bada hai\"</b>. Complete the flowchart as per the above instructions."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num = int(input(\"enter any number\"))<br>if num < 10:<br>&emsp;print(\"10 se chotta hai\")<br>elif num > 10 and num < 20:<br>&emsp;print(\"20 se chotta hai\")<br>else:<br>&emsp;print(\"20 se badda hai\")"
 	},
 	{
 		"component": "image",

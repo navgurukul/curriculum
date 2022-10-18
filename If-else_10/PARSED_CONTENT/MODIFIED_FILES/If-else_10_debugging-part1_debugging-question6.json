@@ -13,5 +13,15 @@
   {
     "component": "text",
     "value": "debugging-part1_debugging-question6_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "speed = int(input(\"Gaadi ki speed daalo > \"))<br>if speed < 60:<br>&emsp;print(\"Speed kam hai\")<br>elif speed < 30:<br>&emsp;print(\"Speed bahot kam hai\")<br>elif speed > 100:<br>&emsp;print(\"Speed bahot fast hai\")"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question6_key3"
   }
 ]

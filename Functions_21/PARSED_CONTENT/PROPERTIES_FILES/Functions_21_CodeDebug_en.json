@@ -1,7 +1,13 @@
 {
 	"CodeDebug_key1": "Debug <span style=\"\">Code</span>",
 	"CodeDebug_key2": "Now we debug the <span style=\"\">code</span> related to function.",
-	"CodeDebug_key3": "<b>Question 1</b>",
-	"CodeDebug_key4": "<b>Question 2</b>",
-	"CodeDebug_key5": "<b>Question 3</b>"
+	"CodeDebug_key3": "<b>Example 1</b>",
+	"CodeDebug_key4": "<b><span style=\"\">Output</span> :-</b>",
+	"CodeDebug_key5": "TypeError: greet() takes 1 positional argument but 4 were given",
+	"CodeDebug_key6": "<b>Example 2</b>",
+	"CodeDebug_key7": "<b><span style=\"\">Output</span> :-</b>",
+	"CodeDebug_key8": "TypeError: info() missing 1 required positional argument: 'age'",
+	"CodeDebug_key9": "<b>Example 3</b>",
+	"CodeDebug_key10": "<b><span style=\"\">Output</span> :-</b>",
+	"CodeDebug_key11": "TypeError: studentDetails() missing 1 required positional argument: 'mentorName'"
 }
