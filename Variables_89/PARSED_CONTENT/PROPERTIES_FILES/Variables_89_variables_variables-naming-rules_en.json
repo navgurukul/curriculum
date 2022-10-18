@@ -1,5 +1,5 @@
 {
-	"variables_variables-naming-rules_key1": "Rules for naming a <span style=\"\">VARIABLE</span>",
+	"variables_variables-naming-rules_key1": "Naming rules for a <span style=\"\">VARIABLE</span>",
 	"variables_variables-naming-rules_key2": "In <span style=\"\">Python</span> for naming <span style=\"\">variables</span>, some rules are followed. If we do not follow these rules, then the <i>program</i> is not going to be correct.  ",
 	"variables_variables-naming-rules_key3": "Keep these 3 rules always in your mind :  ",
 	"variables_variables-naming-rules_key4": "The name starts with either some - Letter or an _ (underscore).  ",

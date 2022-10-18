@@ -1,5 +1,10 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 6"
+	},
+	{
 		"component": "text",
 		"value": "A <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">palindrome</span> is a word, sentence, verse, or even a number that reads the same backward or forward. Like NITIN. Read Nitin either from left or right, it will be same. Similarly MOM is also a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">palindrome</span>."
 	},
@@ -15,7 +20,16 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "name=[ 'n', 'i', 't', 'i', 'n' ]"
+		"value": "# initializing list<br>test_list = ['n','i','t','i','n']<br># Reversing the list<br>reverse = test_list[::-1]<br># checking if palindrome<br>res = test_list == reverse<br># printing result<br>if(res):<br>&emsp;print(\"Haan! palindrome hai\")<br>else:<br>&emsp;print(\"Nahi! palindrome nahi h\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "Haan! palindrome hai"
 	},
 	{
 		"component": "text",

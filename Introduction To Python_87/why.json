@@ -9,7 +9,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 1,
 		"value": "What are the feature of coding"
 	},
 	{
@@ -22,7 +22,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Coding has practical <span style=\"\">applications</span> is many industries, for example following video discusses use of coding in medical science and how it can <span style=\"\">save</span> lives, in this video Joshua was treated in one day, thanks to algorithms they used to analyse his gene sequence which is impossible to figure out otherwise. "
+		"value": "Coding has practical <span style=\"\">applications</span> in many industries, for example following video discusses use of coding in medical science and how it can <span style=\"\">save</span> lives, in this video Joshua was treated in one day, thanks to algorithms they used to analyse his gene sequence which is impossible to figure out otherwise. "
 	},
 	{
 		"component": "youtube",
@@ -30,7 +30,7 @@
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 1,
 		"value": "Difference Between <span style=\"\">Python2</span> and <span style=\"\">Python3</span>"
 	},
 	{
@@ -69,7 +69,7 @@
 	},
 	{
 		"component": "text",
-		"value": "In Python2 we use raw_input ka use for user input.",
+		"value": "In Python2 we use raw_input for user input.",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -136,7 +136,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Python3 has 35 keywords .",
+		"value": "Python3 has 33 keywords .",
 		"decoration": {
 			"type": "number",
 			"value": 5

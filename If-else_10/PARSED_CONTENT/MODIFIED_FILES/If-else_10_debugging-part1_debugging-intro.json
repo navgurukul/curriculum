@@ -6,12 +6,17 @@
   },
   {
     "component": "image",
-    "value": "https://merakidebug.s3.ap-south-1.amazonaws.com/course_images/undefined",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/undefined",
     "alt": "debugging-part1_debugging-intro_key2"
   },
   {
     "component": "text",
     "value": "debugging-part1_debugging-intro_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-intro_key4"
   },
   {
     "component": "code",
@@ -21,20 +26,11 @@
   },
   {
     "component": "text",
-    "value": "debugging-part1_debugging-intro_key4"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "<ipython-input-1-2a33fa4e8a92> in <module>()<br>&emsp;  1 number1 = 234<br>----> 2 print(numer1)<br><br>NameError: name 'numer1' is not defined"
-  },
-  {
-    "component": "text",
     "value": "debugging-part1_debugging-intro_key5"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "debugging-part1_debugging-intro_key6"
   },
   {
@@ -42,13 +38,25 @@
     "value": "debugging-part1_debugging-intro_key7"
   },
   {
-    "component": "header",
-    "variant": 3,
+    "component": "text",
     "value": "debugging-part1_debugging-intro_key8"
   },
   {
     "component": "text",
     "value": "debugging-part1_debugging-intro_key9"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key10"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-intro_key12"
   },
   {
     "component": "code",
@@ -58,20 +66,23 @@
   },
   {
     "component": "text",
-    "value": "debugging-part1_debugging-intro_key10"
+    "value": "debugging-part1_debugging-intro_key13"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "<ipython-input-2-56b79ffda8bc> in <module>()<br>&emsp;  1 cnumber1 = 234<br>&emsp;  2 number2 = \"1\"<br>----> 3 print(number1 + number2)<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
-  },
-  {
-    "component": "text",
-    "value": "debugging-part1_debugging-intro_key11"
+    "component": "header",
+    "variant": 4,
+    "value": "debugging-part1_debugging-intro_key14"
   },
   {
     "component": "text",
-    "value": "debugging-part1_debugging-intro_key12"
+    "value": "debugging-part1_debugging-intro_key15"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key16"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-intro_key17"
   }
 ]

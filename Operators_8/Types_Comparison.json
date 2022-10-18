@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "COMPARISON <span style=\"\">OPERATORS</span>"
+		"value": "Comparison Operators"
 	},
 	{
 		"component": "text",
@@ -12,7 +12,7 @@
 		"component": "table",
 		"value": [
 			{
-				"header": "`OPERATORS",
+				"header": "OPERATORS",
 				"items": [
 					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">==</span>",
 					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!=</span>",
@@ -58,7 +58,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 1 :-"
 	},
 	{
 		"component": "code",
@@ -78,7 +78,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 2 :-"
 	},
 	{
 		"component": "code",
@@ -107,7 +107,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 3 :-"
 	},
 	{
 		"component": "code",
@@ -131,7 +131,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 4 :-"
 	},
 	{
 		"component": "code",
@@ -164,7 +164,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 5 :-"
 	},
 	{
 		"component": "code",
@@ -188,7 +188,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 6 :-"
 	},
 	{
 		"component": "code",
@@ -221,13 +221,13 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 7 :-"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "x=6<br>y=9<br>print(x<y)"
+		"value": "x=6<br>y=9<br>print(x < y)"
 	},
 	{
 		"component": "header",
@@ -245,13 +245,13 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 8 :-"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "a=13<br>b=10<br>print(a<b)"
+		"value": "a=13<br>b=10<br>print(a < b)"
 	},
 	{
 		"component": "header",
@@ -278,7 +278,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 9 :-"
 	},
 	{
 		"component": "code",
@@ -302,7 +302,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example  :-"
+		"value": "Example 10 :-"
 	},
 	{
 		"component": "code",
@@ -335,7 +335,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 11 :-"
 	},
 	{
 		"component": "code",
@@ -359,7 +359,7 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Example 12 :-"
 	},
 	{
 		"component": "code",

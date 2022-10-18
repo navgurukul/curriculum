@@ -1,20 +1,15 @@
 [
 	{
-		"component": "header",
-		"variant": 2,
-		"value": "Defining Lists"
+		"component": "text",
+		"value": "To define lists we can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">square brackets</span> - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"[]\"</span>."
 	},
 	{
 		"component": "text",
-		"value": "To define lists we can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">square brackets</span> - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[]</span>."
-	},
-	{
-		"component": "text",
-		"value": "Whenever you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[</span>, then think that list definition has started, and when you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">]</span>, then think that list definition is ending."
+		"value": "Whenever you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"[\"</span>, then think that list definition has started, and when you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"]\"</span>, then think that list definition is ending."
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 2,
 		"value": "Some Examples"
 	},
 	{
@@ -28,6 +23,15 @@
 		"value": "names_list = [\"rahul\", \"shivam\", \"kavay\", \"ashish\", \"rohit\"]<br>print(names_list)<br>print(type(names_list))"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "['rahul', 'shivam', 'kavay', 'ashish', 'rohit']<br>&lt; class 'list'&gt"
+	},
+	{
 		"component": "text",
 		"value": "In the last line we have used <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">type</span>. By using this function we will come to know that what is its data type."
 	},
@@ -37,7 +41,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Please note that in order to start a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span> ,<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[</span> is used and in order to close <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">]</span> is used. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[]</span> looks like a square shape, that is why these are called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SQUARE BRACKETS</span>.</b>"
+		"value": "<b>Please note that in order to start a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"[\"</span> is used and in order to close <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"]\"</span> is used. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"[]\"</span> looks like a square shape, that is why these are called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SQUARE BRACKETS</span>.</b>"
 	},
 	{
 		"component": "text",
@@ -60,6 +64,15 @@
 	},
 	{
 		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "['Kotak', 'HDFC', 'RBL', 'SBI', 'Bank of Baroda']<br>&lt; class 'list'&gt"
+	},
+	{
+		"component": "header",
 		"variant": 3,
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF INTEGERS</span>"
 	},
@@ -72,6 +85,15 @@
 		"type": "python",
 		"title": "",
 		"value": "marks_list = [70, 80, 75, 65, 68]<br>print(marks_list)   <br>print(type(marks_list))"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "[70, 80, 75, 65, 68]<br>&lt; class 'list'&gt"
 	},
 	{
 		"component": "header",
@@ -89,12 +111,21 @@
 		"value": "temperature_list = [21.1, 24.3, 19, 25, 17, 18, 23]<br>print(temperature_list)"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
 		"component": "text",
-		"value": "But if we will use type function on a list <span style=\"\">variable</span>, it will always show the type as list.But we the data iside a list can be of any type."
+		"value": "[21.1, 24.3, 19, 25, 17, 18, 23]"
+	},
+	{
+		"component": "text",
+		"value": "But if we will use type function on a list <span style=\"\">variable</span>, it will always show the type as list.But the data inside the list can be of any type."
 	},
 	{
 		"component": "header",
-		"variant": 3,
+		"variant": 1,
 		"value": "Exercises"
 	},
 	{

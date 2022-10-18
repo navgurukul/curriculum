@@ -17,7 +17,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "dict1={“name”:”Raju”, “marks”:56}"
+    "value": "dict1={\"name\":\"Raju\",\"marks\":56}<br>a=input (\"enter the value=\")<br>if (a==\"name\"):<br>  print (dict1[\"name\"])<br>elif(a==\"marks\"):<br>  print(dict1[\"marks\"])<br>else:<br>  print (\"invalid input\")"
   },
   {
     "component": "header",
@@ -26,10 +26,12 @@
   },
   {
     "component": "text",
+    "variant": 4,
     "value": "Questions_question2_key5"
   },
   {
     "component": "text",
+    "variant": 4,
     "value": "Questions_question2_key6"
   }
 ]

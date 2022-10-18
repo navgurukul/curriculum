@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 1,
-		"value": "Question Set 2"
+		"value": "Example Set 2"
 	},
 	{
 		"component": "text",
@@ -14,6 +14,6 @@
 	},
 	{
 		"component": "text",
-		"value": "While doing these questions, you don't have to use any function which is not explained in saral. By doing this, you will learn how to solvegiven problem.This is very important for us to know that how we will solve a problem."
+		"value": "While doing these questions, you don't have to use any function which is not explained in saral. By doing this, you will learn how to solve given problem.This is very important for us to know that how we will solve a problem."
 	}
 ]

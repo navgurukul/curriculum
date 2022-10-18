@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "How to Make <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Flowcharts</span>?"
+		"value": "How to make Flowcharts?"
 	},
 	{
 		"component": "text",
@@ -15,7 +15,7 @@
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "How to create flowcharts using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Draw.io</span>?"
+		"value": "How to create flowcharts using Draw.io?"
 	},
 	{
 		"component": "text",

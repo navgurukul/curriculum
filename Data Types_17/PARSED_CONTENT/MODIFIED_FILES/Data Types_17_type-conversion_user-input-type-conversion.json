@@ -104,16 +104,25 @@
     "value": "number_x = input(\"Pehla number daaliye \")<br>number_y = input(\"Dusra number daaliye\")<br>number_x = int(number_x) # user_input se hume number_x string type mein mila<br>number_y = int(number_y) # user_input se hume number_y string type mein mila<br>print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "type-conversion_user-input-type-conversion_key17"
   },
   {
-    "component": "header",
-    "variant": 3,
+    "component": "text",
     "value": "type-conversion_user-input-type-conversion_key18"
   },
   {
     "component": "text",
     "value": "type-conversion_user-input-type-conversion_key19"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "type-conversion_user-input-type-conversion_key20"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion_user-input-type-conversion_key21"
   }
 ]

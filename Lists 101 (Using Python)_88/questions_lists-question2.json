@@ -1,5 +1,10 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 5"
+	},
+	{
 		"component": "text",
 		"value": "Write a <span style=\"\">code</span> that the reverses the order of the items means in opposite order."
 	},
@@ -7,7 +12,16 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "places=[\"delhi\", \"gujrat\", \"rajasthan\", \"punjab\", \"kerala\"]"
+		"value": "places=[\"delhi\", \"gujrat\", \"rajasthan\", \"punjab\", \"kerala\"]<br>print(places.reverse())"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "None"
 	},
 	{
 		"component": "text",

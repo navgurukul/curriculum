@@ -211,7 +211,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "num=2<br>Print (num)"
+    "value": "num=2<br>print(num)"
   },
   {
     "component": "header",

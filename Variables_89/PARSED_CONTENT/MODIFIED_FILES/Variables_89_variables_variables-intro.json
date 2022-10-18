@@ -35,8 +35,17 @@
     "value": "variable_x=123<br>a=9999<br># Let's see what happens when we print variable_x and a.<br>print (variable_x, a)"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "variables_variables-intro_key6"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-intro_key7"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-intro_key8"
   },
   {
     "component": "code",
@@ -45,13 +54,22 @@
     "value": "variable_x=9.9<br># Now print variable_x to see its value.<br>print (variable_x)"
   },
   {
+    "component": "header",
+    "variant": 4,
+    "value": "variables_variables-intro_key9"
+  },
+  {
     "component": "text",
-    "value": "variables_variables-intro_key7"
+    "value": "variables_variables-intro_key10"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-intro_key11"
   },
   {
     "component": "header",
     "variant": 4,
-    "value": "variables_variables-intro_key8"
+    "value": "variables_variables-intro_key12"
   },
   {
     "component": "youtube",
@@ -65,12 +83,21 @@
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "variables_variables-intro_key9"
+    "variant": 4,
+    "value": "variables_variables-intro_key13"
   },
   {
     "component": "text",
-    "value": "variables_variables-intro_key10"
+    "value": "variables_variables-intro_key14"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables_variables-intro_key15"
+  },
+  {
+    "component": "text",
+    "value": "variables_variables-intro_key16"
   },
   {
     "component": "youtube",
@@ -79,7 +106,7 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "variables_variables-intro_key11"
+    "value": "variables_variables-intro_key17"
   },
   {
     "component": "code",
@@ -125,7 +152,7 @@
   },
   {
     "component": "text",
-    "value": "variables_variables-intro_key12"
+    "value": "variables_variables-intro_key18"
   },
   {
     "component": "youtube",

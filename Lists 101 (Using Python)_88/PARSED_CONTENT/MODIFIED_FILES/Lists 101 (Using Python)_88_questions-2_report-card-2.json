@@ -12,20 +12,29 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65, 76],<br>&emsp;[95, 45, 78, 52, 49]<br>]"
-  },
-  {
-    "component": "text",
-    "value": "questions-2_report-card-2_key3"
+    "value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65, 76],<br>&emsp;[95, 45, 78, 52, 49]<br>]<br>for i in range (3):<br>&emsp;totalMarks=0<br>&emsp;for j in range (5):<br>&emsp;&emsp;totalMarks=  totalMarks+marks[i][j]<br>avgMarks=totalMarks/5<br>print('Average of',str(i+1),'year -',int(avgMarks))"
   },
   {
     "component": "header",
-    "variant": 3,
+    "variant": 4,
+    "value": "questions-2_report-card-2_key3"
+  },
+  {
+    "component": "text",
     "value": "questions-2_report-card-2_key4"
   },
   {
     "component": "text",
     "value": "questions-2_report-card-2_key5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "questions-2_report-card-2_key6"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card-2_key7"
   },
   {
     "component": "code",
@@ -35,15 +44,15 @@
   },
   {
     "component": "text",
-    "value": "questions-2_report-card-2_key6"
-  },
-  {
-    "component": "text",
-    "value": "questions-2_report-card-2_key7"
-  },
-  {
-    "component": "text",
     "value": "questions-2_report-card-2_key8"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card-2_key9"
+  },
+  {
+    "component": "text",
+    "value": "questions-2_report-card-2_key10"
   },
   {
     "component": "code",
@@ -53,10 +62,10 @@
   },
   {
     "component": "text",
-    "value": "questions-2_report-card-2_key9"
+    "value": "questions-2_report-card-2_key11"
   },
   {
     "component": "text",
-    "value": "questions-2_report-card-2_key10"
+    "value": "questions-2_report-card-2_key12"
   }
 ]

@@ -10,7 +10,7 @@
   },
   {
     "component": "header",
-    "variant": 3,
+    "variant": 4,
     "value": "functions-question5_key3"
   },
   {
@@ -122,8 +122,14 @@
     }
   },
   {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def calculator(number_x,number_y,operation):<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;print(number_x*number_y)<br>&emsp;else:<br>&emsp;&emsp;print(\"invalid request\")<br>calculator(14,2,\"add\")"
+  },
+  {
     "component": "header",
-    "variant": 3,
+    "variant": 4,
     "value": "functions-question5_key19"
   },
   {
@@ -131,7 +137,8 @@
     "value": "functions-question5_key20"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "functions-question5_key21"
   },
   {
@@ -140,79 +147,29 @@
   },
   {
     "component": "text",
-    "value": "functions-question5_key23",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-question5_key23"
   },
   {
     "component": "text",
-    "value": "functions-question5_key24",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-question5_key24"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def calculator(number_x,number_y,operation):<br>&emsp;l=[]<br>&emsp;if(operation==\"add\"):<br>&emsp;&emsp;print(number_x+number_y)<br>&emsp;elif(operation==\"sub\"):<br>&emsp;&emsp;print(number_x-number_y)<br>&emsp;elif(operation==\"divide\"):<br>&emsp;&emsp;print(number_x/number_y)<br>&emsp;elif(operation==\"multiply\"):<br>&emsp;&emsp;for i in range(len(number_x)):<br>&emsp;&emsp;&emsp;mul=number_x[i]*number_y[i]<br>&emsp;&emsp;&emsp;l.append(mul)<br>&emsp;&emsp;print(l)<br>&emsp;else:print(\"invalid request\")<br>l1=[10,20,30,40]<br>l2=[50,60,70,80]<br>calculator(l1,l2,\"multiply\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "functions-question5_key25"
   },
   {
     "component": "text",
-    "value": "functions-question5_key25",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
-  },
-  {
-    "component": "text",
-    "value": "functions-question5_key26",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-question5_key26"
   },
   {
     "component": "text",
     "value": "functions-question5_key27"
-  },
-  {
-    "component": "text",
-    "value": "functions-question5_key28"
-  },
-  {
-    "component": "header",
-    "variant": 3,
-    "value": "functions-question5_key29"
-  },
-  {
-    "component": "text",
-    "value": "functions-question5_key30"
-  },
-  {
-    "component": "text",
-    "value": "functions-question5_key31"
-  },
-  {
-    "component": "text",
-    "value": "functions-question5_key32"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "multiple_list = list_change([5, 10, 50, 20], [2, 20, 3, 5])"
-  },
-  {
-    "component": "text",
-    "value": "functions-question5_key33"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "[10, 200, 150, 100]"
-  },
-  {
-    "component": "text",
-    "value": "functions-question5_key34"
   }
 ]

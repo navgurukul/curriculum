@@ -17,6 +17,15 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "{<br>&emsp;'sonu':85,<br>&emsp;'Kartik':90,<br>&emsp;'Deepak':96,<br>&emsp;'Aman':76,<br>&emsp;'Somesh':60,<br>&emsp;'Umesh':85,<br>&emsp;'Amarpal':70,<br>&emsp;'Roshan':57,<br>&emsp;'Riyaz':98,<br>&emsp;'Shabid':56<br>}"
+    "value": "details={}<br>for i in range(10):<br>   n=input(\"enter name:\")<br>   m=input(\"enter marks:\")<br>   details[n]=m<br>print(details)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_question8_key4"
+  },
+  {
+    "component": "text",
+    "value": "Questions_question8_key5"
   }
 ]

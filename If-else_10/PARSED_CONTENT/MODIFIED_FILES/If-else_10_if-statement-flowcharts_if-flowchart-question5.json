@@ -7,5 +7,15 @@
   {
     "component": "text",
     "value": "if-statement-flowcharts_if-flowchart-question5_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-flowcharts_if-flowchart-question5_key3"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/undefined",
+    "alt": "if-statement-flowcharts_if-flowchart-question5_key4"
   }
 ]

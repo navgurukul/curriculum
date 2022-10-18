@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 14"
+		"value": "Example 13"
 	},
 	{
 		"component": "text",
@@ -11,13 +11,13 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "<span style=\"\">Input</span> :-"
+		"value": "<span style=\"\">Program</span> :-"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "<br>{'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}"
+		"value": "<br>{'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}<br><br>sorted_dt = {key: value for key, value in sorted(dt.items(), key=lambda item: item[1])}<br>print(sorted_dt)<br>sorted_dt = {key: value for key, value in reversed(sorted(dt.items(), key=lambda item: item[1]))}<br>print(sorted_dt)"
 	},
 	{
 		"component": "header",

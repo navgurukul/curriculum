@@ -1,7 +1,12 @@
 {
-    "DebugCode_key1": "डीबग <span style=\"\">Code</span>",
-    "DebugCode_key2": "अब हम फ़ंक्शन से संबंधित <span style=\"\">code</span> डीबग करते हैं।",
-    "DebugCode_key3": "<b>प्रश्न 1</b>",
-    "DebugCode_key4": "<b>प्रश्न 2</b>",
-    "DebugCode_key5": "<b>प्रश्न 3</b>"
+	"DebugCode_key1": "<span style=\"\">निम्नलिखित कोड का आउटपुट ज्ञात कीजिए।</span>",
+	"DebugCode_key2": "<span style=\"\">उदाहरण 1</span> :-",
+	"DebugCode_key3": "<span style=\"\">Output</span> :-",
+	"DebugCode_key4": "25",
+	"DebugCode_key5": "<span style=\"\">उदाहरण 2</span> :-",
+	"DebugCode_key6": "<span style=\"\">Output</span> :-",
+	"DebugCode_key7": "समारोह में आपका स्वागत है",
+	"DebugCode_key8": "<span style=\"\">उदाहरण 3</span> :-",
+	"DebugCode_key9": "<span style=\"\">Output</span> :-",
+	"DebugCode_key10": "हमें एक त्रुटि देगा क्योंकि यहां हम इसे परिभाषित करने से पहले फ़ंक्शन को कॉल कर रहे हैं"
 }

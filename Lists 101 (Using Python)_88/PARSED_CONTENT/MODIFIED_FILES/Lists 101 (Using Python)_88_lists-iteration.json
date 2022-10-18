@@ -1,7 +1,7 @@
 [
   {
     "component": "header",
-    "variant": 2,
+    "variant": 1,
     "value": "lists-iteration_key1"
   },
   {
@@ -18,7 +18,7 @@
   },
   {
     "component": "header",
-    "variant": 4,
+    "variant": 2,
     "value": "lists-iteration_key5"
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "component": "header",
-    "variant": 4,
+    "variant": 2,
     "value": "lists-iteration_key8"
   },
   {
@@ -63,7 +63,7 @@
   },
   {
     "component": "header",
-    "variant": 4,
+    "variant": 2,
     "value": "lists-iteration_key12"
   },
   {
@@ -75,7 +75,7 @@
   },
   {
     "component": "header",
-    "variant": 4,
+    "variant": 2,
     "value": "lists-iteration_key14"
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "component": "header",
-    "variant": 4,
+    "variant": 2,
     "value": "lists-iteration_key26"
   },
   {
@@ -167,17 +167,26 @@
     "value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]<br>list_length = len(students_list)<br>index = 0<br>while index < list_length:<br>&emsp;print(students_list[index])<br>&emsp;index = index + 1"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "lists-iteration_key27"
   },
   {
-    "component": "header",
-    "variant": 2,
+    "component": "text",
     "value": "lists-iteration_key28"
   },
   {
     "component": "text",
     "value": "lists-iteration_key29"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-iteration_key30"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key31"
   },
   {
     "component": "code",
@@ -186,17 +195,26 @@
     "value": "student_marks = [23, 45, 89, 90, 56, 80] <br>length = len(student_marks)<br>index = 0<br>total_marks = 0<br>while index < len(student_marks):<br>&emsp;total_marks = student_marks[index] + total_marks<br>&emsp;index = index + 1<br>print(\"Total Marks: \" + str(total_marks))"
   },
   {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-iteration_key32"
+  },
+  {
     "component": "text",
-    "value": "lists-iteration_key30"
+    "value": "lists-iteration_key33"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key34"
   },
   {
     "component": "header",
     "variant": 1,
-    "value": "lists-iteration_key31"
+    "value": "lists-iteration_key35"
   },
   {
     "component": "text",
-    "value": "lists-iteration_key32"
+    "value": "lists-iteration_key36"
   },
   {
     "component": "code",
@@ -206,19 +224,28 @@
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "lists-iteration_key33"
+    "variant": 4,
+    "value": "lists-iteration_key37"
   },
   {
     "component": "text",
-    "value": "lists-iteration_key34"
+    "value": "lists-iteration_key38"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-iteration_key39"
   },
   {
     "component": "text",
-    "value": "lists-iteration_key35"
+    "value": "lists-iteration_key40"
   },
   {
     "component": "text",
-    "value": "lists-iteration_key36"
+    "value": "lists-iteration_key41"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key42"
   }
 ]

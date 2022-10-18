@@ -1,5 +1,10 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Variable Example"
+	},
+	{
 		"component": "text",
 		"value": "<i>To answer any question you can <span style=\"\">upload</span> the <span style=\"\">file</span>.</i>"
 	},
@@ -14,7 +19,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question Part 1"
+		"value": "Example Part 1"
 	},
 	{
 		"component": "text",
@@ -34,8 +39,26 @@
 	},
 	{
 		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "variable_nav = 50<br>print(variable_nav)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "50"
+	},
+	{
+		"component": "header",
 		"variant": 2,
-		"value": "Question Part 2"
+		"value": "Example Part 2"
 	},
 	{
 		"component": "text",
@@ -60,5 +83,23 @@
 			"type": "number",
 			"value": 3
 		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "gurukul = \"hii\"<br>variable_nav = 67.78<br>print(gurukul)<br>print(variable_nav)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "hii<br>67.78"
 	}
 ]

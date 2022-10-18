@@ -6,11 +6,7 @@
   },
   {
     "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key2"
-  },
-  {
-    "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key3",
+    "value": "QuestionSet3_loops-code-question7_key2",
     "decoration": {
       "type": "number",
       "value": 1
@@ -18,7 +14,7 @@
   },
   {
     "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key4",
+    "value": "QuestionSet3_loops-code-question7_key3",
     "decoration": {
       "type": "number",
       "value": 2
@@ -26,47 +22,37 @@
   },
   {
     "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key5",
+    "value": "QuestionSet3_loops-code-question7_key4",
     "decoration": {
       "type": "number",
       "value": 3
     }
   },
   {
-    "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key6",
-    "decoration": {
-      "type": "number",
-      "value": 4
-    }
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet3_loops-code-question7_key5"
   },
   {
     "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key7",
-    "decoration": {
-      "type": "number",
-      "value": 5
-    }
-  },
-  {
-    "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key8",
-    "decoration": {
-      "type": "number",
-      "value": 6
-    }
-  },
-  {
-    "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key9"
+    "value": "QuestionSet3_loops-code-question7_key6"
   },
   {
     "component": "header",
     "variant": 4,
-    "value": "QuestionSet3_loops-code-question7_key10"
+    "value": "QuestionSet3_loops-code-question7_key7"
   },
   {
     "component": "text",
-    "value": "QuestionSet3_loops-code-question7_key11"
+    "value": "QuestionSet3_loops-code-question7_key8"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet3_loops-code-question7_key9"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet3_loops-code-question7_key10"
   }
 ]

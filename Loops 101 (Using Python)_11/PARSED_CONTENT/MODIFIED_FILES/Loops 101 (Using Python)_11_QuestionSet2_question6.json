@@ -9,7 +9,8 @@
     "value": "QuestionSet2_question6_key2"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "QuestionSet2_question6_key3"
   },
   {
@@ -17,7 +18,12 @@
     "value": "QuestionSet2_question6_key4"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "QuestionSet2_question6_key5"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet2_question6_key6"
   }
 ]

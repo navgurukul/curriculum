@@ -6,11 +6,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Its not like that lists should have same type of data. Data inside list can be of any type."
+		"value": "Its not like that lists should have same type of data. But the data inside the list can be of any type."
 	},
 	{
 		"component": "header",
-		"variant": 4,
+		"variant": 1,
 		"value": "Example:-"
 	},
 	{
@@ -18,6 +18,15 @@
 		"type": "python",
 		"title": "",
 		"value": "mixed_list = [\"rahul\", 12, 9.0, \"kaavay\", \"shivam\", 1]<br>print(type(mixed_list))"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "&lt; class 'list'&gt"
 	},
 	{
 		"component": "text",

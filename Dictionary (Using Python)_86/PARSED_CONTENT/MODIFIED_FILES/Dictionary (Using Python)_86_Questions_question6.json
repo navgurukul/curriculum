@@ -14,23 +14,18 @@
     "value": "Questions_question6_key3"
   },
   {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dic={\"ball\":\"red\",  \"bat\":4, \"wickets\":8, \"ball\":\"green\", \"bat\":3}<br>temp = []<br>res = dict()<br>for key, val in dic.items():<br>    if val not in temp:<br>      temp.append(val)<br>      res[key] = val<br>print(res)"
+  },
+  {
     "component": "header",
     "variant": 4,
     "value": "Questions_question6_key4"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "dic={<br>&emsp;“ball”:”red”,<br>&emsp;”bat”:4,<br>&emsp;”wickets”:8,<br>&emsp;”ball”green,<br>&emsp;”bat”:3<br>&emsp;}"
-  },
-  {
-    "component": "header",
-    "variant": 4,
-    "value": "Questions_question6_key5"
-  },
-  {
     "component": "text",
-    "value": "Questions_question6_key6"
+    "value": "Questions_question6_key5"
   }
 ]

@@ -11,7 +11,12 @@
     "value": "price_milk = input(\"1L milk ka price daalo?\")<br>print(\"10L milk \" + price_milk*10 + \" rupees ka aata hai.\")"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "debugging-part1_debugging-question3_key2"
+  },
+  {
+    "component": "text",
+    "value": "debugging-part1_debugging-question3_key3"
   }
 ]
