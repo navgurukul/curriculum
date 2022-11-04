@@ -51,7 +51,7 @@
   },
   {
     "component": "image",
-    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/undefined",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg ",
     "alt": "if-statement-flowcharts_if-statement-intro_key9"
   },
   {
@@ -78,7 +78,7 @@
   },
   {
     "component": "image",
-    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/undefined",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/theory_images/if-statement-intro_flowchart1.png",
     "alt": "if-statement-flowcharts_if-statement-intro_key14"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "component": "image",
-    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/undefined",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images_v2/If-else_10/assets/theory_images/if-statement-intro_fb-login-flowchart.png",
     "alt": "if-statement-flowcharts_if-statement-intro_key40"
   }
 ]
