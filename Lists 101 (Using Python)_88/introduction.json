@@ -2,11 +2,11 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "What do we mean by lists"
+		"value": "What do we mean by lists and ##"
 	},
 	{
 		"component": "text",
-		"value": "You might have studied about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">integer</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">float</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">boolean</span> data types. These are called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive data types</span> where <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive</span> means <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">simple</span> data types. We can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive data types</span> to make <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">complex data types</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span> is one of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">complex data type</span>."
+		"value": "You might have studied about <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">string</span>, <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">integer</span>, <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">float</span> and <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">boolean</span> data types. These are called <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">primitive data types</span> where <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">primitive</span> means <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">simple</span> data types. We can use <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">primitive data types</span> to make <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">complex data types</span>. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">List</span> is one of the <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">complex data type</span>."
 	},
 	{
 		"component": "header",
@@ -22,7 +22,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Now, store it in a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python variable</span>.",
+		"value": "Now, store it in a <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">python variable</span>.",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -33,7 +33,7 @@
 	},
 	{
 		"component": "text",
-		"value": "In this way, you will get a lot of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">information in the form of a list</span>.      Example :-"
+		"value": "In this way, you will get a lot of <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">information in the form of a list</span>.      Example :-"
 	},
 	{
 		"component": "text",
@@ -90,6 +90,6 @@
 	},
 	{
 		"component": "text",
-		"value": "We will see that how important it is for us to study <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List Data Type and List Data Structure</span>."
+		"value": "We will see that how important it is for us to study <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">List Data Type and List Data Structure</span>."
 	}
 ]

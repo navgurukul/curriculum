@@ -24,11 +24,11 @@
 	"intro_dictionary_key23": "<span style=\"\">வெளியீடு</span> :-",
 	"intro_dictionary_key24": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{&#39;வயது&#39;: 20, &#39;பெயர்&#39;: &#39;ரவினா&#39;}</span>",
 	"intro_dictionary_key25": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">விசைகள்</span> மற்றும் <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">மதிப்புகளின்</span> தரவு வகை",
-	"intro_dictionary_key26": "ஒரு <i>&quot;அகராதி&quot;</i> எந்த தரவு வகையின் மதிப்புகளையும் கொண்டிருக்கலாம், மேலும் அதே மாதிரியாக இருக்கலாம், ஆனால் <span style=\"\">விசைகள்</span> எப்போதும் தனித்துவமாக இருக்க வேண்டும்.",
+	"intro_dictionary_key26": "ஒரு <i>&quot;அகராதி&quot;</i> எந்த தரவு வகையின் மதிப்புகளையும் கொண்டிருக்கலாம் மற்றும் ஒரே மாதிரியாக இருக்கலாம், ஆனால் <span style=\"\">விசைகள்</span> எப்போதும் தனித்துவமாக இருக்க வேண்டும்.",
 	"intro_dictionary_key27": "உதாரணமாக:-",
 	"intro_dictionary_key28": "<i><span style=\"\">முழு எண்</span> <span style=\"\">விசைகள்</span> கொண்ட அகராதி :-</i>",
 	"intro_dictionary_key29": "<i>கலப்பு <span style=\"\">விசைகள்</span> கொண்ட அகராதி :-</i>",
 	"intro_dictionary_key30": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">உள்ளமைக்கப்பட்ட அகராதி</span> :-",
 	"intro_dictionary_key31": "<span style=\"\">வெளியீடு</span> :-",
-	"intro_dictionary_key32": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{1: &#39;நவகுருகுலம்&#39;, 2: &#39;IN&#39;, 3: {&#39;A&#39;: &#39;வரவேற்பு&#39;, &#39;B&#39;: &#39;to&#39;, &#39;C&#39;: &#39;DharMSala&#39;}}</span>"
+	"intro_dictionary_key32": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{1: &#39;நவகுருகுலம்&#39;, 2: &#39;IN&#39;, 3: {&#39;A&#39;: &#39;Welcome&#39;, &#39;B&#39;: &#39;to&#39;, &#39;C&#39;: &#39;DharMSala&#39;}}</span>"
 }

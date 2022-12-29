@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "day = input(\"Aaj ka din kya hai? (monday/tuesday) > \\n\") <br>time = input(\"Kaunse samay ka khana banana hai? (lunch/dinner) > \\n\") <br>if day == \"monday\" or day == \"tuesday\": <br>print(\"Daal-Roti banegi aaj\") <br>elif day == \"tuesday\" and time == \"dinner\": <br>print(\"Pav-Bhaji banegi aaj toh :)\")"
+		"value": "day = input(\"Aaj ka din kya hai? (monday/tuesday) > \\n\") <br>time = input(\"Kaunse samay ka khana banana hai? (lunch/dinner) > \\n\") <br>if day == \"monday\" or day == \"tuesday\": <br>&emsp;print(\"Daal-Roti banegi aaj\") <br>elif day == \"tuesday\" and time == \"dinner\": <br>&emsp;print(\"Pav-Bhaji banegi aaj toh :)\")"
 	},
 	{
 		"component": "header",

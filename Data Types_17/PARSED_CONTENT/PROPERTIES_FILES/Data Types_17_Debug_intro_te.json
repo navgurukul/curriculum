@@ -10,5 +10,5 @@
 	"Debug_intro_key9": "డి.",
 	"Debug_intro_key10": "<span style=\"\">సరైన కోడ్</span> :-<br> a = &#39;12&#39;<br> b = 13.1<br> a = ఫ్లోట్(a)<br> ప్రింట్ (a+b)",
 	"Debug_intro_key11": "మరియు.",
-	"Debug_intro_key12": "<span style=\"\">సరైన కోడ్</span> :-<br> a = bool(&#39;&#39;)b = bool(&#39; &#39;)<br> ప్రింట్ (a+b)"
+	"Debug_intro_key12": "<span style=\"\">సరైన కోడ్</span> :-<br> a = bool(&#39;&#39;)<br> b = bool(&#39; &#39;)<br> ప్రింట్ (a+b)"
 }

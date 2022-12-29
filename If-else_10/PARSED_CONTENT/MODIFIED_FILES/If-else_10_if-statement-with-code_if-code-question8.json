@@ -27,7 +27,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "Number = int(input(“enter a number: “)) <br>if((number %5 == 0) and (number %15 == 0)): <br>&emsp;&emsp;print(“number is divisible”) <br>else: <br>&emsp;&emsp;print(“number is not divisible”)"
+    "value": "number = int(input(“enter a number: “)) <br>if((number %5 == 0) and (number %15 == 0)): <br>&emsp;&emsp;print(“number is divisible”) <br>else: <br>&emsp;&emsp;print(“number is not divisible”)"
   },
   {
     "component": "header",

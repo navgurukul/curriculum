@@ -8,7 +8,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "price_milk = input(\"1L milk ka price daalo?\")<br>print(\"10L milk \" + price_milk*10 + \" rupees ka aata hai.\")"
+		"value": "price_milk = int(input(\"1L milk ka price enter karo?\"))<br>total = (price_milk)*10 <br>total = str(total) <br>print(\"10L milk \" + total + \" rupees ka aata hai.\")"
 	},
 	{
 		"component": "header",
@@ -17,6 +17,6 @@
 	},
 	{
 		"component": "text",
-		"value": "1L milk ka price daalo? <br>120 <br>10L milk 1200 rupees ka aata hai."
+		"value": "1L milk ka price enter karo? <br>120 <br>10L milk 1200 rupees ka aata hai."
 	}
 ]

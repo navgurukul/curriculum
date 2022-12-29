@@ -10,5 +10,5 @@
 	"Debug_intro_key9": "டி.",
 	"Debug_intro_key10": "<span style=\"\">சரியான குறியீடு</span> :-<br> a = &#39;12&#39;<br> b = 13.1<br> a = மிதவை(a)<br> அச்சு (a+b)",
 	"Debug_intro_key11": "மற்றும்",
-	"Debug_intro_key12": "<span style=\"\">சரியான குறியீடு</span> :-<br> a = bool(&#39;&#39;)b = bool(&#39; &#39;)<br> அச்சு (a+b)"
+	"Debug_intro_key12": "<span style=\"\">சரியான குறியீடு</span> :-<br> a = bool(&#39;&#39;)<br> b = bool(&#39; &#39;)<br> அச்சு (a+b)"
 }

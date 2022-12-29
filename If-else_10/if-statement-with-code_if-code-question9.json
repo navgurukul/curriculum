@@ -83,7 +83,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "age = int(input(\"enter the age of a person: \")) <br>if(age >= 5): <br>&emsp;&emsp;print(\"can go to school\") <br>if(age >= 18 ): <br>&emsp;&emsp;print(\"can vote in elections\") <br>if(age >= 21): <br>&emsp;&ems;pprint(\"can drive a car\") <br>if(age>=24): <br>&emsp;&emsp;print(\"can marry\") <br>if(age>=25): <br>&emsp;&emsp;print(\"can drink legally\")"
+		"value": "age = int(input(\"enter the age of a person: \")) <br>if(age >= 5): <br>&emsp;&emsp;print(\"can go to school\") <br>if(age >= 18 ): <br>&emsp;&emsp;print(\"can vote in elections\") <br>if(age >= 21): <br>&emsp;&emsp;print(\"can drive a car\") <br>if(age>=24): <br>&emsp;&emsp;print(\"can marry\") <br>if(age>=25): <br>&emsp;&emsp;print(\"can drink legally\")"
 	},
 	{
 		"component": "header",

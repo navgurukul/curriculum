@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Please read about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">String Concatenation</span>."
+		"value": "Please read about <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">String Concatenation</span>."
 	},
 	{
 		"component": "header",
@@ -15,7 +15,7 @@
 	},
 	{
 		"component": "text",
-		"value": "You have to take two inputs from the user whose data type is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span>.",
+		"value": "You have to take two inputs from the user whose data type is <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span>.",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -23,7 +23,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Then in variable by name <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+		"value": "Then in variable by name <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -31,7 +31,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Print the variable <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>.",
+		"value": "Print the variable <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>.",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -62,7 +62,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Take one <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> type input and one <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> type input from the user.",
+		"value": "Take one <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">INTEGER</span> type input and one <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">STRING</span> type input from the user.",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -70,7 +70,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Then in variable by name <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+		"value": "Then in variable by name <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -78,7 +78,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Print the variable <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>.",
+		"value": "Print the variable <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">add</span>.",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -91,7 +91,7 @@
 	},
 	{
 		"component": "text",
-		"value": "a=int(input(\"enter first value=\"))<br>b=input(\"enter second value=\")<br>add=a+b<br>print(astr"
+		"value": "a=int(input(\"enter first value=\"))<br>b=input(\"enter second value=\")<br>add=a+b<br>print(add)"
 	},
 	{
 		"component": "header",

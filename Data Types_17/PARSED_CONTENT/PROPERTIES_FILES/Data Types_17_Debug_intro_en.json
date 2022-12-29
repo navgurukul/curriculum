@@ -10,5 +10,5 @@
 	"Debug_intro_key9": "D.",
 	"Debug_intro_key10": "<span style=\"\">Correct code</span> :-<br>a = '12'<br>b = 13.1<br>a = float(a)<br>print(a+b)",
 	"Debug_intro_key11": "E.",
-	"Debug_intro_key12": "<span style=\"\">Correct code</span> :-<br>a = bool('')b = bool(' ')<br>print(a+b)"
+	"Debug_intro_key12": "<span style=\"\">Correct code</span> :-<br>a = bool('') <br>b = bool(' ')<br>print(a+b)"
 }

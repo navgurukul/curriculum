@@ -2,11 +2,11 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">continue</span>"
+		"value": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue</span>"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">continue</span> is also a <span style=\"\">python</span> <b><span style=\"\">key</span>word</b>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">continue statement</span> skips some of the <span style=\"\">statements</span> of the <span style=\"\">loop</span> and <span style=\"\">executes</span> the other <span style=\"\">statements</span>."
+		"value": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue</span> is also a <span style=\"\">python</span> <b><span style=\"\">key</span>word</b>. <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">continue statement</span> skips some of the <span style=\"\">statements</span> of the <span style=\"\">loop</span> and <span style=\"\">executes</span> the other <span style=\"\">statements</span>."
 	},
 	{
 		"component": "code",
@@ -40,6 +40,6 @@
 	},
 	{
 		"component": "youtube",
-		"value": "https://www.youtube.com/watch?v=rOfNF7gj5t0"
+		"value": "rOfNF7gj5t0"
 	}
 ]

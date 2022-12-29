@@ -43,15 +43,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "char_list = []"
-  },
-  {
-    "component": "header",
-    "variant": 4,
-    "value": "questions-n_count-occurences_key9"
-  },
-  {
-    "component": "text",
-    "value": "questions-n_count-occurences_key10"
+    "value": "char_list = ['a', 'n', 't', 'a', 'a', 't', 'n', 'n', 'a', 'x', 'u', 'g', 'a', 'x', 'a']<br>result_list = []<br>for elements in char_list:<br>&emsp;sub_list = []<br>&emsp;sub_list.append(elements)<br>&emsp;sub_list.append(char_list.count(elements))<br>&emsp;if (sub_list not in result_list):<br>&emsp;&emsp;result_list.append(sub_list)<br>print(result_list)"
   }
 ]

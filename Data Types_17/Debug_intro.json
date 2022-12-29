@@ -81,6 +81,6 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "<span style=\"\">Correct code</span> :-<br>a = bool('')b = bool(' ')<br>print(a+b)"
+		"value": "<span style=\"\">Correct code</span> :-<br>a = bool('') <br>b = bool(' ')<br>print(a+b)"
 	}
 ]

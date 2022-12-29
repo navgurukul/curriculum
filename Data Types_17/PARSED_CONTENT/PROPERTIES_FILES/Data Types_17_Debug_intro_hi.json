@@ -10,5 +10,5 @@
 	"Debug_intro_key9": "डी।",
 	"Debug_intro_key10": "<span style=\"\">सही कोड</span> :-<br> ए = &#39;12&#39;<br> बी = 13.1<br> ए = फ्लोट (ए)<br> प्रिंट (ए + बी)",
 	"Debug_intro_key11": "तथा।",
-	"Debug_intro_key12": "<span style=\"\">सही कोड</span> :-<br> ए = बूल (&#39;&#39;) बी = बूल (&#39;&#39;)<br> प्रिंट (ए + बी)"
+	"Debug_intro_key12": "<span style=\"\">सही कोड</span> :-<br> ए = बूल (&#39;&#39;)<br> बी = बूल (&#39;&#39;)<br> प्रिंट (ए + बी)"
 }

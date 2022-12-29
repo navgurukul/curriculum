@@ -10,5 +10,5 @@
 	"Debug_intro_key9": "डी.",
 	"Debug_intro_key10": "<span style=\"\">बरोबर कोड</span> :-<br> a = &#39;12&#39;<br> b = 13.1<br> a = फ्लोट(a)<br> प्रिंट(a+b)",
 	"Debug_intro_key11": "आणि",
-	"Debug_intro_key12": "<span style=\"\">बरोबर कोड</span> :-<br> a = bool(&#39;&#39;)b = bool(&#39;&#39;)<br> प्रिंट(a+b)"
+	"Debug_intro_key12": "<span style=\"\">बरोबर कोड</span> :-<br> a = bool(&#39;&#39;)<br> b = bool(&#39;&#39;)<br> प्रिंट(a+b)"
 }
