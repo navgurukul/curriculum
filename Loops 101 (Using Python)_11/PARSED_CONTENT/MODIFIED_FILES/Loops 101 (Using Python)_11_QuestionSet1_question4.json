@@ -14,7 +14,7 @@
   },
   {
     "component": "header",
-    "variant": 3,
+    "variant": 4,
     "value": "QuestionSet1_question4_key4"
   },
   {
@@ -37,5 +37,23 @@
   {
     "component": "text",
     "value": "QuestionSet1_question4_key9"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet1_question4_key10"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet1_question4_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet1_question4_key12"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet1_question4_key13"
   }
 ]

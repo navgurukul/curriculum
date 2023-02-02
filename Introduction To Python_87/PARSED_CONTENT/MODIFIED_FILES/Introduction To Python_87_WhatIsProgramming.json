@@ -1,6 +1,7 @@
 [
   {
-    "component": "text",
+    "component": "header",
+    "variant": 2,
     "value": "WhatIsProgramming_key1"
   },
   {
@@ -40,23 +41,27 @@
     "value": "WhatIsProgramming_key10"
   },
   {
+    "component": "text",
+    "value": "WhatIsProgramming_key11"
+  },
+  {
     "component": "youtube",
     "value": "xnyFYiK2rSY"
   },
   {
     "component": "text",
-    "value": "WhatIsProgramming_key11"
+    "value": "WhatIsProgramming_key12"
   },
   {
     "component": "text",
-    "value": "WhatIsProgramming_key12",
+    "value": "WhatIsProgramming_key13",
     "decoration": {
       "type": "bullet"
     }
   },
   {
     "component": "text",
-    "value": "WhatIsProgramming_key13",
+    "value": "WhatIsProgramming_key14",
     "decoration": {
       "type": "bullet"
     }

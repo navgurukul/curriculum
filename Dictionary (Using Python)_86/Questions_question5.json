@@ -2,35 +2,31 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 5"
+		"value": "Example 5"
 	},
 	{
 		"component": "text",
-		"value": "Create a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> from 2 <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">lists</span>, where the elements of 1st list are the <span style=\"\">keys</span> and the elements of the 2nd list are the corresponding values."
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
 	},
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
-	},
-	{
-		"component": "header",
-		"variant": 4,
-		"value": "<span style=\"\">Input</span> :-"
+		"value": "<span style=\"\">Program</span> :-"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "list1=[“one”,”two”,”three”,”four”,”five”]<br><br>list2=[1,2,3,4,5,]"
+		"value": "my_dict = {}<br>my_dict[(1,2,4)] = 8<br>my_dict[(4,2,1)] = 10<br>my_dict[(1,2)] = 12<br><br>sum = 0<br>for k in my_dict:<br>&emsp;sum += my_dict[k]<br><br>print(sum)<br>print(my_dict)"
 	},
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "<span style=\"\">Output</span> :-"
+		"value": "Output: 30"
 	},
 	{
-		"component": "text",
-		"value": "{“one”:1,”two”:2,”three”:3,”four”:4,”five”:5}"
+		"component": "header",
+		"variant": 4,
+		"value": "  {(1, 2, 4): 8, (4, 2, 1): 10, (1, 2): 12}"
 	}
 ]

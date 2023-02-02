@@ -9,7 +9,8 @@
     "value": "Questions_key2"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key3"
   },
   {
@@ -20,10 +21,11 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "numbers = [3, 5, 7, 34, 2, 89, 2, 5]"
+    "value": "numbers = [3, 5, 7, 34, 2, 89, 2, 5]<br>#Using max inbuilt function to print max value among the list numbers<br>print(max(numbers))"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key5"
   },
   {
@@ -31,21 +33,23 @@
     "value": "Questions_key6"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key7"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "numbers = [1, 2, 3, 4, 5]"
   },
   {
     "component": "text",
     "value": "Questions_key8"
   },
   {
-    "component": "text",
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "numbers = [1, 2, 3, 4, 5]<br>#printing sum of all the numbers from list<br>print(sum(numbers))"
+  },
+  {
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key9"
   },
   {
@@ -53,13 +57,8 @@
     "value": "Questions_key10"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]"
-  },
-  {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key11"
   },
   {
@@ -67,7 +66,14 @@
     "value": "Questions_key12"
   },
   {
-    "component": "text",
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]<br>#Doing sorting of all the elements present in the list using sorted inbuilt function<br>print(sorted(unorder_list))"
+  },
+  {
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key13"
   },
   {
@@ -75,13 +81,8 @@
     "value": "Questions_key14"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "reverse_list = [\"Z\", \"A\", \"A\", \"B\", \"E\", \"M\", \"A\", \"R\", \"D\"]"
-  },
-  {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key15"
   },
   {
@@ -89,7 +90,14 @@
     "value": "Questions_key16"
   },
   {
-    "component": "text",
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "reverse_list = [\"Z\", \"A\", \"A\", \"B\", \"E\", \"M\", \"A\", \"R\", \"D\"]<br>#Using reverse function we are doing reversing of our list<br>reverse_list.reverse()<br>print(reverse_list)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key17"
   },
   {
@@ -97,17 +105,27 @@
     "value": "Questions_key18"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "list = [8, 6, 4, 8, 4, 50, 2, 7]"
-  },
-  {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "Questions_key19"
   },
   {
     "component": "text",
     "value": "Questions_key20"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "list = [8, 6, 4, 8, 4, 50, 2, 7]<br>#Using min inbuilt function we are printing minimum value from list<br>print(min(list))"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Questions_key21"
+  },
+  {
+    "component": "text",
+    "value": "Questions_key22"
   }
 ]

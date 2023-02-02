@@ -47,6 +47,15 @@
     "value": "Counters_examples_key9"
   },
   {
+    "component": "text",
+    "value": "Counters_examples_key10"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key11"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
@@ -55,16 +64,29 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "Counters_examples_key10"
+    "value": "Counters_examples_key12"
   },
   {
     "component": "text",
-    "value": "Counters_examples_key11"
+    "value": "Counters_examples_key13"
   },
   {
     "component": "header",
     "variant": 4,
-    "value": "Counters_examples_key12"
+    "value": "Counters_examples_key14"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key15"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key16"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key17"
   },
   {
     "component": "code",
@@ -74,8 +96,17 @@
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "Counters_examples_key13"
+    "variant": 4,
+    "value": "Counters_examples_key18"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key19"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key20"
   },
   {
     "component": "code",
@@ -85,8 +116,17 @@
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "Counters_examples_key14"
+    "variant": 4,
+    "value": "Counters_examples_key21"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key22"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key23"
   },
   {
     "component": "code",
@@ -96,17 +136,30 @@
   },
   {
     "component": "header",
-    "variant": 2,
-    "value": "Counters_examples_key15"
+    "variant": 4,
+    "value": "Counters_examples_key24"
   },
   {
     "component": "text",
-    "value": "Counters_examples_key16"
+    "value": "Counters_examples_key25"
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "Counters_examples_key17"
+    "variant": 2,
+    "value": "Counters_examples_key26"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key27"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key28"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key29"
   },
   {
     "component": "code",
@@ -116,8 +169,17 @@
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "Counters_examples_key18"
+    "variant": 4,
+    "value": "Counters_examples_key30"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key31"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key32"
   },
   {
     "component": "code",
@@ -127,13 +189,31 @@
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "Counters_examples_key19"
+    "variant": 4,
+    "value": "Counters_examples_key33"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key34"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key35"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
     "value": "a = 1<br>while a !=11:<br>  print(a)<br>  a-=-1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Counters_examples_key36"
+  },
+  {
+    "component": "text",
+    "value": "Counters_examples_key37"
   }
 ]

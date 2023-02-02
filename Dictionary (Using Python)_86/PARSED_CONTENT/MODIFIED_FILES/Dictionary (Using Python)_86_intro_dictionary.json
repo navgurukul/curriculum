@@ -6,7 +6,7 @@
   },
   {
     "component": "header",
-    "variant": 3,
+    "variant": 2,
     "value": "intro_dictionary_key2"
   },
   {
@@ -19,6 +19,24 @@
     "value": "intro_dictionary_key4"
   },
   {
+    "component": "text",
+    "value": "intro_dictionary_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key6"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key8"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
@@ -27,23 +45,6 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "intro_dictionary_key5"
-  },
-  {
-    "component": "text",
-    "value": "intro_dictionary_key6"
-  },
-  {
-    "component": "text",
-    "value": "intro_dictionary_key7"
-  },
-  {
-    "component": "text",
-    "value": "intro_dictionary_key8"
-  },
-  {
-    "component": "header",
-    "variant": 2,
     "value": "intro_dictionary_key9"
   },
   {
@@ -51,22 +52,16 @@
     "value": "intro_dictionary_key10"
   },
   {
-    "component": "header",
-    "variant": 4,
+    "component": "text",
     "value": "intro_dictionary_key11"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "<br> Dict = {<br>&emsp;   'ball' : 'green',<br>&emsp;   'Ball': 'red'<br>&emsp; }<br>print(Dict['ball'])<br>print(Dict['Ball'])<br>print(Dict['bat'])"
   },
   {
     "component": "text",
     "value": "intro_dictionary_key12"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 2,
     "value": "intro_dictionary_key13"
   },
   {
@@ -75,27 +70,26 @@
   },
   {
     "component": "header",
-    "variant": 3,
-    "value": "intro_dictionary_key15"
-  },
-  {
-    "component": "text",
-    "value": "intro_dictionary_key16"
-  },
-  {
-    "component": "header",
     "variant": 4,
-    "value": "intro_dictionary_key17"
+    "value": "intro_dictionary_key15"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "student=dict(name= \"Ravina\",age= 20)<br>print(student)"
+    "value": "<br> Dict = {<br>&emsp;   'ball' : 'green',<br>&emsp;   'Ball': 'red'<br>&emsp; }<br>print(Dict['ball'])<br>print(Dict['Ball'])<br>print(Dict['bat'])"
   },
   {
     "component": "header",
     "variant": 4,
+    "value": "intro_dictionary_key16"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key17"
+  },
+  {
+    "component": "text",
     "value": "intro_dictionary_key18"
   },
   {
@@ -117,8 +111,37 @@
     "value": "intro_dictionary_key22"
   },
   {
-    "component": "text",
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "student=dict(name= \"Ravina\",age= 20)<br>print(student)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
     "value": "intro_dictionary_key23"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key24"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "intro_dictionary_key25"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key26"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key27"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key28"
   },
   {
     "component": "code",
@@ -128,7 +151,7 @@
   },
   {
     "component": "text",
-    "value": "intro_dictionary_key24"
+    "value": "intro_dictionary_key29"
   },
   {
     "component": "code",
@@ -139,7 +162,7 @@
   {
     "component": "header",
     "variant": 3,
-    "value": "intro_dictionary_key25"
+    "value": "intro_dictionary_key30"
   },
   {
     "component": "code",
@@ -150,18 +173,18 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "intro_dictionary_key26"
+    "value": "intro_dictionary_key31"
   },
   {
     "component": "text",
-    "value": "intro_dictionary_key27"
+    "value": "intro_dictionary_key32"
   },
   {
     "component": "youtube",
-    "value": "https://www.youtube.com/watch?v=daefaLgNkw0"
+    "value": "daefaLgNkw0"
   },
   {
     "component": "youtube",
-    "value": "https://www.youtube.com/watch?v=0g1ogNP5doA"
+    "value": "0g1ogNP5doA"
   }
 ]

@@ -19,6 +19,11 @@
 		"value": "a = \"Megha\"<br>print a"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Correct code</span> :-<br>a = 'Megha'<br>print(a)"
+	},
+	{
 		"component": "text",
 		"value": "B. "
 	},
@@ -27,6 +32,11 @@
 		"type": "python",
 		"title": "",
 		"value": "a=\"navgurukul\"<br>b= 2016<br>print(a+\",\" + b + \"me shuru hua tha\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Correct code</span> :-<br>a='navgurukul'<br>b = 201<br>b = str(b)<br>print(a+','+ b + 'me shuru hua tha')"
 	},
 	{
 		"component": "text",
@@ -39,6 +49,11 @@
 		"value": "a=\"navgurukul\"<br>b=13<br>print(a+b)"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Correct code</span> :-<br>a='navgurukul'<br>b = 13<br>b = str(b)<br>print(a+b)"
+	},
+	{
 		"component": "text",
 		"value": "D."
 	},
@@ -49,6 +64,11 @@
 		"value": "a=\"12\"<br>b=13.1<br>print(a+b)"
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Correct code</span> :-<br>a = '12'<br>b = 13.1<br>a = float(a)<br>print(a+b)"
+	},
+	{
 		"component": "text",
 		"value": "E."
 	},
@@ -57,5 +77,10 @@
 		"type": "python",
 		"title": "",
 		"value": "a = boolean(\"\")<br>b = boolean(\" \")<br>print(a+b)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Correct code</span> :-<br>a = bool('') <br>b = bool(' ')<br>print(a+b)"
 	}
 ]

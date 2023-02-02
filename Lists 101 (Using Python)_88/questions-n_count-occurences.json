@@ -2,11 +2,11 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Count Occurences"
+		"value": "Example 2"
 	},
 	{
 		"component": "text",
-		"value": "<b>Occurences</b> - is made from the word <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occur</span> which means that how many times a certain character or word appears."
+		"value": "<b>Occurences</b> - is made from the word <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">occur</span> which means that how many times a certain character or word appears."
 	},
 	{
 		"component": "text",
@@ -32,26 +32,17 @@
 	},
 	{
 		"component": "text",
-		"value": "We have to count the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occurences</span> of characters present in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">char_list</span> and we have to <span style=\"\">save</span> in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span>, then we have to use that nested list to print the <span style=\"\">output</span>."
+		"value": "We have to count the <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">occurences</span> of characters present in the <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">char_list</span> and we have to <span style=\"\">save</span> in the <span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">nested list</span>, then we have to use that nested list to print the <span style=\"\">output</span>."
 	},
 	{
 		"component": "header",
 		"variant": 3,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>"
+		"value": "<span style=\"background-color: rgba(233, 245, 233, 0.83); border-radius: 2px; padding: 2px\">solution:-</span>"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "char_list = []"
-	},
-	{
-		"component": "header",
-		"variant": 4,
-		"value": "Solution"
-	},
-	{
-		"component": "text",
-		"value": "[]"
+		"value": "char_list = ['a', 'n', 't', 'a', 'a', 't', 'n', 'n', 'a', 'x', 'u', 'g', 'a', 'x', 'a']<br>result_list = []<br>for elements in char_list:<br>&emsp;sub_list = []<br>&emsp;sub_list.append(elements)<br>&emsp;sub_list.append(char_list.count(elements))<br>&emsp;if (sub_list not in result_list):<br>&emsp;&emsp;result_list.append(sub_list)<br>print(result_list)"
 	}
 ]

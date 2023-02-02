@@ -7,5 +7,23 @@
   {
     "component": "text",
     "value": "QuestionSet3_loops-code-question1_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet3_loops-code-question1_key3"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet3_loops-code-question1_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "QuestionSet3_loops-code-question1_key5"
+  },
+  {
+    "component": "text",
+    "value": "QuestionSet3_loops-code-question1_key6"
   }
 ]

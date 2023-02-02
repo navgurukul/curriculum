@@ -57,7 +57,8 @@
     "value": "number = int(input(\"enter the number\"))<br>print(number and 1)"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 4,
     "value": "Types_Logical_key11"
   },
   {
@@ -189,6 +190,11 @@
     }
   },
   {
+    "component": "header",
+    "variant": 4,
+    "value": "Types_Logical_key33"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
@@ -197,19 +203,18 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "Types_Logical_key33"
-  },
-  {
-    "component": "text",
     "value": "Types_Logical_key34"
   },
   {
-    "component": "header",
-    "variant": 4,
+    "component": "text",
     "value": "Types_Logical_key35"
   },
   {
+    "component": "text",
+    "value": "Types_Logical_key36"
+  },
+  {
     "component": "youtube",
-    "value": "ZoqMiFKspAA&t=1s"
+    "value": " ZoqMiFKspAA&t=1s "
   }
 ]

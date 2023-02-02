@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Report Card</span>"
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Example 2"
 	},
 	{
 		"component": "text",
@@ -12,7 +12,16 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65, 76],<br>&emsp;[95, 45, 78, 52, 49]<br>]"
+		"value": "marks = [<br>&emsp;[78, 76, 94, 86, 88],<br>&emsp;[91, 71, 98, 65, 76],<br>&emsp;[95, 45, 78, 52, 49]<br>]<br>totalMarks=0<br>for i in range (3):<br>&emsp;for j in range (5):<br>&emsp;&emsp; totalMarks = totalMarks+marks[i][j]<br>print(totalMarks)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"value": "1142"
 	},
 	{
 		"component": "text",

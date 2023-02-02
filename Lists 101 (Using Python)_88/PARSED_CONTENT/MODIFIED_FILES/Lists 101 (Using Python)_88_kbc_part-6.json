@@ -1,12 +1,14 @@
 [
   {
-    "component": "header",
-    "variant": 2,
+    "component": "text",
     "value": "kbc_part-6_key1"
   },
   {
     "component": "text",
-    "value": "kbc_part-6_key2"
+    "value": "kbc_part-6_key2",
+    "decoration": {
+      "type": "bullet"
+    }
   },
   {
     "component": "text",
@@ -23,16 +25,16 @@
     }
   },
   {
+    "component": "header",
+    "variant": 4,
+    "value": "kbc_part-6_key5"
+  },
+  {
     "component": "text",
-    "value": "kbc_part-6_key5",
+    "value": "kbc_part-6_key6",
     "decoration": {
       "type": "bullet"
     }
-  },
-  {
-    "component": "header",
-    "variant": 4,
-    "value": "kbc_part-6_key6"
   },
   {
     "component": "text",
@@ -42,20 +44,13 @@
     }
   },
   {
-    "component": "text",
-    "value": "kbc_part-6_key8",
-    "decoration": {
-      "type": "bullet"
-    }
-  },
-  {
     "component": "header",
     "variant": 4,
-    "value": "kbc_part-6_key9"
+    "value": "kbc_part-6_key8"
   },
   {
     "component": "text",
-    "value": "kbc_part-6_key10",
+    "value": "kbc_part-6_key9",
     "decoration": {
       "type": "bullet"
     }
@@ -63,10 +58,10 @@
   {
     "component": "header",
     "variant": 3,
-    "value": "kbc_part-6_key11"
+    "value": "kbc_part-6_key10"
   },
   {
     "component": "text",
-    "value": "kbc_part-6_key12"
+    "value": "kbc_part-6_key11"
   }
 ]

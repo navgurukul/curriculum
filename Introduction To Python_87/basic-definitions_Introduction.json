@@ -1,7 +1,8 @@
 [
 	{
-		"component": "text",
-		"value": "<b>Introduction of <span style=\"\">Python</span> in English :-</b>"
+		"component": "header",
+		"variant": 2,
+		"value": "Introduction of Python in English :-"
 	},
 	{
 		"component": "youtube",
@@ -16,8 +17,9 @@
 		"value": "NYzN0a1U8mI"
 	},
 	{
-		"component": "text",
-		"value": "<b>Introduction of <span style=\"\">Python</span> in Hindi :-</b>"
+		"component": "header",
+		"variant": 2,
+		"value": "Introduction of Python in Hindi :-"
 	},
 	{
 		"component": "youtube",

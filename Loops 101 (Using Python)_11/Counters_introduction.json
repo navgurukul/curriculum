@@ -17,11 +17,20 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "count=1<br>While count<=5:<br>&emsp;print(\"Working\")<br>&emsp;count = count + 1"
+		"value": "count=1<br>while count<=5:<br>&emsp;print(\"Working\")<br>&emsp;count = count + 1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Let us understand Counter with the help of an example.</span>"
+		"value": "Working<br>Working<br>Working<br>Working<br>Working<br>"
+	},
+	{
+		"component": "text",
+		"value": "<b>Let us understand Counter with the help of an example.</b>"
 	},
 	{
 		"component": "text",

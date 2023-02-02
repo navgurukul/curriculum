@@ -1,7 +1,17 @@
 [
 	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 1"
+	},
+	{
 		"component": "text",
 		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Program</span> :-"
 	},
 	{
 		"component": "code",
@@ -28,5 +38,15 @@
 	{
 		"component": "text",
 		"value": "D.     {(1,2):1}"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Output:-"
+	},
+	{
+		"component": "text",
+		"variant": 4,
+		"value": "B.1"
 	}
 ]

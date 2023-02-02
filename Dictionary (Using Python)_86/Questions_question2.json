@@ -2,7 +2,7 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question 2"
+		"value": "Example 2"
 	},
 	{
 		"component": "text",
@@ -11,25 +11,27 @@
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Example :-"
+		"value": "Program :-"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "dict1={“name”:”Raju”, “marks”:56}"
+		"value": "dict1={\"name\":\"Raju\",\"marks\":56}<br>a=input (\"enter the value=\")<br>if (a==\"name\"):<br>  print (dict1[\"name\"])<br>elif(a==\"marks\"):<br>  print(dict1[\"marks\"])<br>else:<br>  print (\"invalid input\")"
 	},
 	{
 		"component": "header",
 		"variant": 4,
-		"value": "Note :-"
+		"value": "Output :-"
 	},
 	{
 		"component": "text",
-		"value": "If <span style=\"\">input</span> is “name” then <span style=\"\">output</span> will be “exist”"
+		"variant": 4,
+		"value": "enter the value=name"
 	},
 	{
 		"component": "text",
-		"value": "If <span style=\"\">input</span> is “class” then <span style=\"\">output</span> will be “not exists”."
+		"variant": 4,
+		"value": "Raju"
 	}
 ]

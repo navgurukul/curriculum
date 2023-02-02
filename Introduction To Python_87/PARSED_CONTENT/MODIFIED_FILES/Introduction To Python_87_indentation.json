@@ -50,7 +50,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "a = 10<br>if a * 2 == 20:<br>&emsp;print( )<br>else:<br>&emsp;print(\"Variable a when multiplied by 2 does not give 20.\")"
+    "value": "a = 10<br>if a * 2 == 20:<br>&emsp;print(\"Variable a when multiplied by 2 gives 20.\")<br>else:<br>&emsp;print(\"Variable a when multiplied by 2 does not give 20.\")"
   },
   {
     "component": "text",
@@ -116,7 +116,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 1<br>while counter < 10:<br>&emsp;print(\"The counter is\" + str(counter))<br>&emsp;counter = counter + 1<br>&emsp;print('--------')"
+    "value": "counter = 1<br>while counter < 10:<br>&emsp;print(\"The counter is \" + str(counter))<br>&emsp;counter = counter + 1<br>&emsp;print('--------')"
   },
   {
     "component": "text",

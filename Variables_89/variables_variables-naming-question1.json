@@ -2,7 +2,12 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Question"
+		"value": "Variables naming Example-1"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example"
 	},
 	{
 		"component": "text",
@@ -35,5 +40,23 @@
 			"type": "number",
 			"value": 4
 		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Program</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "var_12 = 56.67<br>_var = \"hii\"<br>_12 = 56<br>print(var_12)<br>print(_var)<br>print(_12)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "56.67<br>hii<br>56"
 	}
 ]
